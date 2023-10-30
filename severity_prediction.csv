@@ -1,0 +1,3696 @@
+﻿disease,n,p,k,temperature,humidity,severity_level
+Leaf Spot,100,50,100,20,60,1
+Leaf Spot,101,51,101,20.1,61,1
+Leaf Spot,102,52,102,20.2,62,1
+Leaf Spot,103,53,103,20.3,63,1
+Leaf Spot,104,54,104,20.4,64,1
+Leaf Spot,105,55,105,20.5,65,1
+Leaf Spot,106,56,106,20.6,66,1
+Leaf Spot,107,57,107,20.7,67,1
+Leaf Spot,108,58,108,20.8,68,1
+Leaf Spot,109,59,109,20.9,69,1
+Leaf Spot,110,60,110,21,70,1
+Leaf Spot,111,61,111,21.1,60,1
+Leaf Spot,112,62,112,21.2,61,1
+Leaf Spot,113,63,113,21.3,62,1
+Leaf Spot,114,64,114,21.4,63,1
+Leaf Spot,115,65,115,21.5,64,1
+Leaf Spot,116,66,116,21.6,65,1
+Leaf Spot,117,67,117,21.7,66,1
+Leaf Spot,118,68,118,21.8,67,1
+Leaf Spot,119,69,119,21.9,68,1
+Leaf Spot,120,70,120,22,69,1
+Leaf Spot,121,71,121,22.1,70,1
+Leaf Spot,122,72,122,22.2,60,1
+Leaf Spot,123,73,123,22.3,61,1
+Leaf Spot,124,74,124,22.4,62,1
+Leaf Spot,125,75,125,22.5,63,1
+Leaf Spot,126,76,126,22.6,64,1
+Leaf Spot,127,77,127,22.7,65,1
+Leaf Spot,128,78,128,22.8,66,1
+Leaf Spot,129,79,129,22.9,67,1
+Leaf Spot,130,80,130,23,68,1
+Leaf Spot,131,81,131,23.1,69,1
+Leaf Spot,132,82,132,23.2,70,1
+Leaf Spot,133,83,133,23.3,60,1
+Leaf Spot,134,84,134,23.4,61,1
+Leaf Spot,135,85,135,23.5,62,1
+Leaf Spot,136,86,136,23.6,63,1
+Leaf Spot,137,87,137,23.7,64,1
+Leaf Spot,138,88,138,23.8,65,1
+Leaf Spot,139,89,139,23.9,66,1
+Leaf Spot,140,90,140,24,67,1
+Leaf Spot,141,91,141,24.1,68,1
+Leaf Spot,142,92,142,24.2,69,1
+Leaf Spot,143,93,143,24.3,70,1
+Leaf Spot,144,94,144,24.4,60,1
+Leaf Spot,145,95,145,24.5,61,1
+Leaf Spot,146,96,146,24.6,62,1
+Leaf Spot,147,97,147,24.7,63,1
+Leaf Spot,148,98,148,24.8,64,1
+Leaf Spot,149,99,149,24.9,65,1
+Leaf Spot,150,100,150,25,66,1
+Leaf Spot,100,50,100,25.1,67,1
+Leaf Spot,101,51,101,25.2,68,1
+Leaf Spot,102,52,102,25.3,69,1
+Leaf Spot,103,53,103,25.4,70,1
+Leaf Spot,104,54,104,25.5,60,1
+Leaf Spot,105,55,105,25.6,61,1
+Leaf Spot,106,56,106,25.7,62,1
+Leaf Spot,107,57,107,25.8,63,1
+Leaf Spot,108,58,108,25.9,64,1
+Leaf Spot,109,59,109,26,65,1
+Leaf Spot,110,60,110,26.1,66,1
+Leaf Spot,111,61,111,26.2,67,1
+Leaf Spot,112,62,112,26.3,68,1
+Leaf Spot,113,63,113,26.4,69,1
+Leaf Spot,114,64,114,26.5,70,1
+Leaf Spot,115,65,115,26.6,60,1
+Leaf Spot,116,66,116,26.7,61,1
+Leaf Spot,117,67,117,26.8,62,1
+Leaf Spot,118,68,118,26.9,63,1
+Leaf Spot,119,69,119,27,64,1
+Leaf Spot,120,70,120,27.1,65,1
+Leaf Spot,121,71,121,27.2,66,1
+Leaf Spot,122,72,122,27.3,67,1
+Leaf Spot,123,73,123,27.4,68,1
+Leaf Spot,124,74,124,27.5,69,1
+Leaf Spot,125,75,125,27.6,70,1
+Leaf Spot,126,76,126,27.7,60,1
+Leaf Spot,127,77,127,27.8,61,1
+Leaf Spot,128,78,128,27.9,62,1
+Leaf Spot,129,79,129,28,63,1
+Leaf Spot,130,80,130,28.1,64,1
+Leaf Spot,131,81,131,28.2,65,1
+Leaf Spot,132,82,132,28.3,66,1
+Leaf Spot,133,83,133,28.4,67,1
+Leaf Spot,134,84,134,28.5,68,1
+Leaf Spot,135,85,135,28.6,69,1
+Leaf Spot,136,86,136,28.7,70,1
+Leaf Spot,137,87,137,28.8,60,1
+Leaf Spot,138,88,138,28.9,61,1
+Leaf Spot,139,89,139,29,62,1
+Leaf Spot,140,90,140,29.1,63,1
+Leaf Spot,141,91,141,29.2,64,1
+Leaf Spot,142,92,142,29.3,65,1
+Leaf Spot,143,93,143,29.4,66,1
+Leaf Spot,144,94,144,29.5,67,1
+Leaf Spot,145,95,145,29.6,68,1
+Leaf Spot,146,96,146,29.7,69,1
+Leaf Spot,147,97,147,29.8,70,1
+Leaf Spot,148,98,148,29.9,60,1
+Leaf Spot,149,99,149,30,61,1
+Leaf Spot,100,50,100,15,60,1
+Leaf Spot,101,51,101,15.1,61,1
+Leaf Spot,102,52,102,15.2,62,1
+Leaf Spot,103,53,103,15.3,63,1
+Leaf Spot,104,54,104,15.4,64,1
+Leaf Spot,105,55,105,15.5,65,1
+Leaf Spot,106,56,106,15.6,66,1
+Leaf Spot,107,57,107,15.7,67,1
+Leaf Spot,108,58,108,15.8,68,1
+Leaf Spot,109,59,109,15.9,69,1
+Leaf Spot,110,60,110,16,70,1
+Leaf Spot,111,61,111,16.1,60,1
+Leaf Spot,112,62,112,16.2,61,1
+Leaf Spot,113,63,113,16.3,62,1
+Leaf Spot,114,64,114,16.4,63,1
+Leaf Spot,115,65,115,16.5,64,1
+Leaf Spot,116,66,116,16.6,65,1
+Leaf Spot,117,67,117,16.7,66,1
+Leaf Spot,118,68,118,16.8,67,1
+Leaf Spot,119,69,119,16.9,68,1
+Leaf Spot,120,70,120,17,69,1
+Leaf Spot,121,71,121,17.1,70,1
+Leaf Spot,122,72,122,17.2,60,1
+Leaf Spot,123,73,123,17.3,61,1
+Leaf Spot,124,74,124,17.4,62,1
+Leaf Spot,125,75,125,17.5,63,1
+Leaf Spot,100,50,100,17.6,64,1
+Leaf Spot,101,51,101,17.7,65,1
+Leaf Spot,102,52,102,17.8,66,1
+Leaf Spot,103,53,103,17.9,67,1
+Leaf Spot,104,54,104,18,68,1
+Leaf Spot,105,55,105,18.1,69,1
+Leaf Spot,106,56,106,18.2,70,1
+Leaf Spot,107,57,107,18.3,60,1
+Leaf Spot,108,58,108,18.4,61,1
+Leaf Spot,109,59,109,18.5,62,1
+Leaf Spot,110,60,110,18.6,63,1
+Leaf Spot,111,61,111,18.7,64,1
+Leaf Spot,112,62,112,18.8,65,1
+Leaf Spot,113,63,113,18.9,66,1
+Leaf Spot,114,64,114,19,67,1
+Leaf Spot,115,65,115,19.1,68,1
+Leaf Spot,116,66,116,19.2,69,1
+Leaf Spot,117,67,117,19.3,70,1
+Leaf Spot,118,68,118,19.4,60,1
+Leaf Spot,119,69,119,19.5,61,1
+Leaf Spot,120,70,120,19.6,62,1
+Leaf Spot,121,71,121,19.7,63,1
+Leaf Spot,122,72,122,19.8,64,1
+Leaf Spot,123,73,123,19.9,65,1
+Leaf Spot,124,74,124,20,66,1
+Anthracnose,100,50,100,20,60,1
+Anthracnose,101,51,101,20.1,61,1
+Anthracnose,102,52,102,20.2,62,1
+Anthracnose,103,53,103,20.3,63,1
+Anthracnose,104,54,104,20.4,64,1
+Anthracnose,105,55,105,20.5,65,1
+Anthracnose,106,56,106,20.6,66,1
+Anthracnose,107,57,107,20.7,67,1
+Anthracnose,108,58,108,20.8,68,1
+Anthracnose,109,59,109,20.9,69,1
+Anthracnose,110,60,110,21,70,1
+Anthracnose,111,61,111,21.1,60,1
+Anthracnose,112,62,112,21.2,61,1
+Anthracnose,113,63,113,21.3,62,1
+Anthracnose,114,64,114,21.4,63,1
+Anthracnose,115,65,115,21.5,64,1
+Anthracnose,116,66,116,21.6,65,1
+Anthracnose,117,67,117,21.7,66,1
+Anthracnose,118,68,118,21.8,67,1
+Anthracnose,119,69,119,21.9,68,1
+Anthracnose,120,70,120,22,69,1
+Anthracnose,121,71,121,22.1,70,1
+Anthracnose,122,72,122,22.2,60,1
+Anthracnose,123,73,123,22.3,61,1
+Anthracnose,124,74,124,22.4,62,1
+Anthracnose,125,75,125,22.5,63,1
+Anthracnose,126,76,126,22.6,64,1
+Anthracnose,127,77,127,22.7,65,1
+Anthracnose,128,78,128,22.8,66,1
+Anthracnose,129,79,129,22.9,67,1
+Anthracnose,130,80,130,23,68,1
+Anthracnose,131,81,131,23.1,69,1
+Anthracnose,132,82,132,23.2,70,1
+Anthracnose,133,83,133,23.3,60,1
+Anthracnose,134,84,134,23.4,61,1
+Anthracnose,135,85,135,23.5,62,1
+Anthracnose,136,86,136,23.6,63,1
+Anthracnose,137,87,137,23.7,64,1
+Anthracnose,138,88,138,23.8,65,1
+Anthracnose,139,89,139,23.9,66,1
+Anthracnose,140,90,140,24,67,1
+Anthracnose,141,91,141,24.1,68,1
+Anthracnose,142,92,142,24.2,69,1
+Anthracnose,143,93,143,24.3,70,1
+Anthracnose,144,94,144,24.4,60,1
+Anthracnose,145,95,145,24.5,61,1
+Anthracnose,146,96,146,24.6,62,1
+Anthracnose,147,97,147,24.7,63,1
+Anthracnose,148,98,148,24.8,64,1
+Anthracnose,149,99,149,24.9,65,1
+Anthracnose,150,100,150,25,66,1
+Anthracnose,100,50,100,25.1,67,1
+Anthracnose,101,51,101,25.2,68,1
+Anthracnose,102,52,102,25.3,69,1
+Anthracnose,103,53,103,25.4,70,1
+Anthracnose,104,54,104,25.5,60,1
+Anthracnose,105,55,105,25.6,61,1
+Anthracnose,106,56,106,25.7,62,1
+Anthracnose,107,57,107,25.8,63,1
+Anthracnose,108,58,108,25.9,64,1
+Anthracnose,109,59,109,26,65,1
+Anthracnose,110,60,110,26.1,66,1
+Anthracnose,111,61,111,26.2,67,1
+Anthracnose,112,62,112,26.3,68,1
+Anthracnose,113,63,113,26.4,69,1
+Anthracnose,114,64,114,26.5,70,1
+Dieback,100,50,100,20,60,1
+Dieback,101,51,101,20.1,61,1
+Dieback,102,52,102,20.2,62,1
+Dieback,103,53,103,20.3,63,1
+Dieback,104,54,104,20.4,64,1
+Dieback,105,55,105,20.5,65,1
+Dieback,106,56,106,20.6,66,1
+Dieback,107,57,107,20.7,67,1
+Dieback,108,58,108,20.8,68,1
+Dieback,109,59,109,20.9,69,1
+Dieback,110,60,110,21,70,1
+Dieback,111,61,111,21.1,60,1
+Dieback,112,62,112,21.2,61,1
+Dieback,113,63,113,21.3,62,1
+Dieback,114,64,114,21.4,63,1
+Dieback,115,65,115,21.5,64,1
+Dieback,116,66,116,21.6,65,1
+Dieback,117,67,117,21.7,66,1
+Dieback,118,68,118,21.8,67,1
+Dieback,119,69,119,21.9,68,1
+Dieback,120,70,120,22,69,1
+Dieback,121,71,121,22.1,70,1
+Dieback,122,72,122,22.2,60,1
+Dieback,123,73,123,22.3,61,1
+Dieback,124,74,124,22.4,62,1
+Dieback,125,75,125,22.5,63,1
+Dieback,126,76,126,22.6,64,1
+Dieback,127,77,127,22.7,65,1
+Dieback,128,78,128,22.8,66,1
+Dieback,129,79,129,22.9,67,1
+Dieback,130,80,130,23,68,1
+Dieback,131,81,131,23.1,69,1
+Dieback,132,82,132,23.2,70,1
+Dieback,133,83,133,23.3,60,1
+Dieback,134,84,134,23.4,61,1
+Dieback,135,85,135,23.5,62,1
+Dieback,136,86,136,23.6,63,1
+Dieback,137,87,137,23.7,64,1
+Dieback,138,88,138,23.8,65,1
+Dieback,139,89,139,23.9,66,1
+Dieback,140,90,140,24,67,1
+Dieback,141,91,141,24.1,68,1
+Dieback,142,92,142,24.2,69,1
+Dieback,143,93,143,24.3,70,1
+Dieback,144,94,144,24.4,60,1
+Dieback,145,95,145,24.5,61,1
+Dieback,146,96,146,24.6,62,1
+Dieback,147,97,147,24.7,63,1
+Dieback,148,98,148,24.8,64,1
+Dieback,149,99,149,24.9,65,1
+Dieback,150,100,150,25,66,1
+Dieback,100,50,100,25.1,67,1
+Dieback,101,51,101,25.2,68,1
+Dieback,102,52,102,25.3,69,1
+Dieback,103,53,103,25.4,70,1
+Dieback,104,54,104,25.5,60,1
+Dieback,105,55,105,25.6,61,1
+Dieback,106,56,106,25.7,62,1
+Dieback,107,57,107,25.8,63,1
+Dieback,108,58,108,25.9,64,1
+Dieback,109,59,109,26,65,1
+Dieback,110,60,110,26.1,66,1
+Dieback,111,61,111,26.2,67,1
+Dieback,112,62,112,26.3,68,1
+Dieback,113,63,113,26.4,69,1
+Dieback,114,64,114,26.5,70,1
+Root Rot,100,50,100,15,60,1
+Root Rot,101,51,101,15.1,61,1
+Root Rot,102,52,102,15.2,62,1
+Root Rot,103,53,103,15.3,63,1
+Root Rot,104,54,104,15.4,64,1
+Root Rot,105,55,105,15.5,65,1
+Root Rot,106,56,106,15.6,66,1
+Root Rot,107,57,107,15.7,67,1
+Root Rot,108,58,108,15.8,68,1
+Root Rot,109,59,109,15.9,69,1
+Root Rot,110,60,110,16,70,1
+Root Rot,111,61,111,16.1,60,1
+Root Rot,112,62,112,16.2,61,1
+Root Rot,113,63,113,16.3,62,1
+Root Rot,114,64,114,16.4,63,1
+Root Rot,115,65,115,16.5,64,1
+Root Rot,116,66,116,16.6,65,1
+Root Rot,117,67,117,16.7,66,1
+Root Rot,118,68,118,16.8,67,1
+Root Rot,119,69,119,16.9,68,1
+Root Rot,120,70,120,17,69,1
+Root Rot,121,71,121,17.1,70,1
+Root Rot,122,72,122,17.2,60,1
+Root Rot,123,73,123,17.3,61,1
+Root Rot,124,74,124,17.4,62,1
+Root Rot,125,75,125,17.5,63,1
+Root Rot,126,76,126,17.6,64,1
+Root Rot,127,77,127,17.7,65,1
+Root Rot,128,78,128,17.8,66,1
+Root Rot,129,79,129,17.9,67,1
+Root Rot,130,80,130,18,68,1
+Root Rot,131,81,131,18.1,69,1
+Root Rot,132,82,132,18.2,70,1
+Root Rot,133,83,133,18.3,60,1
+Root Rot,134,84,134,18.4,61,1
+Root Rot,135,85,135,18.5,62,1
+Root Rot,136,86,136,18.6,63,1
+Root Rot,137,87,137,18.7,64,1
+Root Rot,138,88,138,18.8,65,1
+Root Rot,139,89,139,18.9,66,1
+Root Rot,140,90,140,19,67,1
+Root Rot,141,91,141,19.1,68,1
+Root Rot,142,92,142,19.2,69,1
+Root Rot,143,93,143,19.3,70,1
+Root Rot,144,94,144,19.4,60,1
+Root Rot,145,95,145,19.5,61,1
+Root Rot,146,96,146,19.6,62,1
+Root Rot,147,97,147,19.7,63,1
+Root Rot,148,98,148,19.8,64,1
+Root Rot,149,99,149,19.9,65,1
+Root Rot,150,100,150,20,66,1
+Root Rot,100,50,100,20.1,67,1
+Root Rot,101,51,101,20.2,68,1
+Root Rot,102,52,102,20.3,69,1
+Root Rot,103,53,103,20.4,70,1
+Root Rot,104,54,104,20.5,60,1
+Root Rot,105,55,105,20.6,61,1
+Root Rot,106,56,106,20.7,62,1
+Root Rot,107,57,107,20.8,63,1
+Root Rot,108,58,108,20.9,64,1
+Root Rot,109,59,109,21,65,1
+Root Rot,110,60,110,21.1,66,1
+Root Rot,111,61,111,21.2,67,1
+Root Rot,112,62,112,21.3,68,1
+Root Rot,113,63,113,21.4,69,1
+Root Rot,114,64,114,21.5,70,1
+Root Rot,115,65,115,21.6,60,1
+Root Rot,116,66,116,21.7,61,1
+Root Rot,117,67,117,21.8,62,1
+Root Rot,118,68,118,21.9,63,1
+Root Rot,119,69,119,22,64,1
+Root Rot,120,70,120,22.1,65,1
+Root Rot,121,71,121,22.2,66,1
+Root Rot,122,72,122,22.3,67,1
+Root Rot,123,73,123,22.4,68,1
+Root Rot,124,74,124,22.5,69,1
+Root Rot,125,75,125,22.6,70,1
+Root Rot,126,76,126,22.7,60,1
+Root Rot,127,77,127,22.8,61,1
+Root Rot,128,78,128,22.9,62,1
+Root Rot,129,79,129,23,63,1
+Root Rot,130,80,130,23.1,64,1
+Root Rot,131,81,131,23.2,65,1
+Root Rot,132,82,132,23.3,66,1
+Root Rot,133,83,133,23.4,67,1
+Root Rot,134,84,134,23.5,68,1
+Root Rot,135,85,135,23.6,69,1
+Root Rot,136,86,136,23.7,70,1
+Root Rot,137,87,137,23.8,60,1
+Root Rot,138,88,138,23.9,61,1
+Root Rot,139,89,139,24,62,1
+Root Rot,140,90,140,24.1,63,1
+Root Rot,141,91,141,24.2,64,1
+Root Rot,142,92,142,24.3,65,1
+Root Rot,143,93,143,24.4,66,1
+Root Rot,144,94,144,24.5,67,1
+Root Rot,145,95,145,24.6,68,1
+Root Rot,146,96,146,24.7,69,1
+Root Rot,147,97,147,24.8,70,1
+Root Rot,148,98,148,24.9,60,1
+Root Rot,149,99,149,25,61,1
+Root Rot,100,50,100,30,60,1
+Root Rot,101,51,101,30.1,61,1
+Root Rot,102,52,102,30.2,62,1
+Root Rot,103,53,103,30.3,63,1
+Root Rot,104,54,104,30.4,64,1
+Root Rot,105,55,105,30.5,65,1
+Root Rot,106,56,106,30.6,66,1
+Root Rot,107,57,107,30.7,67,1
+Root Rot,108,58,108,30.8,68,1
+Root Rot,109,59,109,30.9,69,1
+Root Rot,110,60,110,31,70,1
+Root Rot,111,61,111,31.1,60,1
+Root Rot,112,62,112,31.2,61,1
+Root Rot,113,63,113,31.3,62,1
+Root Rot,114,64,114,31.4,63,1
+Root Rot,115,65,115,31.5,64,1
+Root Rot,116,66,116,31.6,65,1
+Root Rot,117,67,117,31.7,66,1
+Root Rot,118,68,118,31.8,67,1
+Root Rot,119,69,119,31.9,68,1
+Root Rot,120,70,120,32,69,1
+Root Rot,121,71,121,32.1,70,1
+Root Rot,122,72,122,32.2,60,1
+Root Rot,123,73,123,32.3,61,1
+Root Rot,124,74,124,32.4,62,1
+Root Rot,125,75,125,32.5,63,1
+Root Rot,126,76,126,32.6,64,1
+Root Rot,127,77,127,32.7,65,1
+Root Rot,128,78,128,32.8,66,1
+Root Rot,129,79,129,32.9,67,1
+Root Rot,130,80,130,33,68,1
+Root Rot,131,81,131,33.1,69,1
+Root Rot,132,82,132,33.2,70,1
+Root Rot,133,83,133,33.3,60,1
+Root Rot,134,84,134,33.4,61,1
+Root Rot,135,85,135,33.5,62,1
+Root Rot,136,86,136,33.6,63,1
+Root Rot,137,87,137,33.7,64,1
+Root Rot,138,88,138,33.8,65,1
+Root Rot,139,89,139,33.9,66,1
+Root Rot,140,90,140,34,67,1
+Root Rot,141,91,141,34.1,68,1
+Root Rot,142,92,142,34.2,69,1
+Root Rot,143,93,143,34.3,70,1
+Root Rot,144,94,144,34.4,60,1
+Root Rot,145,95,145,34.5,61,1
+Root Rot,146,96,146,34.6,62,1
+Root Rot,147,97,147,34.7,63,1
+Root Rot,148,98,148,34.8,64,1
+Root Rot,149,99,149,34.9,65,1
+Root Rot,150,100,150,35,66,1
+Root Rot,100,50,100,35.1,67,1
+Root Rot,101,51,101,35.2,68,1
+Root Rot,102,52,102,35.3,69,1
+Root Rot,103,53,103,35.4,70,1
+Root Rot,104,54,104,35.5,60,1
+Root Rot,105,55,105,35.6,61,1
+Root Rot,106,56,106,35.7,62,1
+Root Rot,107,57,107,35.8,63,1
+Root Rot,108,58,108,35.9,64,1
+Root Rot,109,59,109,36,65,1
+Root Rot,110,60,110,36.1,66,1
+Root Rot,111,61,111,36.2,67,1
+Root Rot,112,62,112,36.3,68,1
+Root Rot,113,63,113,36.4,69,1
+Root Rot,114,64,114,36.5,70,1
+Root Rot,115,65,115,36.6,60,1
+Root Rot,116,66,116,36.7,61,1
+Root Rot,117,67,117,36.8,62,1
+Root Rot,118,68,118,36.9,63,1
+Root Rot,119,69,119,37,64,1
+Root Rot,120,70,120,37.1,65,1
+Root Rot,121,71,121,37.2,66,1
+Root Rot,122,72,122,37.3,67,1
+Root Rot,123,73,123,37.4,68,1
+Root Rot,124,74,124,37.5,69,1
+Root Rot,125,75,125,37.6,70,1
+Root Rot,126,76,126,37.7,60,1
+Root Rot,127,77,127,37.8,61,1
+Root Rot,128,78,128,37.9,62,1
+Root Rot,129,79,129,38,63,1
+Root Rot,130,80,130,38.1,64,1
+Root Rot,131,81,131,38.2,65,1
+Root Rot,132,82,132,38.3,66,1
+Root Rot,133,83,133,38.4,67,1
+Root Rot,134,84,134,38.5,68,1
+Root Rot,135,85,135,38.6,69,1
+Root Rot,136,86,136,38.7,70,1
+Root Rot,137,87,137,38.8,60,1
+Root Rot,138,88,138,38.9,61,1
+Root Rot,139,89,139,39,62,1
+Root Rot,140,90,140,39.1,63,1
+Root Rot,141,91,141,39.2,64,1
+Root Rot,142,92,142,39.3,65,1
+Root Rot,143,93,143,39.4,66,1
+Root Rot,144,94,144,39.5,67,1
+Root Rot,145,95,145,39.6,68,1
+Root Rot,146,96,146,39.7,69,1
+Root Rot,147,97,147,39.8,70,1
+Root Rot,148,98,148,39.9,60,1
+Root Rot,149,99,149,40,61,1
+Nutrient Deficiency,100,50,100,20,60,1
+Nutrient Deficiency,101,51,101,20.1,61,1
+Nutrient Deficiency,102,52,102,20.2,62,1
+Nutrient Deficiency,103,53,103,20.3,63,1
+Nutrient Deficiency,104,54,104,20.4,64,1
+Nutrient Deficiency,105,55,105,20.5,65,1
+Nutrient Deficiency,106,56,106,20.6,66,1
+Nutrient Deficiency,107,57,107,20.7,67,1
+Nutrient Deficiency,108,58,108,20.8,68,1
+Nutrient Deficiency,109,59,109,20.9,69,1
+Nutrient Deficiency,110,60,110,21,70,1
+Nutrient Deficiency,111,61,111,21.1,60,1
+Nutrient Deficiency,112,62,112,21.2,61,1
+Nutrient Deficiency,113,63,113,21.3,62,1
+Nutrient Deficiency,114,64,114,21.4,63,1
+Nutrient Deficiency,115,65,115,21.5,64,1
+Nutrient Deficiency,116,66,116,21.6,65,1
+Nutrient Deficiency,117,67,117,21.7,66,1
+Nutrient Deficiency,118,68,118,21.8,67,1
+Nutrient Deficiency,119,69,119,21.9,68,1
+Nutrient Deficiency,120,70,120,22,69,1
+Nutrient Deficiency,121,71,121,22.1,70,1
+Nutrient Deficiency,122,72,122,22.2,60,1
+Nutrient Deficiency,123,73,123,22.3,61,1
+Nutrient Deficiency,124,74,124,22.4,62,1
+Nutrient Deficiency,125,75,125,22.5,63,1
+Nutrient Deficiency,126,76,126,22.6,64,1
+Nutrient Deficiency,127,77,127,22.7,65,1
+Nutrient Deficiency,128,78,128,22.8,66,1
+Nutrient Deficiency,129,79,129,22.9,67,1
+Nutrient Deficiency,130,80,130,23,68,1
+Nutrient Deficiency,131,81,131,23.1,69,1
+Nutrient Deficiency,132,82,132,23.2,70,1
+Nutrient Deficiency,133,83,133,23.3,60,1
+Nutrient Deficiency,134,84,134,23.4,61,1
+Nutrient Deficiency,135,85,135,23.5,62,1
+Nutrient Deficiency,136,86,136,23.6,63,1
+Nutrient Deficiency,137,87,137,23.7,64,1
+Nutrient Deficiency,138,88,138,23.8,65,1
+Nutrient Deficiency,139,89,139,23.9,66,1
+Nutrient Deficiency,140,90,140,24,67,1
+Nutrient Deficiency,141,91,141,24.1,68,1
+Nutrient Deficiency,142,92,142,24.2,69,1
+Nutrient Deficiency,143,93,143,24.3,70,1
+Nutrient Deficiency,144,94,144,24.4,60,1
+Nutrient Deficiency,145,95,145,24.5,61,1
+Nutrient Deficiency,146,96,146,24.6,62,1
+Nutrient Deficiency,147,97,147,24.7,63,1
+Nutrient Deficiency,148,98,148,24.8,64,1
+Nutrient Deficiency,149,99,149,24.9,65,1
+Nutrient Deficiency,150,100,150,25,66,1
+Nutrient Deficiency,100,50,100,25.1,67,1
+Nutrient Deficiency,101,51,101,25.2,68,1
+Nutrient Deficiency,102,52,102,25.3,69,1
+Nutrient Deficiency,103,53,103,25.4,70,1
+Nutrient Deficiency,104,54,104,25.5,60,1
+Nutrient Deficiency,105,55,105,25.6,61,1
+Nutrient Deficiency,106,56,106,25.7,62,1
+Nutrient Deficiency,107,57,107,25.8,63,1
+Nutrient Deficiency,108,58,108,25.9,64,1
+Nutrient Deficiency,109,59,109,26,65,1
+Nutrient Deficiency,110,60,110,26.1,66,1
+Nutrient Deficiency,111,61,111,26.2,67,1
+Nutrient Deficiency,112,62,112,26.3,68,1
+Nutrient Deficiency,113,63,113,26.4,69,1
+Nutrient Deficiency,114,64,114,26.5,70,1
+Nutrient Deficiency,115,65,115,26.6,60,1
+Nutrient Deficiency,116,66,116,26.7,61,1
+Nutrient Deficiency,117,67,117,26.8,62,1
+Nutrient Deficiency,118,68,118,26.9,63,1
+Nutrient Deficiency,119,69,119,27,64,1
+Nutrient Deficiency,120,70,120,27.1,65,1
+Nutrient Deficiency,121,71,121,27.2,66,1
+Nutrient Deficiency,122,72,122,27.3,67,1
+Nutrient Deficiency,123,73,123,27.4,68,1
+Nutrient Deficiency,124,74,124,27.5,69,1
+Nutrient Deficiency,125,75,125,27.6,70,1
+Nutrient Deficiency,126,76,126,27.7,60,1
+Nutrient Deficiency,127,77,127,27.8,61,1
+Nutrient Deficiency,128,78,128,27.9,62,1
+Nutrient Deficiency,129,79,129,28,63,1
+Nutrient Deficiency,130,80,130,28.1,64,1
+Nutrient Deficiency,131,81,131,28.2,65,1
+Nutrient Deficiency,132,82,132,28.3,66,1
+Nutrient Deficiency,133,83,133,28.4,67,1
+Nutrient Deficiency,134,84,134,28.5,68,1
+Nutrient Deficiency,135,85,135,28.6,69,1
+Nutrient Deficiency,136,86,136,28.7,70,1
+Nutrient Deficiency,137,87,137,28.8,60,1
+Nutrient Deficiency,138,88,138,28.9,61,1
+Nutrient Deficiency,139,89,139,29,62,1
+Nutrient Deficiency,140,90,140,29.1,63,1
+Nutrient Deficiency,141,91,141,29.2,64,1
+Nutrient Deficiency,142,92,142,29.3,65,1
+Nutrient Deficiency,143,93,143,29.4,66,1
+Nutrient Deficiency,144,94,144,29.5,67,1
+Nutrient Deficiency,145,95,145,29.6,68,1
+Nutrient Deficiency,146,96,146,29.7,69,1
+Nutrient Deficiency,147,97,147,29.8,70,1
+Nutrient Deficiency,148,98,148,29.9,60,1
+Nutrient Deficiency,149,99,149,30,61,1
+Nutrient Deficiency,100,50,100,15,60,1
+Nutrient Deficiency,101,51,101,15.1,61,1
+Nutrient Deficiency,102,52,102,15.2,62,1
+Nutrient Deficiency,103,53,103,15.3,63,1
+Nutrient Deficiency,104,54,104,15.4,64,1
+Nutrient Deficiency,105,55,105,15.5,65,1
+Nutrient Deficiency,106,56,106,15.6,66,1
+Nutrient Deficiency,107,57,107,15.7,67,1
+Nutrient Deficiency,108,58,108,15.8,68,1
+Nutrient Deficiency,109,59,109,15.9,69,1
+Nutrient Deficiency,110,60,110,16,70,1
+Nutrient Deficiency,111,61,111,16.1,60,1
+Nutrient Deficiency,112,62,112,16.2,61,1
+Nutrient Deficiency,113,63,113,16.3,62,1
+Nutrient Deficiency,114,64,114,16.4,63,1
+Nutrient Deficiency,115,65,115,16.5,64,1
+Nutrient Deficiency,116,66,116,16.6,65,1
+Nutrient Deficiency,117,67,117,16.7,66,1
+Nutrient Deficiency,118,68,118,16.8,67,1
+Nutrient Deficiency,119,69,119,16.9,68,1
+Nutrient Deficiency,120,70,120,17,69,1
+Nutrient Deficiency,121,71,121,17.1,70,1
+Nutrient Deficiency,122,72,122,17.2,60,1
+Nutrient Deficiency,123,73,123,17.3,61,1
+Nutrient Deficiency,124,74,124,17.4,62,1
+Nutrient Deficiency,125,75,125,17.5,63,1
+Nutrient Deficiency,126,76,126,17.6,64,1
+Nutrient Deficiency,127,77,127,17.7,65,1
+Nutrient Deficiency,128,78,128,17.8,66,1
+Nutrient Deficiency,129,79,129,17.9,67,1
+Nutrient Deficiency,130,80,130,18,68,1
+Nutrient Deficiency,131,81,131,18.1,69,1
+Nutrient Deficiency,132,82,132,18.2,70,1
+Nutrient Deficiency,133,83,133,18.3,60,1
+Nutrient Deficiency,134,84,134,18.4,61,1
+Nutrient Deficiency,135,85,135,18.5,62,1
+Nutrient Deficiency,136,86,136,18.6,63,1
+Nutrient Deficiency,137,87,137,18.7,64,1
+Nutrient Deficiency,138,88,138,18.8,65,1
+Nutrient Deficiency,139,89,139,18.9,66,1
+Nutrient Deficiency,140,90,140,19,67,1
+Nutrient Deficiency,141,91,141,19.1,68,1
+Nutrient Deficiency,142,92,142,19.2,69,1
+Nutrient Deficiency,143,93,143,19.3,70,1
+Nutrient Deficiency,144,94,144,19.4,60,1
+Nutrient Deficiency,145,95,145,19.5,61,1
+Nutrient Deficiency,146,96,146,19.6,62,1
+Nutrient Deficiency,147,97,147,19.7,63,1
+Nutrient Deficiency,148,98,148,19.8,64,1
+Nutrient Deficiency,149,99,149,19.9,65,1
+Nutrient Deficiency,150,100,150,20,66,1
+Nutrient Deficiency,100,50,100,20.1,67,1
+Nutrient Deficiency,101,51,101,20.2,68,1
+Nutrient Deficiency,102,52,102,20.3,69,1
+Nutrient Deficiency,103,53,103,20.4,70,1
+Nutrient Deficiency,104,54,104,20.5,60,1
+Nutrient Deficiency,105,55,105,20.6,61,1
+Nutrient Deficiency,106,56,106,20.7,62,1
+Nutrient Deficiency,107,57,107,20.8,63,1
+Nutrient Deficiency,108,58,108,20.9,64,1
+Nutrient Deficiency,109,59,109,21,65,1
+Nutrient Deficiency,110,60,110,21.1,66,1
+Nutrient Deficiency,111,61,111,21.2,67,1
+Nutrient Deficiency,112,62,112,21.3,68,1
+Nutrient Deficiency,113,63,113,21.4,69,1
+Nutrient Deficiency,114,64,114,21.5,70,1
+Nutrient Deficiency,115,65,115,21.6,60,1
+Nutrient Deficiency,116,66,116,21.7,61,1
+Nutrient Deficiency,117,67,117,21.8,62,1
+Nutrient Deficiency,118,68,118,21.9,63,1
+Nutrient Deficiency,119,69,119,22,64,1
+Nutrient Deficiency,120,70,120,22.1,65,1
+Nutrient Deficiency,121,71,121,22.2,66,1
+Nutrient Deficiency,122,72,122,22.3,67,1
+Nutrient Deficiency,123,73,123,22.4,68,1
+Nutrient Deficiency,124,74,124,22.5,69,1
+Nutrient Deficiency,125,75,125,22.6,70,1
+Nutrient Deficiency,126,76,126,22.7,60,1
+Nutrient Deficiency,127,77,127,22.8,61,1
+Nutrient Deficiency,128,78,128,22.9,62,1
+Nutrient Deficiency,129,79,129,23,63,1
+Nutrient Deficiency,130,80,130,23.1,64,1
+Nutrient Deficiency,131,81,131,23.2,65,1
+Nutrient Deficiency,132,82,132,23.3,66,1
+Nutrient Deficiency,133,83,133,23.4,67,1
+Nutrient Deficiency,134,84,134,23.5,68,1
+Nutrient Deficiency,135,85,135,23.6,69,1
+Nutrient Deficiency,136,86,136,23.7,70,1
+Nutrient Deficiency,137,87,137,23.8,60,1
+Nutrient Deficiency,138,88,138,23.9,61,1
+Nutrient Deficiency,139,89,139,24,62,1
+Nutrient Deficiency,140,90,140,24.1,63,1
+Nutrient Deficiency,141,91,141,24.2,64,1
+Nutrient Deficiency,142,92,142,24.3,65,1
+Nutrient Deficiency,143,93,143,24.4,66,1
+Nutrient Deficiency,144,94,144,24.5,67,1
+Nutrient Deficiency,145,95,145,24.6,68,1
+Nutrient Deficiency,146,96,146,24.7,69,1
+Nutrient Deficiency,147,97,147,24.8,70,1
+Nutrient Deficiency,148,98,148,24.9,60,1
+Nutrient Deficiency,149,99,149,25,61,1
+Salinity Stress,100,50,100,20,60,1
+Salinity Stress,101,51,101,20.1,61,1
+Salinity Stress,102,52,102,20.2,62,1
+Salinity Stress,103,53,103,20.3,63,1
+Salinity Stress,104,54,104,20.4,64,1
+Salinity Stress,105,55,105,20.5,65,1
+Salinity Stress,106,56,106,20.6,66,1
+Salinity Stress,107,57,107,20.7,67,1
+Salinity Stress,108,58,108,20.8,68,1
+Salinity Stress,109,59,109,20.9,69,1
+Salinity Stress,110,60,110,21,70,1
+Salinity Stress,111,61,111,21.1,60,1
+Salinity Stress,112,62,112,21.2,61,1
+Salinity Stress,113,63,113,21.3,62,1
+Salinity Stress,114,64,114,21.4,63,1
+Salinity Stress,115,65,115,21.5,64,1
+Salinity Stress,116,66,116,21.6,65,1
+Salinity Stress,117,67,117,21.7,66,1
+Salinity Stress,118,68,118,21.8,67,1
+Salinity Stress,119,69,119,21.9,68,1
+Salinity Stress,120,70,120,22,69,1
+Salinity Stress,121,71,121,22.1,70,1
+Salinity Stress,122,72,122,22.2,60,1
+Salinity Stress,123,73,123,22.3,61,1
+Salinity Stress,124,74,124,22.4,62,1
+Salinity Stress,125,75,125,22.5,63,1
+Salinity Stress,126,76,126,22.6,64,1
+Salinity Stress,127,77,127,22.7,65,1
+Salinity Stress,128,78,128,22.8,66,1
+Salinity Stress,129,79,129,22.9,67,1
+Salinity Stress,130,80,130,23,68,1
+Salinity Stress,131,81,131,23.1,69,1
+Salinity Stress,132,82,132,23.2,70,1
+Salinity Stress,133,83,133,23.3,60,1
+Salinity Stress,134,84,134,23.4,61,1
+Salinity Stress,135,85,135,23.5,62,1
+Salinity Stress,136,86,136,23.6,63,1
+Salinity Stress,137,87,137,23.7,64,1
+Salinity Stress,138,88,138,23.8,65,1
+Salinity Stress,139,89,139,23.9,66,1
+Salinity Stress,140,90,140,24,67,1
+Salinity Stress,141,91,141,24.1,68,1
+Salinity Stress,142,92,142,24.2,69,1
+Salinity Stress,143,93,143,24.3,70,1
+Salinity Stress,144,94,144,24.4,60,1
+Salinity Stress,145,95,145,24.5,61,1
+Salinity Stress,146,96,146,24.6,62,1
+Salinity Stress,147,97,147,24.7,63,1
+Salinity Stress,148,98,148,24.8,64,1
+Salinity Stress,149,99,149,24.9,65,1
+Salinity Stress,150,100,150,25,66,1
+Salinity Stress,100,50,100,25.1,67,1
+Salinity Stress,101,51,101,25.2,68,1
+Salinity Stress,102,52,102,25.3,69,1
+Salinity Stress,103,53,103,25.4,70,1
+Salinity Stress,104,54,104,25.5,60,1
+Salinity Stress,105,55,105,25.6,61,1
+Salinity Stress,106,56,106,25.7,62,1
+Salinity Stress,107,57,107,25.8,63,1
+Salinity Stress,108,58,108,25.9,64,1
+Salinity Stress,109,59,109,26,65,1
+Salinity Stress,110,60,110,26.1,66,1
+Salinity Stress,111,61,111,26.2,67,1
+Salinity Stress,112,62,112,26.3,68,1
+Salinity Stress,113,63,113,26.4,69,1
+Salinity Stress,114,64,114,26.5,70,1
+Salinity Stress,115,65,115,26.6,60,1
+Salinity Stress,116,66,116,26.7,61,1
+Salinity Stress,117,67,117,26.8,62,1
+Salinity Stress,118,68,118,26.9,63,1
+Salinity Stress,119,69,119,27,64,1
+Salinity Stress,120,70,120,27.1,65,1
+Salinity Stress,121,71,121,27.2,66,1
+Salinity Stress,122,72,122,27.3,67,1
+Salinity Stress,123,73,123,27.4,68,1
+Salinity Stress,124,74,124,27.5,69,1
+Salinity Stress,125,75,125,27.6,70,1
+Salinity Stress,126,76,126,27.7,60,1
+Salinity Stress,127,77,127,27.8,61,1
+Salinity Stress,128,78,128,27.9,62,1
+Salinity Stress,129,79,129,28,63,1
+Salinity Stress,130,80,130,28.1,64,1
+Salinity Stress,131,81,131,28.2,65,1
+Salinity Stress,132,82,132,28.3,66,1
+Salinity Stress,133,83,133,28.4,67,1
+Salinity Stress,134,84,134,28.5,68,1
+Salinity Stress,135,85,135,28.6,69,1
+Salinity Stress,136,86,136,28.7,70,1
+Salinity Stress,137,87,137,28.8,60,1
+Salinity Stress,138,88,138,28.9,61,1
+Salinity Stress,139,89,139,29,62,1
+Salinity Stress,140,90,140,29.1,63,1
+Salinity Stress,141,91,141,29.2,64,1
+Salinity Stress,142,92,142,29.3,65,1
+Salinity Stress,143,93,143,29.4,66,1
+Salinity Stress,144,94,144,29.5,67,1
+Salinity Stress,145,95,145,29.6,68,1
+Salinity Stress,146,96,146,29.7,69,1
+Salinity Stress,147,97,147,29.8,70,1
+Salinity Stress,148,98,148,29.9,60,1
+Salinity Stress,149,99,149,30,61,1
+Powdery Mildew,100,50,100,15,60,1
+Powdery Mildew,101,51,101,15.1,61,1
+Powdery Mildew,102,52,102,15.2,62,1
+Powdery Mildew,103,53,103,15.3,63,1
+Powdery Mildew,104,54,104,15.4,64,1
+Powdery Mildew,105,55,105,15.5,65,1
+Powdery Mildew,106,56,106,15.6,66,1
+Powdery Mildew,107,57,107,15.7,67,1
+Powdery Mildew,108,58,108,15.8,68,1
+Powdery Mildew,109,59,109,15.9,69,1
+Powdery Mildew,110,60,110,16,70,1
+Powdery Mildew,111,61,111,16.1,60,1
+Powdery Mildew,112,62,112,16.2,61,1
+Powdery Mildew,113,63,113,16.3,62,1
+Powdery Mildew,114,64,114,16.4,63,1
+Powdery Mildew,115,65,115,16.5,64,1
+Powdery Mildew,116,66,116,16.6,65,1
+Powdery Mildew,117,67,117,16.7,66,1
+Powdery Mildew,118,68,118,16.8,67,1
+Powdery Mildew,119,69,119,16.9,68,1
+Powdery Mildew,120,70,120,17,69,1
+Powdery Mildew,121,71,121,17.1,70,1
+Powdery Mildew,122,72,122,17.2,60,1
+Powdery Mildew,123,73,123,17.3,61,1
+Powdery Mildew,124,74,124,17.4,62,1
+Powdery Mildew,125,75,125,17.5,63,1
+Powdery Mildew,126,76,126,17.6,64,1
+Powdery Mildew,127,77,127,17.7,65,1
+Powdery Mildew,128,78,128,17.8,66,1
+Powdery Mildew,129,79,129,17.9,67,1
+Powdery Mildew,130,80,130,18,68,1
+Powdery Mildew,131,81,131,18.1,69,1
+Powdery Mildew,132,82,132,18.2,70,1
+Powdery Mildew,133,83,133,18.3,60,1
+Powdery Mildew,134,84,134,18.4,61,1
+Powdery Mildew,135,85,135,18.5,62,1
+Powdery Mildew,136,86,136,18.6,63,1
+Powdery Mildew,137,87,137,18.7,64,1
+Powdery Mildew,138,88,138,18.8,65,1
+Powdery Mildew,139,89,139,18.9,66,1
+Powdery Mildew,140,90,140,19,67,1
+Powdery Mildew,141,91,141,19.1,68,1
+Powdery Mildew,142,92,142,19.2,69,1
+Powdery Mildew,143,93,143,19.3,70,1
+Powdery Mildew,144,94,144,19.4,60,1
+Powdery Mildew,145,95,145,19.5,61,1
+Powdery Mildew,146,96,146,19.6,62,1
+Powdery Mildew,147,97,147,19.7,63,1
+Powdery Mildew,148,98,148,19.8,64,1
+Powdery Mildew,149,99,149,19.9,65,1
+Powdery Mildew,150,100,150,20,66,1
+Powdery Mildew,100,50,100,20.1,67,1
+Powdery Mildew,101,51,101,20.2,68,1
+Powdery Mildew,102,52,102,20.3,69,1
+Powdery Mildew,103,53,103,20.4,70,1
+Powdery Mildew,104,54,104,20.5,60,1
+Powdery Mildew,105,55,105,20.6,61,1
+Powdery Mildew,106,56,106,20.7,62,1
+Powdery Mildew,107,57,107,20.8,63,1
+Powdery Mildew,108,58,108,20.9,64,1
+Powdery Mildew,109,59,109,21,65,1
+Powdery Mildew,110,60,110,21.1,66,1
+Powdery Mildew,111,61,111,21.2,67,1
+Powdery Mildew,112,62,112,21.3,68,1
+Powdery Mildew,113,63,113,21.4,69,1
+Powdery Mildew,114,64,114,21.5,70,1
+Powdery Mildew,115,65,115,21.6,60,1
+Powdery Mildew,116,66,116,21.7,61,1
+Powdery Mildew,117,67,117,21.8,62,1
+Powdery Mildew,118,68,118,21.9,63,1
+Powdery Mildew,119,69,119,22,64,1
+Powdery Mildew,120,70,120,22.1,65,1
+Powdery Mildew,121,71,121,22.2,66,1
+Powdery Mildew,122,72,122,22.3,67,1
+Powdery Mildew,123,73,123,22.4,68,1
+Powdery Mildew,124,74,124,22.5,69,1
+Powdery Mildew,125,75,125,22.6,70,1
+Powdery Mildew,126,76,126,22.7,60,1
+Powdery Mildew,127,77,127,22.8,61,1
+Powdery Mildew,128,78,128,22.9,62,1
+Powdery Mildew,129,79,129,23,63,1
+Powdery Mildew,130,80,130,23.1,64,1
+Powdery Mildew,131,81,131,23.2,65,1
+Powdery Mildew,132,82,132,23.3,66,1
+Powdery Mildew,133,83,133,23.4,67,1
+Powdery Mildew,134,84,134,23.5,68,1
+Powdery Mildew,135,85,135,23.6,69,1
+Powdery Mildew,136,86,136,23.7,70,1
+Powdery Mildew,137,87,137,23.8,60,1
+Powdery Mildew,138,88,138,23.9,61,1
+Powdery Mildew,139,89,139,24,62,1
+Powdery Mildew,140,90,140,24.1,63,1
+Powdery Mildew,141,91,141,24.2,64,1
+Powdery Mildew,142,92,142,24.3,65,1
+Powdery Mildew,143,93,143,24.4,66,1
+Powdery Mildew,144,94,144,24.5,67,1
+Powdery Mildew,145,95,145,24.6,68,1
+Powdery Mildew,146,96,146,24.7,69,1
+Powdery Mildew,147,97,147,24.8,70,1
+Powdery Mildew,148,98,148,24.9,60,1
+Powdery Mildew,149,99,149,25,61,1
+Bacterial Wilt,100,50,100,20,60,1
+Bacterial Wilt,101,51,101,20.1,61,1
+Bacterial Wilt,102,52,102,20.2,62,1
+Bacterial Wilt,103,53,103,20.3,63,1
+Bacterial Wilt,104,54,104,20.4,64,1
+Bacterial Wilt,105,55,105,20.5,65,1
+Bacterial Wilt,106,56,106,20.6,66,1
+Bacterial Wilt,107,57,107,20.7,67,1
+Bacterial Wilt,108,58,108,20.8,68,1
+Bacterial Wilt,109,59,109,20.9,69,1
+Bacterial Wilt,110,60,110,21,70,1
+Bacterial Wilt,111,61,111,21.1,60,1
+Bacterial Wilt,112,62,112,21.2,61,1
+Bacterial Wilt,113,63,113,21.3,62,1
+Bacterial Wilt,114,64,114,21.4,63,1
+Bacterial Wilt,115,65,115,21.5,64,1
+Bacterial Wilt,116,66,116,21.6,65,1
+Bacterial Wilt,117,67,117,21.7,66,1
+Bacterial Wilt,118,68,118,21.8,67,1
+Bacterial Wilt,119,69,119,21.9,68,1
+Bacterial Wilt,120,70,120,22,69,1
+Bacterial Wilt,121,71,121,22.1,70,1
+Bacterial Wilt,122,72,122,22.2,60,1
+Bacterial Wilt,123,73,123,22.3,61,1
+Bacterial Wilt,124,74,124,22.4,62,1
+Bacterial Wilt,125,75,125,22.5,63,1
+Bacterial Wilt,126,76,126,22.6,64,1
+Bacterial Wilt,127,77,127,22.7,65,1
+Bacterial Wilt,128,78,128,22.8,66,1
+Bacterial Wilt,129,79,129,22.9,67,1
+Bacterial Wilt,130,80,130,23,68,1
+Bacterial Wilt,131,81,131,23.1,69,1
+Bacterial Wilt,132,82,132,23.2,70,1
+Bacterial Wilt,133,83,133,23.3,60,1
+Bacterial Wilt,134,84,134,23.4,61,1
+Bacterial Wilt,135,85,135,23.5,62,1
+Bacterial Wilt,136,86,136,23.6,63,1
+Bacterial Wilt,137,87,137,23.7,64,1
+Bacterial Wilt,138,88,138,23.8,65,1
+Bacterial Wilt,139,89,139,23.9,66,1
+Bacterial Wilt,140,90,140,24,67,1
+Bacterial Wilt,141,91,141,24.1,68,1
+Bacterial Wilt,142,92,142,24.2,69,1
+Bacterial Wilt,143,93,143,24.3,70,1
+Bacterial Wilt,144,94,144,24.4,60,1
+Bacterial Wilt,145,95,145,24.5,61,1
+Bacterial Wilt,146,96,146,24.6,62,1
+Bacterial Wilt,147,97,147,24.7,63,1
+Bacterial Wilt,148,98,148,24.8,64,1
+Bacterial Wilt,149,99,149,24.9,65,1
+Bacterial Wilt,150,100,150,25,66,1
+Bacterial Wilt,100,50,100,25.1,67,1
+Bacterial Wilt,101,51,101,25.2,68,1
+Bacterial Wilt,102,52,102,25.3,69,1
+Bacterial Wilt,103,53,103,25.4,70,1
+Bacterial Wilt,104,54,104,25.5,60,1
+Bacterial Wilt,105,55,105,25.6,61,1
+Bacterial Wilt,106,56,106,25.7,62,1
+Bacterial Wilt,107,57,107,25.8,63,1
+Bacterial Wilt,108,58,108,25.9,64,1
+Bacterial Wilt,109,59,109,26,65,1
+Bacterial Wilt,110,60,110,26.1,66,1
+Bacterial Wilt,111,61,111,26.2,67,1
+Bacterial Wilt,112,62,112,26.3,68,1
+Bacterial Wilt,113,63,113,26.4,69,1
+Bacterial Wilt,114,64,114,26.5,70,1
+Bacterial Wilt,115,65,115,26.6,60,1
+Bacterial Wilt,116,66,116,26.7,61,1
+Bacterial Wilt,117,67,117,26.8,62,1
+Bacterial Wilt,118,68,118,26.9,63,1
+Bacterial Wilt,119,69,119,27,64,1
+Bacterial Wilt,120,70,120,27.1,65,1
+Bacterial Wilt,121,71,121,27.2,66,1
+Bacterial Wilt,122,72,122,27.3,67,1
+Bacterial Wilt,123,73,123,27.4,68,1
+Bacterial Wilt,124,74,124,27.5,69,1
+Bacterial Wilt,125,75,125,27.6,70,1
+Bacterial Wilt,126,76,126,27.7,60,1
+Bacterial Wilt,127,77,127,27.8,61,1
+Bacterial Wilt,128,78,128,27.9,62,1
+Bacterial Wilt,129,79,129,28,63,1
+Bacterial Wilt,130,80,130,28.1,64,1
+Bacterial Wilt,131,81,131,28.2,65,1
+Bacterial Wilt,132,82,132,28.3,66,1
+Bacterial Wilt,133,83,133,28.4,67,1
+Bacterial Wilt,134,84,134,28.5,68,1
+Bacterial Wilt,135,85,135,28.6,69,1
+Bacterial Wilt,136,86,136,28.7,70,1
+Bacterial Wilt,137,87,137,28.8,60,1
+Bacterial Wilt,138,88,138,28.9,61,1
+Bacterial Wilt,139,89,139,29,62,1
+Bacterial Wilt,140,90,140,29.1,63,1
+Bacterial Wilt,141,91,141,29.2,64,1
+Bacterial Wilt,142,92,142,29.3,65,1
+Bacterial Wilt,143,93,143,29.4,66,1
+Bacterial Wilt,144,94,144,29.5,67,1
+Bacterial Wilt,145,95,145,29.6,68,1
+Bacterial Wilt,146,96,146,29.7,69,1
+Bacterial Wilt,147,97,147,29.8,70,1
+Bacterial Wilt,148,98,148,29.9,60,1
+Bacterial Wilt,149,99,149,30,61,1
+Rust Disease,100,50,100,15,60,1
+Rust Disease,101,51,101,15.1,61,1
+Rust Disease,102,52,102,15.2,62,1
+Rust Disease,103,53,103,15.3,63,1
+Rust Disease,104,54,104,15.4,64,1
+Rust Disease,105,55,105,15.5,65,1
+Rust Disease,106,56,106,15.6,66,1
+Rust Disease,107,57,107,15.7,67,1
+Rust Disease,108,58,108,15.8,68,1
+Rust Disease,109,59,109,15.9,69,1
+Rust Disease,110,60,110,16,70,1
+Rust Disease,111,61,111,16.1,60,1
+Rust Disease,112,62,112,16.2,61,1
+Rust Disease,113,63,113,16.3,62,1
+Rust Disease,114,64,114,16.4,63,1
+Rust Disease,115,65,115,16.5,64,1
+Rust Disease,116,66,116,16.6,65,1
+Rust Disease,117,67,117,16.7,66,1
+Rust Disease,118,68,118,16.8,67,1
+Rust Disease,119,69,119,16.9,68,1
+Rust Disease,120,70,120,17,69,1
+Rust Disease,121,71,121,17.1,70,1
+Rust Disease,122,72,122,17.2,60,1
+Rust Disease,123,73,123,17.3,61,1
+Rust Disease,124,74,124,17.4,62,1
+Rust Disease,125,75,125,17.5,63,1
+Rust Disease,126,76,126,17.6,64,1
+Rust Disease,127,77,127,17.7,65,1
+Rust Disease,128,78,128,17.8,66,1
+Rust Disease,129,79,129,17.9,67,1
+Rust Disease,130,80,130,18,68,1
+Rust Disease,131,81,131,18.1,69,1
+Rust Disease,132,82,132,18.2,70,1
+Rust Disease,133,83,133,18.3,60,1
+Rust Disease,134,84,134,18.4,61,1
+Rust Disease,135,85,135,18.5,62,1
+Rust Disease,136,86,136,18.6,63,1
+Rust Disease,137,87,137,18.7,64,1
+Rust Disease,138,88,138,18.8,65,1
+Rust Disease,139,89,139,18.9,66,1
+Rust Disease,140,90,140,19,67,1
+Rust Disease,141,91,141,19.1,68,1
+Rust Disease,142,92,142,19.2,69,1
+Rust Disease,143,93,143,19.3,70,1
+Rust Disease,144,94,144,19.4,60,1
+Rust Disease,145,95,145,19.5,61,1
+Rust Disease,146,96,146,19.6,62,1
+Rust Disease,147,97,147,19.7,63,1
+Rust Disease,148,98,148,19.8,64,1
+Rust Disease,149,99,149,19.9,65,1
+Rust Disease,150,100,150,20,66,1
+Rust Disease,100,50,100,20.1,67,1
+Rust Disease,101,51,101,20.2,68,1
+Rust Disease,102,52,102,20.3,69,1
+Rust Disease,103,53,103,20.4,70,1
+Rust Disease,104,54,104,20.5,60,1
+Rust Disease,105,55,105,20.6,61,1
+Rust Disease,106,56,106,20.7,62,1
+Rust Disease,107,57,107,20.8,63,1
+Rust Disease,108,58,108,20.9,64,1
+Rust Disease,109,59,109,21,65,1
+Rust Disease,110,60,110,21.1,66,1
+Rust Disease,111,61,111,21.2,67,1
+Rust Disease,112,62,112,21.3,68,1
+Rust Disease,113,63,113,21.4,69,1
+Rust Disease,114,64,114,21.5,70,1
+Rust Disease,115,65,115,21.6,60,1
+Rust Disease,116,66,116,21.7,61,1
+Rust Disease,117,67,117,21.8,62,1
+Rust Disease,118,68,118,21.9,63,1
+Rust Disease,119,69,119,22,64,1
+Rust Disease,120,70,120,22.1,65,1
+Rust Disease,121,71,121,22.2,66,1
+Rust Disease,122,72,122,22.3,67,1
+Rust Disease,123,73,123,22.4,68,1
+Rust Disease,124,74,124,22.5,69,1
+Rust Disease,125,75,125,22.6,70,1
+Rust Disease,126,76,126,22.7,60,1
+Rust Disease,127,77,127,22.8,61,1
+Rust Disease,128,78,128,22.9,62,1
+Rust Disease,129,79,129,23,63,1
+Rust Disease,130,80,130,23.1,64,1
+Rust Disease,131,81,131,23.2,65,1
+Rust Disease,132,82,132,23.3,66,1
+Rust Disease,133,83,133,23.4,67,1
+Rust Disease,134,84,134,23.5,68,1
+Rust Disease,135,85,135,23.6,69,1
+Rust Disease,136,86,136,23.7,70,1
+Rust Disease,137,87,137,23.8,60,1
+Rust Disease,138,88,138,23.9,61,1
+Rust Disease,139,89,139,24,62,1
+Rust Disease,140,90,140,24.1,63,1
+Rust Disease,141,91,141,24.2,64,1
+Rust Disease,142,92,142,24.3,65,1
+Rust Disease,143,93,143,24.4,66,1
+Rust Disease,144,94,144,24.5,67,1
+Rust Disease,145,95,145,24.6,68,1
+Rust Disease,146,96,146,24.7,69,1
+Rust Disease,147,97,147,24.8,70,1
+Rust Disease,148,98,148,24.9,60,1
+Rust Disease,149,99,149,25,61,1
+Cercospora Leaf Blight,100,50,100,20,60,1
+Cercospora Leaf Blight,101,51,101,20.1,61,1
+Cercospora Leaf Blight,102,52,102,20.2,62,1
+Cercospora Leaf Blight,103,53,103,20.3,63,1
+Cercospora Leaf Blight,104,54,104,20.4,64,1
+Cercospora Leaf Blight,105,55,105,20.5,65,1
+Cercospora Leaf Blight,106,56,106,20.6,66,1
+Cercospora Leaf Blight,107,57,107,20.7,67,1
+Cercospora Leaf Blight,108,58,108,20.8,68,1
+Cercospora Leaf Blight,109,59,109,20.9,69,1
+Cercospora Leaf Blight,110,60,110,21,70,1
+Cercospora Leaf Blight,111,61,111,21.1,60,1
+Cercospora Leaf Blight,112,62,112,21.2,61,1
+Cercospora Leaf Blight,113,63,113,21.3,62,1
+Cercospora Leaf Blight,114,64,114,21.4,63,1
+Cercospora Leaf Blight,115,65,115,21.5,64,1
+Cercospora Leaf Blight,116,66,116,21.6,65,1
+Cercospora Leaf Blight,117,67,117,21.7,66,1
+Cercospora Leaf Blight,118,68,118,21.8,67,1
+Cercospora Leaf Blight,119,69,119,21.9,68,1
+Cercospora Leaf Blight,120,70,120,22,69,1
+Cercospora Leaf Blight,121,71,121,22.1,70,1
+Cercospora Leaf Blight,122,72,122,22.2,60,1
+Cercospora Leaf Blight,123,73,123,22.3,61,1
+Cercospora Leaf Blight,124,74,124,22.4,62,1
+Cercospora Leaf Blight,125,75,125,22.5,63,1
+Cercospora Leaf Blight,126,76,126,22.6,64,1
+Cercospora Leaf Blight,127,77,127,22.7,65,1
+Cercospora Leaf Blight,128,78,128,22.8,66,1
+Cercospora Leaf Blight,129,79,129,22.9,67,1
+Cercospora Leaf Blight,130,80,130,23,68,1
+Cercospora Leaf Blight,131,81,131,23.1,69,1
+Cercospora Leaf Blight,132,82,132,23.2,70,1
+Cercospora Leaf Blight,133,83,133,23.3,60,1
+Cercospora Leaf Blight,134,84,134,23.4,61,1
+Cercospora Leaf Blight,135,85,135,23.5,62,1
+Cercospora Leaf Blight,136,86,136,23.6,63,1
+Cercospora Leaf Blight,137,87,137,23.7,64,1
+Cercospora Leaf Blight,138,88,138,23.8,65,1
+Cercospora Leaf Blight,139,89,139,23.9,66,1
+Cercospora Leaf Blight,140,90,140,24,67,1
+Cercospora Leaf Blight,141,91,141,24.1,68,1
+Cercospora Leaf Blight,142,92,142,24.2,69,1
+Cercospora Leaf Blight,143,93,143,24.3,70,1
+Cercospora Leaf Blight,144,94,144,24.4,60,1
+Cercospora Leaf Blight,145,95,145,24.5,61,1
+Cercospora Leaf Blight,146,96,146,24.6,62,1
+Cercospora Leaf Blight,147,97,147,24.7,63,1
+Cercospora Leaf Blight,148,98,148,24.8,64,1
+Cercospora Leaf Blight,149,99,149,24.9,65,1
+Cercospora Leaf Blight,150,100,150,25,66,1
+Cercospora Leaf Blight,100,50,100,25.1,67,1
+Cercospora Leaf Blight,101,51,101,25.2,68,1
+Cercospora Leaf Blight,102,52,102,25.3,69,1
+Cercospora Leaf Blight,103,53,103,25.4,70,1
+Cercospora Leaf Blight,104,54,104,25.5,60,1
+Cercospora Leaf Blight,105,55,105,25.6,61,1
+Cercospora Leaf Blight,106,56,106,25.7,62,1
+Cercospora Leaf Blight,107,57,107,25.8,63,1
+Cercospora Leaf Blight,108,58,108,25.9,64,1
+Cercospora Leaf Blight,109,59,109,26,65,1
+Cercospora Leaf Blight,110,60,110,26.1,66,1
+Cercospora Leaf Blight,111,61,111,26.2,67,1
+Cercospora Leaf Blight,112,62,112,26.3,68,1
+Cercospora Leaf Blight,113,63,113,26.4,69,1
+Cercospora Leaf Blight,114,64,114,26.5,70,1
+Cercospora Leaf Blight,115,65,115,26.6,60,1
+Cercospora Leaf Blight,116,66,116,26.7,61,1
+Cercospora Leaf Blight,117,67,117,26.8,62,1
+Cercospora Leaf Blight,118,68,118,26.9,63,1
+Cercospora Leaf Blight,119,69,119,27,64,1
+Cercospora Leaf Blight,120,70,120,27.1,65,1
+Cercospora Leaf Blight,121,71,121,27.2,66,1
+Cercospora Leaf Blight,122,72,122,27.3,67,1
+Cercospora Leaf Blight,123,73,123,27.4,68,1
+Cercospora Leaf Blight,124,74,124,27.5,69,1
+Cercospora Leaf Blight,125,75,125,27.6,70,1
+Cercospora Leaf Blight,126,76,126,27.7,60,1
+Cercospora Leaf Blight,127,77,127,27.8,61,1
+Cercospora Leaf Blight,128,78,128,27.9,62,1
+Cercospora Leaf Blight,129,79,129,28,63,1
+Cercospora Leaf Blight,130,80,130,28.1,64,1
+Cercospora Leaf Blight,131,81,131,28.2,65,1
+Cercospora Leaf Blight,132,82,132,28.3,66,1
+Cercospora Leaf Blight,133,83,133,28.4,67,1
+Cercospora Leaf Blight,134,84,134,28.5,68,1
+Cercospora Leaf Blight,135,85,135,28.6,69,1
+Cercospora Leaf Blight,136,86,136,28.7,70,1
+Cercospora Leaf Blight,137,87,137,28.8,60,1
+Cercospora Leaf Blight,138,88,138,28.9,61,1
+Cercospora Leaf Blight,139,89,139,29,62,1
+Cercospora Leaf Blight,140,90,140,29.1,63,1
+Cercospora Leaf Blight,141,91,141,29.2,64,1
+Cercospora Leaf Blight,142,92,142,29.3,65,1
+Cercospora Leaf Blight,143,93,143,29.4,66,1
+Cercospora Leaf Blight,144,94,144,29.5,67,1
+Cercospora Leaf Blight,145,95,145,29.6,68,1
+Cercospora Leaf Blight,146,96,146,29.7,69,1
+Cercospora Leaf Blight,147,97,147,29.8,70,1
+Cercospora Leaf Blight,148,98,148,29.9,60,1
+Cercospora Leaf Blight,149,99,149,30,61,1
+Leaf Spot,100,50,100,40,50,1
+Leaf Spot,80,40,80,15,50,1
+Leaf Spot,80,40,80,15,85,1
+Leaf Spot,100,50,100,25,50,1
+Dieback,100,50,100,25,50,1
+Root Rot,100,50,100,25,50,1
+Root Rot,100,50,100,25,30,1
+Nutrient Deficiency,50,50,50,25,50,1
+Nutrient Deficiency,100,50,50,25,50,1
+Nutrient Deficiency,100,100,50,25,50,1
+Nutrient Deficiency,75,50,50,25,30,1
+Nutrient Deficiency,100,75,50,25,30,1
+Nutrient Deficiency,100,100,75,25,30,1
+Salinity Stress,100,50,100,25,50,1
+Salinity Stress,75,50,75,25,30,1
+Waterlogging,100,50,100,25,50,1
+Waterlogging,100,50,100,25,30,1
+Waterlogging,100,50,100,25,60,1
+Powdery Mildew,100,50,100,25,50,1
+Powdery Mildew,100,50,100,40,50,1
+Powdery Mildew,100,50,100,25,80,1
+Powdery Mildew,100,50,100,25,30,1
+Bacterial Wilt,100,50,100,25,50,1
+Bacterial Wilt,100,50,100,25,75,1
+Canker Diseases,100,50,100,25,50,1
+Canker Diseases,100,50,100,25,30,1
+Canker Diseases,100,50,100,25,50,1
+Nematode Infestations,100,50,100,25,50,1
+Nematode Infestations,100,50,100,60,50,1
+Nematode Infestations,100,50,100,60,50,1
+Rust Disease,100,50,100,60,50,1
+Rust Disease,100,50,100,20,50,1
+Rust Disease,100,50,100,20,30,1
+Rust Disease,100,50,100,20,70,1
+Cercospora Leaf Blight,100,50,100,25,50,1
+Cercospora Leaf Blight,100,50,100,20,50,1
+Cercospora Leaf Blight,100,50,100,70,50,1
+Cercospora Leaf Blight,100,50,100,25,50,1
+Leaf Spot,150,100,150,20,50,2
+Leaf Spot,151,101,151,20.1,51,2
+Leaf Spot,152,102,152,20.2,52,2
+Leaf Spot,153,103,153,20.3,53,2
+Leaf Spot,154,104,154,20.4,54,2
+Leaf Spot,155,105,155,20.5,55,2
+Leaf Spot,156,106,156,20.6,56,2
+Leaf Spot,157,107,157,20.7,57,2
+Leaf Spot,158,108,158,20.8,58,2
+Leaf Spot,159,109,159,20.9,59,2
+Leaf Spot,160,110,160,21,60,2
+Leaf Spot,161,111,161,21.1,50,2
+Leaf Spot,162,112,162,21.2,51,2
+Leaf Spot,163,113,163,21.3,52,2
+Leaf Spot,164,114,164,21.4,53,2
+Leaf Spot,165,115,165,21.5,54,2
+Leaf Spot,166,116,166,21.6,55,2
+Leaf Spot,167,117,167,21.7,56,2
+Leaf Spot,168,118,168,21.8,57,2
+Leaf Spot,169,119,169,21.9,58,2
+Leaf Spot,170,120,170,22,59,2
+Leaf Spot,171,121,171,22.1,60,2
+Leaf Spot,172,122,172,22.2,50,2
+Leaf Spot,173,123,173,22.3,51,2
+Leaf Spot,174,124,174,22.4,52,2
+Leaf Spot,175,125,175,22.5,53,2
+Leaf Spot,176,126,176,22.6,54,2
+Leaf Spot,177,127,177,22.7,55,2
+Leaf Spot,178,128,178,22.8,56,2
+Leaf Spot,179,129,179,22.9,57,2
+Leaf Spot,180,130,180,23,58,2
+Leaf Spot,181,131,181,23.1,59,2
+Leaf Spot,182,132,182,23.2,60,2
+Leaf Spot,183,133,183,23.3,50,2
+Leaf Spot,184,134,184,23.4,51,2
+Leaf Spot,185,135,185,23.5,52,2
+Leaf Spot,186,136,186,23.6,53,2
+Leaf Spot,187,137,187,23.7,54,2
+Leaf Spot,188,138,188,23.8,55,2
+Leaf Spot,189,139,189,23.9,56,2
+Leaf Spot,190,140,190,24,57,2
+Leaf Spot,191,141,191,24.1,58,2
+Leaf Spot,192,142,192,24.2,59,2
+Leaf Spot,193,143,193,24.3,60,2
+Leaf Spot,194,144,194,24.4,50,2
+Leaf Spot,195,145,195,24.5,51,2
+Leaf Spot,196,146,196,24.6,52,2
+Leaf Spot,197,147,197,24.7,53,2
+Leaf Spot,198,148,198,24.8,54,2
+Leaf Spot,199,149,199,24.9,55,2
+Leaf Spot,200,150,200,25,56,2
+Leaf Spot,150,100,150,25.1,57,2
+Leaf Spot,151,101,151,25.2,58,2
+Leaf Spot,152,102,152,25.3,59,2
+Leaf Spot,153,103,153,25.4,60,2
+Leaf Spot,154,104,154,25.5,50,2
+Leaf Spot,155,105,155,25.6,51,2
+Leaf Spot,156,106,156,25.7,52,2
+Leaf Spot,157,107,157,25.8,53,2
+Leaf Spot,158,108,158,25.9,54,2
+Leaf Spot,159,109,159,26,55,2
+Leaf Spot,160,110,160,26.1,56,2
+Leaf Spot,161,111,161,26.2,57,2
+Leaf Spot,162,112,162,26.3,58,2
+Leaf Spot,163,113,163,26.4,59,2
+Leaf Spot,164,114,164,26.5,60,2
+Leaf Spot,165,115,165,26.6,50,2
+Leaf Spot,166,116,166,26.7,51,2
+Leaf Spot,167,117,167,26.8,52,2
+Leaf Spot,168,118,168,26.9,53,2
+Leaf Spot,169,119,169,27,54,2
+Leaf Spot,170,120,170,27.1,55,2
+Leaf Spot,171,121,171,27.2,56,2
+Leaf Spot,172,122,172,27.3,57,2
+Leaf Spot,173,123,173,27.4,58,2
+Leaf Spot,174,124,174,27.5,59,2
+Leaf Spot,175,125,175,27.6,60,2
+Leaf Spot,176,126,176,27.7,50,2
+Leaf Spot,177,127,177,27.8,51,2
+Leaf Spot,178,128,178,27.9,52,2
+Leaf Spot,179,129,179,28,53,2
+Leaf Spot,180,130,180,28.1,54,2
+Leaf Spot,181,131,181,28.2,55,2
+Leaf Spot,182,132,182,28.3,56,2
+Leaf Spot,183,133,183,28.4,57,2
+Leaf Spot,184,134,184,28.5,58,2
+Leaf Spot,185,135,185,28.6,59,2
+Leaf Spot,186,136,186,28.7,60,2
+Leaf Spot,187,137,187,28.8,50,2
+Leaf Spot,188,138,188,28.9,51,2
+Leaf Spot,189,139,189,29,52,2
+Leaf Spot,190,140,190,29.1,53,2
+Leaf Spot,191,141,191,29.2,54,2
+Leaf Spot,192,142,192,29.3,55,2
+Leaf Spot,193,143,193,29.4,56,2
+Leaf Spot,194,144,194,29.5,57,2
+Leaf Spot,195,145,195,29.6,58,2
+Leaf Spot,196,146,196,29.7,59,2
+Leaf Spot,197,147,197,29.8,60,2
+Leaf Spot,198,148,198,29.9,50,2
+Leaf Spot,199,149,199,30,51,2
+Leaf Spot,125,75,125,15,50,2
+Leaf Spot,126,76,126,15.1,51,2
+Leaf Spot,127,77,127,15.2,52,2
+Leaf Spot,128,78,128,15.3,53,2
+Leaf Spot,129,79,129,15.4,54,2
+Leaf Spot,130,80,130,15.5,55,2
+Leaf Spot,131,81,131,15.6,56,2
+Leaf Spot,132,82,132,15.7,57,2
+Leaf Spot,133,83,133,15.8,58,2
+Leaf Spot,134,84,134,15.9,59,2
+Leaf Spot,135,85,135,16,60,2
+Leaf Spot,136,86,136,16.1,50,2
+Leaf Spot,137,87,137,16.2,51,2
+Leaf Spot,138,88,138,16.3,52,2
+Leaf Spot,139,89,139,16.4,53,2
+Leaf Spot,140,90,140,16.5,54,2
+Leaf Spot,141,91,141,16.6,55,2
+Leaf Spot,142,92,142,16.7,56,2
+Leaf Spot,143,93,143,16.8,57,2
+Leaf Spot,144,94,144,16.9,58,2
+Leaf Spot,145,95,145,17,59,2
+Leaf Spot,146,96,146,17.1,60,2
+Leaf Spot,147,97,147,17.2,50,2
+Leaf Spot,148,98,148,17.3,51,2
+Leaf Spot,149,99,149,17.4,52,2
+Leaf Spot,150,100,150,17.5,53,2
+Leaf Spot,125,75,125,17.6,54,2
+Leaf Spot,126,76,126,17.7,55,2
+Leaf Spot,127,77,127,17.8,56,2
+Leaf Spot,128,78,128,17.9,57,2
+Leaf Spot,129,79,129,18,58,2
+Leaf Spot,130,80,130,18.1,59,2
+Leaf Spot,131,81,131,18.2,60,2
+Leaf Spot,132,82,132,18.3,50,2
+Leaf Spot,133,83,133,18.4,51,2
+Leaf Spot,134,84,134,18.5,52,2
+Leaf Spot,135,85,135,18.6,53,2
+Leaf Spot,136,86,136,18.7,54,2
+Leaf Spot,137,87,137,18.8,55,2
+Leaf Spot,138,88,138,18.9,56,2
+Leaf Spot,139,89,139,19,57,2
+Leaf Spot,140,90,140,19.1,58,2
+Leaf Spot,141,91,141,19.2,59,2
+Leaf Spot,142,92,142,19.3,60,2
+Leaf Spot,143,93,143,19.4,50,2
+Leaf Spot,144,94,144,19.5,51,2
+Leaf Spot,145,95,145,19.6,52,2
+Leaf Spot,146,96,146,19.7,53,2
+Leaf Spot,147,97,147,19.8,54,2
+Leaf Spot,148,98,148,19.9,55,2
+Leaf Spot,149,99,149,20,56,2
+Anthracnose,150,100,150,20,50,2
+Anthracnose,151,101,151,20.1,51,2
+Anthracnose,152,102,152,20.2,52,2
+Anthracnose,153,103,153,20.3,53,2
+Anthracnose,154,104,154,20.4,54,2
+Anthracnose,155,105,155,20.5,55,2
+Anthracnose,156,106,156,20.6,56,2
+Anthracnose,157,107,157,20.7,57,2
+Anthracnose,158,108,158,20.8,58,2
+Anthracnose,159,109,159,20.9,59,2
+Anthracnose,160,110,160,21,60,2
+Anthracnose,161,111,161,21.1,50,2
+Anthracnose,162,112,162,21.2,51,2
+Anthracnose,163,113,163,21.3,52,2
+Anthracnose,164,114,164,21.4,53,2
+Anthracnose,165,115,165,21.5,54,2
+Anthracnose,166,116,166,21.6,55,2
+Anthracnose,167,117,167,21.7,56,2
+Anthracnose,168,118,168,21.8,57,2
+Anthracnose,169,119,169,21.9,58,2
+Anthracnose,170,120,170,22,59,2
+Anthracnose,171,121,171,22.1,60,2
+Anthracnose,172,122,172,22.2,50,2
+Anthracnose,173,123,173,22.3,51,2
+Anthracnose,174,124,174,22.4,52,2
+Anthracnose,175,125,175,22.5,53,2
+Anthracnose,176,126,176,22.6,54,2
+Anthracnose,177,127,177,22.7,55,2
+Anthracnose,178,128,178,22.8,56,2
+Anthracnose,179,129,179,22.9,57,2
+Anthracnose,180,130,180,23,58,2
+Anthracnose,181,131,181,23.1,59,2
+Anthracnose,182,132,182,23.2,60,2
+Anthracnose,183,133,183,23.3,50,2
+Anthracnose,184,134,184,23.4,51,2
+Anthracnose,185,135,185,23.5,52,2
+Anthracnose,186,136,186,23.6,53,2
+Anthracnose,187,137,187,23.7,54,2
+Anthracnose,188,138,188,23.8,55,2
+Anthracnose,189,139,189,23.9,56,2
+Anthracnose,190,140,190,24,57,2
+Anthracnose,191,141,191,24.1,58,2
+Anthracnose,192,142,192,24.2,59,2
+Anthracnose,193,143,193,24.3,60,2
+Anthracnose,194,144,194,24.4,50,2
+Anthracnose,195,145,195,24.5,51,2
+Anthracnose,196,146,196,24.6,52,2
+Anthracnose,197,147,197,24.7,53,2
+Anthracnose,198,148,198,24.8,54,2
+Anthracnose,199,149,199,24.9,55,2
+Anthracnose,200,150,200,25,56,2
+Anthracnose,150,100,150,25.1,57,2
+Anthracnose,151,101,151,25.2,58,2
+Anthracnose,152,102,152,25.3,59,2
+Anthracnose,153,103,153,25.4,60,2
+Anthracnose,154,104,154,25.5,50,2
+Anthracnose,155,105,155,25.6,51,2
+Anthracnose,156,106,156,25.7,52,2
+Anthracnose,157,107,157,25.8,53,2
+Anthracnose,158,108,158,25.9,54,2
+Anthracnose,159,109,159,26,55,2
+Anthracnose,160,110,160,26.1,56,2
+Anthracnose,161,111,161,26.2,57,2
+Anthracnose,162,112,162,26.3,58,2
+Anthracnose,163,113,163,26.4,59,2
+Anthracnose,164,114,164,26.5,60,2
+Dieback,150,100,150,20,50,2
+Dieback,151,101,151,20.1,51,2
+Dieback,152,102,152,20.2,52,2
+Dieback,153,103,153,20.3,53,2
+Dieback,154,104,154,20.4,54,2
+Dieback,155,105,155,20.5,55,2
+Dieback,156,106,156,20.6,56,2
+Dieback,157,107,157,20.7,57,2
+Dieback,158,108,158,20.8,58,2
+Dieback,159,109,159,20.9,59,2
+Dieback,160,110,160,21,60,2
+Dieback,161,111,161,21.1,50,2
+Dieback,162,112,162,21.2,51,2
+Dieback,163,113,163,21.3,52,2
+Dieback,164,114,164,21.4,53,2
+Dieback,165,115,165,21.5,54,2
+Dieback,166,116,166,21.6,55,2
+Dieback,167,117,167,21.7,56,2
+Dieback,168,118,168,21.8,57,2
+Dieback,169,119,169,21.9,58,2
+Dieback,170,120,170,22,59,2
+Dieback,171,121,171,22.1,60,2
+Dieback,172,122,172,22.2,50,2
+Dieback,173,123,173,22.3,51,2
+Dieback,174,124,174,22.4,52,2
+Dieback,175,125,175,22.5,53,2
+Dieback,176,126,176,22.6,54,2
+Dieback,177,127,177,22.7,55,2
+Dieback,178,128,178,22.8,56,2
+Dieback,179,129,179,22.9,57,2
+Dieback,180,130,180,23,58,2
+Dieback,181,131,181,23.1,59,2
+Dieback,182,132,182,23.2,60,2
+Dieback,183,133,183,23.3,50,2
+Dieback,184,134,184,23.4,51,2
+Dieback,185,135,185,23.5,52,2
+Dieback,186,136,186,23.6,53,2
+Dieback,187,137,187,23.7,54,2
+Dieback,188,138,188,23.8,55,2
+Dieback,189,139,189,23.9,56,2
+Dieback,190,140,190,24,57,2
+Dieback,191,141,191,24.1,58,2
+Dieback,192,142,192,24.2,59,2
+Dieback,193,143,193,24.3,60,2
+Dieback,194,144,194,24.4,50,2
+Dieback,195,145,195,24.5,51,2
+Dieback,196,146,196,24.6,52,2
+Dieback,197,147,197,24.7,53,2
+Dieback,198,148,198,24.8,54,2
+Dieback,199,149,199,24.9,55,2
+Dieback,200,150,200,25,56,2
+Dieback,150,100,150,25.1,57,2
+Dieback,151,101,151,25.2,58,2
+Dieback,152,102,152,25.3,59,2
+Dieback,153,103,153,25.4,60,2
+Dieback,154,104,154,25.5,50,2
+Dieback,155,105,155,25.6,51,2
+Dieback,156,106,156,25.7,52,2
+Dieback,157,107,157,25.8,53,2
+Dieback,158,108,158,25.9,54,2
+Dieback,159,109,159,26,55,2
+Dieback,160,110,160,26.1,56,2
+Dieback,161,111,161,26.2,57,2
+Dieback,162,112,162,26.3,58,2
+Dieback,163,113,163,26.4,59,2
+Dieback,164,114,164,26.5,60,2
+Root Rot,150,100,150,15,50,2
+Root Rot,151,101,151,15.1,51,2
+Root Rot,152,102,152,15.2,52,2
+Root Rot,153,103,153,15.3,53,2
+Root Rot,154,104,154,15.4,54,2
+Root Rot,155,105,155,15.5,55,2
+Root Rot,156,106,156,15.6,56,2
+Root Rot,157,107,157,15.7,57,2
+Root Rot,158,108,158,15.8,58,2
+Root Rot,159,109,159,15.9,59,2
+Root Rot,160,110,160,16,60,2
+Root Rot,161,111,161,16.1,50,2
+Root Rot,162,112,162,16.2,51,2
+Root Rot,163,113,163,16.3,52,2
+Root Rot,164,114,164,16.4,53,2
+Root Rot,165,115,165,16.5,54,2
+Root Rot,166,116,166,16.6,55,2
+Root Rot,167,117,167,16.7,56,2
+Root Rot,168,118,168,16.8,57,2
+Root Rot,169,119,169,16.9,58,2
+Root Rot,170,120,170,17,59,2
+Root Rot,171,121,171,17.1,60,2
+Root Rot,172,122,172,17.2,50,2
+Root Rot,173,123,173,17.3,51,2
+Root Rot,174,124,174,17.4,52,2
+Root Rot,175,125,175,17.5,53,2
+Root Rot,176,126,176,17.6,54,2
+Root Rot,177,127,177,17.7,55,2
+Root Rot,178,128,178,17.8,56,2
+Root Rot,179,129,179,17.9,57,2
+Root Rot,180,130,180,18,58,2
+Root Rot,181,131,181,18.1,59,2
+Root Rot,182,132,182,18.2,60,2
+Root Rot,183,133,183,18.3,50,2
+Root Rot,184,134,184,18.4,51,2
+Root Rot,185,135,185,18.5,52,2
+Root Rot,186,136,186,18.6,53,2
+Root Rot,187,137,187,18.7,54,2
+Root Rot,188,138,188,18.8,55,2
+Root Rot,189,139,189,18.9,56,2
+Root Rot,190,140,190,19,57,2
+Root Rot,191,141,191,19.1,58,2
+Root Rot,192,142,192,19.2,59,2
+Root Rot,193,143,193,19.3,60,2
+Root Rot,194,144,194,19.4,50,2
+Root Rot,195,145,195,19.5,51,2
+Root Rot,196,146,196,19.6,52,2
+Root Rot,197,147,197,19.7,53,2
+Root Rot,198,148,198,19.8,54,2
+Root Rot,199,149,199,19.9,55,2
+Root Rot,200,150,200,20,56,2
+Root Rot,150,100,150,20.1,57,2
+Root Rot,151,101,151,20.2,58,2
+Root Rot,152,102,152,20.3,59,2
+Root Rot,153,103,153,20.4,60,2
+Root Rot,154,104,154,20.5,50,2
+Root Rot,155,105,155,20.6,51,2
+Root Rot,156,106,156,20.7,52,2
+Root Rot,157,107,157,20.8,53,2
+Root Rot,158,108,158,20.9,54,2
+Root Rot,159,109,159,21,55,2
+Root Rot,160,110,160,21.1,56,2
+Root Rot,161,111,161,21.2,57,2
+Root Rot,162,112,162,21.3,58,2
+Root Rot,163,113,163,21.4,59,2
+Root Rot,164,114,164,21.5,60,2
+Root Rot,165,115,165,21.6,50,2
+Root Rot,166,116,166,21.7,51,2
+Root Rot,167,117,167,21.8,52,2
+Root Rot,168,118,168,21.9,53,2
+Root Rot,169,119,169,22,54,2
+Root Rot,170,120,170,22.1,55,2
+Root Rot,171,121,171,22.2,56,2
+Root Rot,172,122,172,22.3,57,2
+Root Rot,173,123,173,22.4,58,2
+Root Rot,174,124,174,22.5,59,2
+Root Rot,175,125,175,22.6,60,2
+Root Rot,176,126,176,22.7,50,2
+Root Rot,177,127,177,22.8,51,2
+Root Rot,178,128,178,22.9,52,2
+Root Rot,179,129,179,23,53,2
+Root Rot,180,130,180,23.1,54,2
+Root Rot,181,131,181,23.2,55,2
+Root Rot,182,132,182,23.3,56,2
+Root Rot,183,133,183,23.4,57,2
+Root Rot,184,134,184,23.5,58,2
+Root Rot,185,135,185,23.6,59,2
+Root Rot,186,136,186,23.7,60,2
+Root Rot,187,137,187,23.8,50,2
+Root Rot,188,138,188,23.9,51,2
+Root Rot,189,139,189,24,52,2
+Root Rot,190,140,190,24.1,53,2
+Root Rot,191,141,191,24.2,54,2
+Root Rot,192,142,192,24.3,55,2
+Root Rot,193,143,193,24.4,56,2
+Root Rot,194,144,194,24.5,57,2
+Root Rot,195,145,195,24.6,58,2
+Root Rot,196,146,196,24.7,59,2
+Root Rot,197,147,197,24.8,60,2
+Root Rot,198,148,198,24.9,50,2
+Root Rot,199,149,199,25,51,2
+Root Rot,150,100,150,30,50,2
+Root Rot,151,101,151,30.1,51,2
+Root Rot,152,102,152,30.2,52,2
+Root Rot,153,103,153,30.3,53,2
+Root Rot,154,104,154,30.4,54,2
+Root Rot,155,105,155,30.5,55,2
+Root Rot,156,106,156,30.6,56,2
+Root Rot,157,107,157,30.7,57,2
+Root Rot,158,108,158,30.8,58,2
+Root Rot,159,109,159,30.9,59,2
+Root Rot,160,110,160,31,60,2
+Root Rot,161,111,161,31.1,50,2
+Root Rot,162,112,162,31.2,51,2
+Root Rot,163,113,163,31.3,52,2
+Root Rot,164,114,164,31.4,53,2
+Root Rot,165,115,165,31.5,54,2
+Root Rot,166,116,166,31.6,55,2
+Root Rot,167,117,167,31.7,56,2
+Root Rot,168,118,168,31.8,57,2
+Root Rot,169,119,169,31.9,58,2
+Root Rot,170,120,170,32,59,2
+Root Rot,171,121,171,32.1,60,2
+Root Rot,172,122,172,32.2,50,2
+Root Rot,173,123,173,32.3,51,2
+Root Rot,174,124,174,32.4,52,2
+Root Rot,175,125,175,32.5,53,2
+Root Rot,176,126,176,32.6,54,2
+Root Rot,177,127,177,32.7,55,2
+Root Rot,178,128,178,32.8,56,2
+Root Rot,179,129,179,32.9,57,2
+Root Rot,180,130,180,33,58,2
+Root Rot,181,131,181,33.1,59,2
+Root Rot,182,132,182,33.2,60,2
+Root Rot,183,133,183,33.3,50,2
+Root Rot,184,134,184,33.4,51,2
+Root Rot,185,135,185,33.5,52,2
+Root Rot,186,136,186,33.6,53,2
+Root Rot,187,137,187,33.7,54,2
+Root Rot,188,138,188,33.8,55,2
+Root Rot,189,139,189,33.9,56,2
+Root Rot,190,140,190,34,57,2
+Root Rot,191,141,191,34.1,58,2
+Root Rot,192,142,192,34.2,59,2
+Root Rot,193,143,193,34.3,60,2
+Root Rot,194,144,194,34.4,50,2
+Root Rot,195,145,195,34.5,51,2
+Root Rot,196,146,196,34.6,52,2
+Root Rot,197,147,197,34.7,53,2
+Root Rot,198,148,198,34.8,54,2
+Root Rot,199,149,199,34.9,55,2
+Root Rot,200,150,200,35,56,2
+Root Rot,150,100,150,35.1,57,2
+Root Rot,151,101,151,35.2,58,2
+Root Rot,152,102,152,35.3,59,2
+Root Rot,153,103,153,35.4,60,2
+Root Rot,154,104,154,35.5,50,2
+Root Rot,155,105,155,35.6,51,2
+Root Rot,156,106,156,35.7,52,2
+Root Rot,157,107,157,35.8,53,2
+Root Rot,158,108,158,35.9,54,2
+Root Rot,159,109,159,36,55,2
+Root Rot,160,110,160,36.1,56,2
+Root Rot,161,111,161,36.2,57,2
+Root Rot,162,112,162,36.3,58,2
+Root Rot,163,113,163,36.4,59,2
+Root Rot,164,114,164,36.5,60,2
+Root Rot,165,115,165,36.6,50,2
+Root Rot,166,116,166,36.7,51,2
+Root Rot,167,117,167,36.8,52,2
+Root Rot,168,118,168,36.9,53,2
+Root Rot,169,119,169,37,54,2
+Root Rot,170,120,170,37.1,55,2
+Root Rot,171,121,171,37.2,56,2
+Root Rot,172,122,172,37.3,57,2
+Root Rot,173,123,173,37.4,58,2
+Root Rot,174,124,174,37.5,59,2
+Root Rot,175,125,175,37.6,60,2
+Root Rot,176,126,176,37.7,50,2
+Root Rot,177,127,177,37.8,51,2
+Root Rot,178,128,178,37.9,52,2
+Root Rot,179,129,179,38,53,2
+Root Rot,180,130,180,38.1,54,2
+Root Rot,181,131,181,38.2,55,2
+Root Rot,182,132,182,38.3,56,2
+Root Rot,183,133,183,38.4,57,2
+Root Rot,184,134,184,38.5,58,2
+Root Rot,185,135,185,38.6,59,2
+Root Rot,186,136,186,38.7,60,2
+Root Rot,187,137,187,38.8,50,2
+Root Rot,188,138,188,38.9,51,2
+Root Rot,189,139,189,39,52,2
+Root Rot,190,140,190,39.1,53,2
+Root Rot,191,141,191,39.2,54,2
+Root Rot,192,142,192,39.3,55,2
+Root Rot,193,143,193,39.4,56,2
+Root Rot,194,144,194,39.5,57,2
+Root Rot,195,145,195,39.6,58,2
+Root Rot,196,146,196,39.7,59,2
+Root Rot,197,147,197,39.8,60,2
+Root Rot,198,148,198,39.9,50,2
+Root Rot,199,149,199,40,51,2
+Nutrient Deficiency,150,100,150,20,50,2
+Nutrient Deficiency,151,101,151,20.1,51,2
+Nutrient Deficiency,152,102,152,20.2,52,2
+Nutrient Deficiency,153,103,153,20.3,53,2
+Nutrient Deficiency,154,104,154,20.4,54,2
+Nutrient Deficiency,155,105,155,20.5,55,2
+Nutrient Deficiency,156,106,156,20.6,56,2
+Nutrient Deficiency,157,107,157,20.7,57,2
+Nutrient Deficiency,158,108,158,20.8,58,2
+Nutrient Deficiency,159,109,159,20.9,59,2
+Nutrient Deficiency,160,110,160,21,60,2
+Nutrient Deficiency,161,111,161,21.1,50,2
+Nutrient Deficiency,162,112,162,21.2,51,2
+Nutrient Deficiency,163,113,163,21.3,52,2
+Nutrient Deficiency,164,114,164,21.4,53,2
+Nutrient Deficiency,165,115,165,21.5,54,2
+Nutrient Deficiency,166,116,166,21.6,55,2
+Nutrient Deficiency,167,117,167,21.7,56,2
+Nutrient Deficiency,168,118,168,21.8,57,2
+Nutrient Deficiency,169,119,169,21.9,58,2
+Nutrient Deficiency,170,120,170,22,59,2
+Nutrient Deficiency,171,121,171,22.1,60,2
+Nutrient Deficiency,172,122,172,22.2,50,2
+Nutrient Deficiency,173,123,173,22.3,51,2
+Nutrient Deficiency,174,124,174,22.4,52,2
+Nutrient Deficiency,175,125,175,22.5,53,2
+Nutrient Deficiency,176,126,176,22.6,54,2
+Nutrient Deficiency,177,127,177,22.7,55,2
+Nutrient Deficiency,178,128,178,22.8,56,2
+Nutrient Deficiency,179,129,179,22.9,57,2
+Nutrient Deficiency,180,130,180,23,58,2
+Nutrient Deficiency,181,131,181,23.1,59,2
+Nutrient Deficiency,182,132,182,23.2,60,2
+Nutrient Deficiency,183,133,183,23.3,50,2
+Nutrient Deficiency,184,134,184,23.4,51,2
+Nutrient Deficiency,185,135,185,23.5,52,2
+Nutrient Deficiency,186,136,186,23.6,53,2
+Nutrient Deficiency,187,137,187,23.7,54,2
+Nutrient Deficiency,188,138,188,23.8,55,2
+Nutrient Deficiency,189,139,189,23.9,56,2
+Nutrient Deficiency,190,140,190,24,57,2
+Nutrient Deficiency,191,141,191,24.1,58,2
+Nutrient Deficiency,192,142,192,24.2,59,2
+Nutrient Deficiency,193,143,193,24.3,60,2
+Nutrient Deficiency,194,144,194,24.4,50,2
+Nutrient Deficiency,195,145,195,24.5,51,2
+Nutrient Deficiency,196,146,196,24.6,52,2
+Nutrient Deficiency,197,147,197,24.7,53,2
+Nutrient Deficiency,198,148,198,24.8,54,2
+Nutrient Deficiency,199,149,199,24.9,55,2
+Nutrient Deficiency,200,150,200,25,56,2
+Nutrient Deficiency,150,100,150,25.1,57,2
+Nutrient Deficiency,151,101,151,25.2,58,2
+Nutrient Deficiency,152,102,152,25.3,59,2
+Nutrient Deficiency,153,103,153,25.4,60,2
+Nutrient Deficiency,154,104,154,25.5,50,2
+Nutrient Deficiency,155,105,155,25.6,51,2
+Nutrient Deficiency,156,106,156,25.7,52,2
+Nutrient Deficiency,157,107,157,25.8,53,2
+Nutrient Deficiency,158,108,158,25.9,54,2
+Nutrient Deficiency,159,109,159,26,55,2
+Nutrient Deficiency,160,110,160,26.1,56,2
+Nutrient Deficiency,161,111,161,26.2,57,2
+Nutrient Deficiency,162,112,162,26.3,58,2
+Nutrient Deficiency,163,113,163,26.4,59,2
+Nutrient Deficiency,164,114,164,26.5,60,2
+Nutrient Deficiency,165,115,165,26.6,50,2
+Nutrient Deficiency,166,116,166,26.7,51,2
+Nutrient Deficiency,167,117,167,26.8,52,2
+Nutrient Deficiency,168,118,168,26.9,53,2
+Nutrient Deficiency,169,119,169,27,54,2
+Nutrient Deficiency,170,120,170,27.1,55,2
+Nutrient Deficiency,171,121,171,27.2,56,2
+Nutrient Deficiency,172,122,172,27.3,57,2
+Nutrient Deficiency,173,123,173,27.4,58,2
+Nutrient Deficiency,174,124,174,27.5,59,2
+Nutrient Deficiency,175,125,175,27.6,60,2
+Nutrient Deficiency,176,126,176,27.7,50,2
+Nutrient Deficiency,177,127,177,27.8,51,2
+Nutrient Deficiency,178,128,178,27.9,52,2
+Nutrient Deficiency,179,129,179,28,53,2
+Nutrient Deficiency,180,130,180,28.1,54,2
+Nutrient Deficiency,181,131,181,28.2,55,2
+Nutrient Deficiency,182,132,182,28.3,56,2
+Nutrient Deficiency,183,133,183,28.4,57,2
+Nutrient Deficiency,184,134,184,28.5,58,2
+Nutrient Deficiency,185,135,185,28.6,59,2
+Nutrient Deficiency,186,136,186,28.7,60,2
+Nutrient Deficiency,187,137,187,28.8,50,2
+Nutrient Deficiency,188,138,188,28.9,51,2
+Nutrient Deficiency,189,139,189,29,52,2
+Nutrient Deficiency,190,140,190,29.1,53,2
+Nutrient Deficiency,191,141,191,29.2,54,2
+Nutrient Deficiency,192,142,192,29.3,55,2
+Nutrient Deficiency,193,143,193,29.4,56,2
+Nutrient Deficiency,194,144,194,29.5,57,2
+Nutrient Deficiency,195,145,195,29.6,58,2
+Nutrient Deficiency,196,146,196,29.7,59,2
+Nutrient Deficiency,197,147,197,29.8,60,2
+Nutrient Deficiency,198,148,198,29.9,50,2
+Nutrient Deficiency,199,149,199,30,51,2
+Nutrient Deficiency,150,100,150,15,50,2
+Nutrient Deficiency,151,101,151,15.1,51,2
+Nutrient Deficiency,152,102,152,15.2,52,2
+Nutrient Deficiency,153,103,153,15.3,53,2
+Nutrient Deficiency,154,104,154,15.4,54,2
+Nutrient Deficiency,155,105,155,15.5,55,2
+Nutrient Deficiency,156,106,156,15.6,56,2
+Nutrient Deficiency,157,107,157,15.7,57,2
+Nutrient Deficiency,158,108,158,15.8,58,2
+Nutrient Deficiency,159,109,159,15.9,59,2
+Nutrient Deficiency,160,110,160,16,60,2
+Nutrient Deficiency,161,111,161,16.1,50,2
+Nutrient Deficiency,162,112,162,16.2,51,2
+Nutrient Deficiency,163,113,163,16.3,52,2
+Nutrient Deficiency,164,114,164,16.4,53,2
+Nutrient Deficiency,165,115,165,16.5,54,2
+Nutrient Deficiency,166,116,166,16.6,55,2
+Nutrient Deficiency,167,117,167,16.7,56,2
+Nutrient Deficiency,168,118,168,16.8,57,2
+Nutrient Deficiency,169,119,169,16.9,58,2
+Nutrient Deficiency,170,120,170,17,59,2
+Nutrient Deficiency,171,121,171,17.1,60,2
+Nutrient Deficiency,172,122,172,17.2,50,2
+Nutrient Deficiency,173,123,173,17.3,51,2
+Nutrient Deficiency,174,124,174,17.4,52,2
+Nutrient Deficiency,175,125,175,17.5,53,2
+Nutrient Deficiency,176,126,176,17.6,54,2
+Nutrient Deficiency,177,127,177,17.7,55,2
+Nutrient Deficiency,178,128,178,17.8,56,2
+Nutrient Deficiency,179,129,179,17.9,57,2
+Nutrient Deficiency,180,130,180,18,58,2
+Nutrient Deficiency,181,131,181,18.1,59,2
+Nutrient Deficiency,182,132,182,18.2,60,2
+Nutrient Deficiency,183,133,183,18.3,50,2
+Nutrient Deficiency,184,134,184,18.4,51,2
+Nutrient Deficiency,185,135,185,18.5,52,2
+Nutrient Deficiency,186,136,186,18.6,53,2
+Nutrient Deficiency,187,137,187,18.7,54,2
+Nutrient Deficiency,188,138,188,18.8,55,2
+Nutrient Deficiency,189,139,189,18.9,56,2
+Nutrient Deficiency,190,140,190,19,57,2
+Nutrient Deficiency,191,141,191,19.1,58,2
+Nutrient Deficiency,192,142,192,19.2,59,2
+Nutrient Deficiency,193,143,193,19.3,60,2
+Nutrient Deficiency,194,144,194,19.4,50,2
+Nutrient Deficiency,195,145,195,19.5,51,2
+Nutrient Deficiency,196,146,196,19.6,52,2
+Nutrient Deficiency,197,147,197,19.7,53,2
+Nutrient Deficiency,198,148,198,19.8,54,2
+Nutrient Deficiency,199,149,199,19.9,55,2
+Nutrient Deficiency,200,150,200,20,56,2
+Nutrient Deficiency,150,100,150,20.1,57,2
+Nutrient Deficiency,151,101,151,20.2,58,2
+Nutrient Deficiency,152,102,152,20.3,59,2
+Nutrient Deficiency,153,103,153,20.4,60,2
+Nutrient Deficiency,154,104,154,20.5,50,2
+Nutrient Deficiency,155,105,155,20.6,51,2
+Nutrient Deficiency,156,106,156,20.7,52,2
+Nutrient Deficiency,157,107,157,20.8,53,2
+Nutrient Deficiency,158,108,158,20.9,54,2
+Nutrient Deficiency,159,109,159,21,55,2
+Nutrient Deficiency,160,110,160,21.1,56,2
+Nutrient Deficiency,161,111,161,21.2,57,2
+Nutrient Deficiency,162,112,162,21.3,58,2
+Nutrient Deficiency,163,113,163,21.4,59,2
+Nutrient Deficiency,164,114,164,21.5,60,2
+Nutrient Deficiency,165,115,165,21.6,50,2
+Nutrient Deficiency,166,116,166,21.7,51,2
+Nutrient Deficiency,167,117,167,21.8,52,2
+Nutrient Deficiency,168,118,168,21.9,53,2
+Nutrient Deficiency,169,119,169,22,54,2
+Nutrient Deficiency,170,120,170,22.1,55,2
+Nutrient Deficiency,171,121,171,22.2,56,2
+Nutrient Deficiency,172,122,172,22.3,57,2
+Nutrient Deficiency,173,123,173,22.4,58,2
+Nutrient Deficiency,174,124,174,22.5,59,2
+Nutrient Deficiency,175,125,175,22.6,60,2
+Nutrient Deficiency,176,126,176,22.7,50,2
+Nutrient Deficiency,177,127,177,22.8,51,2
+Nutrient Deficiency,178,128,178,22.9,52,2
+Nutrient Deficiency,179,129,179,23,53,2
+Nutrient Deficiency,180,130,180,23.1,54,2
+Nutrient Deficiency,181,131,181,23.2,55,2
+Nutrient Deficiency,182,132,182,23.3,56,2
+Nutrient Deficiency,183,133,183,23.4,57,2
+Nutrient Deficiency,184,134,184,23.5,58,2
+Nutrient Deficiency,185,135,185,23.6,59,2
+Nutrient Deficiency,186,136,186,23.7,60,2
+Nutrient Deficiency,187,137,187,23.8,50,2
+Nutrient Deficiency,188,138,188,23.9,51,2
+Nutrient Deficiency,189,139,189,24,52,2
+Nutrient Deficiency,190,140,190,24.1,53,2
+Nutrient Deficiency,191,141,191,24.2,54,2
+Nutrient Deficiency,192,142,192,24.3,55,2
+Nutrient Deficiency,193,143,193,24.4,56,2
+Nutrient Deficiency,194,144,194,24.5,57,2
+Nutrient Deficiency,195,145,195,24.6,58,2
+Nutrient Deficiency,196,146,196,24.7,59,2
+Nutrient Deficiency,197,147,197,24.8,60,2
+Nutrient Deficiency,198,148,198,24.9,50,2
+Nutrient Deficiency,199,149,199,25,51,2
+Salinity Stress,150,100,150,20,50,2
+Salinity Stress,151,101,151,20.1,51,2
+Salinity Stress,152,102,152,20.2,52,2
+Salinity Stress,153,103,153,20.3,53,2
+Salinity Stress,154,104,154,20.4,54,2
+Salinity Stress,155,105,155,20.5,55,2
+Salinity Stress,156,106,156,20.6,56,2
+Salinity Stress,157,107,157,20.7,57,2
+Salinity Stress,158,108,158,20.8,58,2
+Salinity Stress,159,109,159,20.9,59,2
+Salinity Stress,160,110,160,21,60,2
+Salinity Stress,161,111,161,21.1,50,2
+Salinity Stress,162,112,162,21.2,51,2
+Salinity Stress,163,113,163,21.3,52,2
+Salinity Stress,164,114,164,21.4,53,2
+Salinity Stress,165,115,165,21.5,54,2
+Salinity Stress,166,116,166,21.6,55,2
+Salinity Stress,167,117,167,21.7,56,2
+Salinity Stress,168,118,168,21.8,57,2
+Salinity Stress,169,119,169,21.9,58,2
+Salinity Stress,170,120,170,22,59,2
+Salinity Stress,171,121,171,22.1,60,2
+Salinity Stress,172,122,172,22.2,50,2
+Salinity Stress,173,123,173,22.3,51,2
+Salinity Stress,174,124,174,22.4,52,2
+Salinity Stress,175,125,175,22.5,53,2
+Salinity Stress,176,126,176,22.6,54,2
+Salinity Stress,177,127,177,22.7,55,2
+Salinity Stress,178,128,178,22.8,56,2
+Salinity Stress,179,129,179,22.9,57,2
+Salinity Stress,180,130,180,23,58,2
+Salinity Stress,181,131,181,23.1,59,2
+Salinity Stress,182,132,182,23.2,60,2
+Salinity Stress,183,133,183,23.3,50,2
+Salinity Stress,184,134,184,23.4,51,2
+Salinity Stress,185,135,185,23.5,52,2
+Salinity Stress,186,136,186,23.6,53,2
+Salinity Stress,187,137,187,23.7,54,2
+Salinity Stress,188,138,188,23.8,55,2
+Salinity Stress,189,139,189,23.9,56,2
+Salinity Stress,190,140,190,24,57,2
+Salinity Stress,191,141,191,24.1,58,2
+Salinity Stress,192,142,192,24.2,59,2
+Salinity Stress,193,143,193,24.3,60,2
+Salinity Stress,194,144,194,24.4,50,2
+Salinity Stress,195,145,195,24.5,51,2
+Salinity Stress,196,146,196,24.6,52,2
+Salinity Stress,197,147,197,24.7,53,2
+Salinity Stress,198,148,198,24.8,54,2
+Salinity Stress,199,149,199,24.9,55,2
+Salinity Stress,200,150,200,25,56,2
+Salinity Stress,150,100,150,25.1,57,2
+Salinity Stress,151,101,151,25.2,58,2
+Salinity Stress,152,102,152,25.3,59,2
+Salinity Stress,153,103,153,25.4,60,2
+Salinity Stress,154,104,154,25.5,50,2
+Salinity Stress,155,105,155,25.6,51,2
+Salinity Stress,156,106,156,25.7,52,2
+Salinity Stress,157,107,157,25.8,53,2
+Salinity Stress,158,108,158,25.9,54,2
+Salinity Stress,159,109,159,26,55,2
+Salinity Stress,160,110,160,26.1,56,2
+Salinity Stress,161,111,161,26.2,57,2
+Salinity Stress,162,112,162,26.3,58,2
+Salinity Stress,163,113,163,26.4,59,2
+Salinity Stress,164,114,164,26.5,60,2
+Salinity Stress,165,115,165,26.6,50,2
+Salinity Stress,166,116,166,26.7,51,2
+Salinity Stress,167,117,167,26.8,52,2
+Salinity Stress,168,118,168,26.9,53,2
+Salinity Stress,169,119,169,27,54,2
+Salinity Stress,170,120,170,27.1,55,2
+Salinity Stress,171,121,171,27.2,56,2
+Salinity Stress,172,122,172,27.3,57,2
+Salinity Stress,173,123,173,27.4,58,2
+Salinity Stress,174,124,174,27.5,59,2
+Salinity Stress,175,125,175,27.6,60,2
+Salinity Stress,176,126,176,27.7,50,2
+Salinity Stress,177,127,177,27.8,51,2
+Salinity Stress,178,128,178,27.9,52,2
+Salinity Stress,179,129,179,28,53,2
+Salinity Stress,180,130,180,28.1,54,2
+Salinity Stress,181,131,181,28.2,55,2
+Salinity Stress,182,132,182,28.3,56,2
+Salinity Stress,183,133,183,28.4,57,2
+Salinity Stress,184,134,184,28.5,58,2
+Salinity Stress,185,135,185,28.6,59,2
+Salinity Stress,186,136,186,28.7,60,2
+Salinity Stress,187,137,187,28.8,50,2
+Salinity Stress,188,138,188,28.9,51,2
+Salinity Stress,189,139,189,29,52,2
+Salinity Stress,190,140,190,29.1,53,2
+Salinity Stress,191,141,191,29.2,54,2
+Salinity Stress,192,142,192,29.3,55,2
+Salinity Stress,193,143,193,29.4,56,2
+Salinity Stress,194,144,194,29.5,57,2
+Salinity Stress,195,145,195,29.6,58,2
+Salinity Stress,196,146,196,29.7,59,2
+Salinity Stress,197,147,197,29.8,60,2
+Salinity Stress,198,148,198,29.9,50,2
+Salinity Stress,199,149,199,30,51,2
+Powdery Mildew,150,100,150,15,50,2
+Powdery Mildew,151,101,151,15.1,51,2
+Powdery Mildew,152,102,152,15.2,52,2
+Powdery Mildew,153,103,153,15.3,53,2
+Powdery Mildew,154,104,154,15.4,54,2
+Powdery Mildew,155,105,155,15.5,55,2
+Powdery Mildew,156,106,156,15.6,56,2
+Powdery Mildew,157,107,157,15.7,57,2
+Powdery Mildew,158,108,158,15.8,58,2
+Powdery Mildew,159,109,159,15.9,59,2
+Powdery Mildew,160,110,160,16,60,2
+Powdery Mildew,161,111,161,16.1,50,2
+Powdery Mildew,162,112,162,16.2,51,2
+Powdery Mildew,163,113,163,16.3,52,2
+Powdery Mildew,164,114,164,16.4,53,2
+Powdery Mildew,165,115,165,16.5,54,2
+Powdery Mildew,166,116,166,16.6,55,2
+Powdery Mildew,167,117,167,16.7,56,2
+Powdery Mildew,168,118,168,16.8,57,2
+Powdery Mildew,169,119,169,16.9,58,2
+Powdery Mildew,170,120,170,17,59,2
+Powdery Mildew,171,121,171,17.1,60,2
+Powdery Mildew,172,122,172,17.2,50,2
+Powdery Mildew,173,123,173,17.3,51,2
+Powdery Mildew,174,124,174,17.4,52,2
+Powdery Mildew,175,125,175,17.5,53,2
+Powdery Mildew,176,126,176,17.6,54,2
+Powdery Mildew,177,127,177,17.7,55,2
+Powdery Mildew,178,128,178,17.8,56,2
+Powdery Mildew,179,129,179,17.9,57,2
+Powdery Mildew,180,130,180,18,58,2
+Powdery Mildew,181,131,181,18.1,59,2
+Powdery Mildew,182,132,182,18.2,60,2
+Powdery Mildew,183,133,183,18.3,50,2
+Powdery Mildew,184,134,184,18.4,51,2
+Powdery Mildew,185,135,185,18.5,52,2
+Powdery Mildew,186,136,186,18.6,53,2
+Powdery Mildew,187,137,187,18.7,54,2
+Powdery Mildew,188,138,188,18.8,55,2
+Powdery Mildew,189,139,189,18.9,56,2
+Powdery Mildew,190,140,190,19,57,2
+Powdery Mildew,191,141,191,19.1,58,2
+Powdery Mildew,192,142,192,19.2,59,2
+Powdery Mildew,193,143,193,19.3,60,2
+Powdery Mildew,194,144,194,19.4,50,2
+Powdery Mildew,195,145,195,19.5,51,2
+Powdery Mildew,196,146,196,19.6,52,2
+Powdery Mildew,197,147,197,19.7,53,2
+Powdery Mildew,198,148,198,19.8,54,2
+Powdery Mildew,199,149,199,19.9,55,2
+Powdery Mildew,200,150,200,20,56,2
+Powdery Mildew,150,100,150,20.1,57,2
+Powdery Mildew,151,101,151,20.2,58,2
+Powdery Mildew,152,102,152,20.3,59,2
+Powdery Mildew,153,103,153,20.4,60,2
+Powdery Mildew,154,104,154,20.5,50,2
+Powdery Mildew,155,105,155,20.6,51,2
+Powdery Mildew,156,106,156,20.7,52,2
+Powdery Mildew,157,107,157,20.8,53,2
+Powdery Mildew,158,108,158,20.9,54,2
+Powdery Mildew,159,109,159,21,55,2
+Powdery Mildew,160,110,160,21.1,56,2
+Powdery Mildew,161,111,161,21.2,57,2
+Powdery Mildew,162,112,162,21.3,58,2
+Powdery Mildew,163,113,163,21.4,59,2
+Powdery Mildew,164,114,164,21.5,60,2
+Powdery Mildew,165,115,165,21.6,50,2
+Powdery Mildew,166,116,166,21.7,51,2
+Powdery Mildew,167,117,167,21.8,52,2
+Powdery Mildew,168,118,168,21.9,53,2
+Powdery Mildew,169,119,169,22,54,2
+Powdery Mildew,170,120,170,22.1,55,2
+Powdery Mildew,171,121,171,22.2,56,2
+Powdery Mildew,172,122,172,22.3,57,2
+Powdery Mildew,173,123,173,22.4,58,2
+Powdery Mildew,174,124,174,22.5,59,2
+Powdery Mildew,175,125,175,22.6,60,2
+Powdery Mildew,176,126,176,22.7,50,2
+Powdery Mildew,177,127,177,22.8,51,2
+Powdery Mildew,178,128,178,22.9,52,2
+Powdery Mildew,179,129,179,23,53,2
+Powdery Mildew,180,130,180,23.1,54,2
+Powdery Mildew,181,131,181,23.2,55,2
+Powdery Mildew,182,132,182,23.3,56,2
+Powdery Mildew,183,133,183,23.4,57,2
+Powdery Mildew,184,134,184,23.5,58,2
+Powdery Mildew,185,135,185,23.6,59,2
+Powdery Mildew,186,136,186,23.7,60,2
+Powdery Mildew,187,137,187,23.8,50,2
+Powdery Mildew,188,138,188,23.9,51,2
+Powdery Mildew,189,139,189,24,52,2
+Powdery Mildew,190,140,190,24.1,53,2
+Powdery Mildew,191,141,191,24.2,54,2
+Powdery Mildew,192,142,192,24.3,55,2
+Powdery Mildew,193,143,193,24.4,56,2
+Powdery Mildew,194,144,194,24.5,57,2
+Powdery Mildew,195,145,195,24.6,58,2
+Powdery Mildew,196,146,196,24.7,59,2
+Powdery Mildew,197,147,197,24.8,60,2
+Powdery Mildew,198,148,198,24.9,50,2
+Powdery Mildew,199,149,199,25,51,2
+Bacterial Wilt,150,100,150,20,50,2
+Bacterial Wilt,151,101,151,20.1,51,2
+Bacterial Wilt,152,102,152,20.2,52,2
+Bacterial Wilt,153,103,153,20.3,53,2
+Bacterial Wilt,154,104,154,20.4,54,2
+Bacterial Wilt,155,105,155,20.5,55,2
+Bacterial Wilt,156,106,156,20.6,56,2
+Bacterial Wilt,157,107,157,20.7,57,2
+Bacterial Wilt,158,108,158,20.8,58,2
+Bacterial Wilt,159,109,159,20.9,59,2
+Bacterial Wilt,160,110,160,21,60,2
+Bacterial Wilt,161,111,161,21.1,50,2
+Bacterial Wilt,162,112,162,21.2,51,2
+Bacterial Wilt,163,113,163,21.3,52,2
+Bacterial Wilt,164,114,164,21.4,53,2
+Bacterial Wilt,165,115,165,21.5,54,2
+Bacterial Wilt,166,116,166,21.6,55,2
+Bacterial Wilt,167,117,167,21.7,56,2
+Bacterial Wilt,168,118,168,21.8,57,2
+Bacterial Wilt,169,119,169,21.9,58,2
+Bacterial Wilt,170,120,170,22,59,2
+Bacterial Wilt,171,121,171,22.1,60,2
+Bacterial Wilt,172,122,172,22.2,50,2
+Bacterial Wilt,173,123,173,22.3,51,2
+Bacterial Wilt,174,124,174,22.4,52,2
+Bacterial Wilt,175,125,175,22.5,53,2
+Bacterial Wilt,176,126,176,22.6,54,2
+Bacterial Wilt,177,127,177,22.7,55,2
+Bacterial Wilt,178,128,178,22.8,56,2
+Bacterial Wilt,179,129,179,22.9,57,2
+Bacterial Wilt,180,130,180,23,58,2
+Bacterial Wilt,181,131,181,23.1,59,2
+Bacterial Wilt,182,132,182,23.2,60,2
+Bacterial Wilt,183,133,183,23.3,50,2
+Bacterial Wilt,184,134,184,23.4,51,2
+Bacterial Wilt,185,135,185,23.5,52,2
+Bacterial Wilt,186,136,186,23.6,53,2
+Bacterial Wilt,187,137,187,23.7,54,2
+Bacterial Wilt,188,138,188,23.8,55,2
+Bacterial Wilt,189,139,189,23.9,56,2
+Bacterial Wilt,190,140,190,24,57,2
+Bacterial Wilt,191,141,191,24.1,58,2
+Bacterial Wilt,192,142,192,24.2,59,2
+Bacterial Wilt,193,143,193,24.3,60,2
+Bacterial Wilt,194,144,194,24.4,50,2
+Bacterial Wilt,195,145,195,24.5,51,2
+Bacterial Wilt,196,146,196,24.6,52,2
+Bacterial Wilt,197,147,197,24.7,53,2
+Bacterial Wilt,198,148,198,24.8,54,2
+Bacterial Wilt,199,149,199,24.9,55,2
+Bacterial Wilt,200,150,200,25,56,2
+Bacterial Wilt,150,100,150,25.1,57,2
+Bacterial Wilt,151,101,151,25.2,58,2
+Bacterial Wilt,152,102,152,25.3,59,2
+Bacterial Wilt,153,103,153,25.4,60,2
+Bacterial Wilt,154,104,154,25.5,50,2
+Bacterial Wilt,155,105,155,25.6,51,2
+Bacterial Wilt,156,106,156,25.7,52,2
+Bacterial Wilt,157,107,157,25.8,53,2
+Bacterial Wilt,158,108,158,25.9,54,2
+Bacterial Wilt,159,109,159,26,55,2
+Bacterial Wilt,160,110,160,26.1,56,2
+Bacterial Wilt,161,111,161,26.2,57,2
+Bacterial Wilt,162,112,162,26.3,58,2
+Bacterial Wilt,163,113,163,26.4,59,2
+Bacterial Wilt,164,114,164,26.5,60,2
+Bacterial Wilt,165,115,165,26.6,50,2
+Bacterial Wilt,166,116,166,26.7,51,2
+Bacterial Wilt,167,117,167,26.8,52,2
+Bacterial Wilt,168,118,168,26.9,53,2
+Bacterial Wilt,169,119,169,27,54,2
+Bacterial Wilt,170,120,170,27.1,55,2
+Bacterial Wilt,171,121,171,27.2,56,2
+Bacterial Wilt,172,122,172,27.3,57,2
+Bacterial Wilt,173,123,173,27.4,58,2
+Bacterial Wilt,174,124,174,27.5,59,2
+Bacterial Wilt,175,125,175,27.6,60,2
+Bacterial Wilt,176,126,176,27.7,50,2
+Bacterial Wilt,177,127,177,27.8,51,2
+Bacterial Wilt,178,128,178,27.9,52,2
+Bacterial Wilt,179,129,179,28,53,2
+Bacterial Wilt,180,130,180,28.1,54,2
+Bacterial Wilt,181,131,181,28.2,55,2
+Bacterial Wilt,182,132,182,28.3,56,2
+Bacterial Wilt,183,133,183,28.4,57,2
+Bacterial Wilt,184,134,184,28.5,58,2
+Bacterial Wilt,185,135,185,28.6,59,2
+Bacterial Wilt,186,136,186,28.7,60,2
+Bacterial Wilt,187,137,187,28.8,50,2
+Bacterial Wilt,188,138,188,28.9,51,2
+Bacterial Wilt,189,139,189,29,52,2
+Bacterial Wilt,190,140,190,29.1,53,2
+Bacterial Wilt,191,141,191,29.2,54,2
+Bacterial Wilt,192,142,192,29.3,55,2
+Bacterial Wilt,193,143,193,29.4,56,2
+Bacterial Wilt,194,144,194,29.5,57,2
+Bacterial Wilt,195,145,195,29.6,58,2
+Bacterial Wilt,196,146,196,29.7,59,2
+Bacterial Wilt,197,147,197,29.8,60,2
+Bacterial Wilt,198,148,198,29.9,50,2
+Bacterial Wilt,199,149,199,30,51,2
+Rust Disease,150,100,150,15,50,2
+Rust Disease,151,101,151,15.1,51,2
+Rust Disease,152,102,152,15.2,52,2
+Rust Disease,153,103,153,15.3,53,2
+Rust Disease,154,104,154,15.4,54,2
+Rust Disease,155,105,155,15.5,55,2
+Rust Disease,156,106,156,15.6,56,2
+Rust Disease,157,107,157,15.7,57,2
+Rust Disease,158,108,158,15.8,58,2
+Rust Disease,159,109,159,15.9,59,2
+Rust Disease,160,110,160,16,60,2
+Rust Disease,161,111,161,16.1,50,2
+Rust Disease,162,112,162,16.2,51,2
+Rust Disease,163,113,163,16.3,52,2
+Rust Disease,164,114,164,16.4,53,2
+Rust Disease,165,115,165,16.5,54,2
+Rust Disease,166,116,166,16.6,55,2
+Rust Disease,167,117,167,16.7,56,2
+Rust Disease,168,118,168,16.8,57,2
+Rust Disease,169,119,169,16.9,58,2
+Rust Disease,170,120,170,17,59,2
+Rust Disease,171,121,171,17.1,60,2
+Rust Disease,172,122,172,17.2,50,2
+Rust Disease,173,123,173,17.3,51,2
+Rust Disease,174,124,174,17.4,52,2
+Rust Disease,175,125,175,17.5,53,2
+Rust Disease,176,126,176,17.6,54,2
+Rust Disease,177,127,177,17.7,55,2
+Rust Disease,178,128,178,17.8,56,2
+Rust Disease,179,129,179,17.9,57,2
+Rust Disease,180,130,180,18,58,2
+Rust Disease,181,131,181,18.1,59,2
+Rust Disease,182,132,182,18.2,60,2
+Rust Disease,183,133,183,18.3,50,2
+Rust Disease,184,134,184,18.4,51,2
+Rust Disease,185,135,185,18.5,52,2
+Rust Disease,186,136,186,18.6,53,2
+Rust Disease,187,137,187,18.7,54,2
+Rust Disease,188,138,188,18.8,55,2
+Rust Disease,189,139,189,18.9,56,2
+Rust Disease,190,140,190,19,57,2
+Rust Disease,191,141,191,19.1,58,2
+Rust Disease,192,142,192,19.2,59,2
+Rust Disease,193,143,193,19.3,60,2
+Rust Disease,194,144,194,19.4,50,2
+Rust Disease,195,145,195,19.5,51,2
+Rust Disease,196,146,196,19.6,52,2
+Rust Disease,197,147,197,19.7,53,2
+Rust Disease,198,148,198,19.8,54,2
+Rust Disease,199,149,199,19.9,55,2
+Rust Disease,200,150,200,20,56,2
+Rust Disease,150,100,150,20.1,57,2
+Rust Disease,151,101,151,20.2,58,2
+Rust Disease,152,102,152,20.3,59,2
+Rust Disease,153,103,153,20.4,60,2
+Rust Disease,154,104,154,20.5,50,2
+Rust Disease,155,105,155,20.6,51,2
+Rust Disease,156,106,156,20.7,52,2
+Rust Disease,157,107,157,20.8,53,2
+Rust Disease,158,108,158,20.9,54,2
+Rust Disease,159,109,159,21,55,2
+Rust Disease,160,110,160,21.1,56,2
+Rust Disease,161,111,161,21.2,57,2
+Rust Disease,162,112,162,21.3,58,2
+Rust Disease,163,113,163,21.4,59,2
+Rust Disease,164,114,164,21.5,60,2
+Rust Disease,165,115,165,21.6,50,2
+Rust Disease,166,116,166,21.7,51,2
+Rust Disease,167,117,167,21.8,52,2
+Rust Disease,168,118,168,21.9,53,2
+Rust Disease,169,119,169,22,54,2
+Rust Disease,170,120,170,22.1,55,2
+Rust Disease,171,121,171,22.2,56,2
+Rust Disease,172,122,172,22.3,57,2
+Rust Disease,173,123,173,22.4,58,2
+Rust Disease,174,124,174,22.5,59,2
+Rust Disease,175,125,175,22.6,60,2
+Rust Disease,176,126,176,22.7,50,2
+Rust Disease,177,127,177,22.8,51,2
+Rust Disease,178,128,178,22.9,52,2
+Rust Disease,179,129,179,23,53,2
+Rust Disease,180,130,180,23.1,54,2
+Rust Disease,181,131,181,23.2,55,2
+Rust Disease,182,132,182,23.3,56,2
+Rust Disease,183,133,183,23.4,57,2
+Rust Disease,184,134,184,23.5,58,2
+Rust Disease,185,135,185,23.6,59,2
+Rust Disease,186,136,186,23.7,60,2
+Rust Disease,187,137,187,23.8,50,2
+Rust Disease,188,138,188,23.9,51,2
+Rust Disease,189,139,189,24,52,2
+Rust Disease,190,140,190,24.1,53,2
+Rust Disease,191,141,191,24.2,54,2
+Rust Disease,192,142,192,24.3,55,2
+Rust Disease,193,143,193,24.4,56,2
+Rust Disease,194,144,194,24.5,57,2
+Rust Disease,195,145,195,24.6,58,2
+Rust Disease,196,146,196,24.7,59,2
+Rust Disease,197,147,197,24.8,60,2
+Rust Disease,198,148,198,24.9,50,2
+Rust Disease,199,149,199,25,51,2
+Cercospora Leaf Blight,150,100,150,20,50,2
+Cercospora Leaf Blight,151,101,151,20.1,51,2
+Cercospora Leaf Blight,152,102,152,20.2,52,2
+Cercospora Leaf Blight,153,103,153,20.3,53,2
+Cercospora Leaf Blight,154,104,154,20.4,54,2
+Cercospora Leaf Blight,155,105,155,20.5,55,2
+Cercospora Leaf Blight,156,106,156,20.6,56,2
+Cercospora Leaf Blight,157,107,157,20.7,57,2
+Cercospora Leaf Blight,158,108,158,20.8,58,2
+Cercospora Leaf Blight,159,109,159,20.9,59,2
+Cercospora Leaf Blight,160,110,160,21,60,2
+Cercospora Leaf Blight,161,111,161,21.1,50,2
+Cercospora Leaf Blight,162,112,162,21.2,51,2
+Cercospora Leaf Blight,163,113,163,21.3,52,2
+Cercospora Leaf Blight,164,114,164,21.4,53,2
+Cercospora Leaf Blight,165,115,165,21.5,54,2
+Cercospora Leaf Blight,166,116,166,21.6,55,2
+Cercospora Leaf Blight,167,117,167,21.7,56,2
+Cercospora Leaf Blight,168,118,168,21.8,57,2
+Cercospora Leaf Blight,169,119,169,21.9,58,2
+Cercospora Leaf Blight,170,120,170,22,59,2
+Cercospora Leaf Blight,171,121,171,22.1,60,2
+Cercospora Leaf Blight,172,122,172,22.2,50,2
+Cercospora Leaf Blight,173,123,173,22.3,51,2
+Cercospora Leaf Blight,174,124,174,22.4,52,2
+Cercospora Leaf Blight,175,125,175,22.5,53,2
+Cercospora Leaf Blight,176,126,176,22.6,54,2
+Cercospora Leaf Blight,177,127,177,22.7,55,2
+Cercospora Leaf Blight,178,128,178,22.8,56,2
+Cercospora Leaf Blight,179,129,179,22.9,57,2
+Cercospora Leaf Blight,180,130,180,23,58,2
+Cercospora Leaf Blight,181,131,181,23.1,59,2
+Cercospora Leaf Blight,182,132,182,23.2,60,2
+Cercospora Leaf Blight,183,133,183,23.3,50,2
+Cercospora Leaf Blight,184,134,184,23.4,51,2
+Cercospora Leaf Blight,185,135,185,23.5,52,2
+Cercospora Leaf Blight,186,136,186,23.6,53,2
+Cercospora Leaf Blight,187,137,187,23.7,54,2
+Cercospora Leaf Blight,188,138,188,23.8,55,2
+Cercospora Leaf Blight,189,139,189,23.9,56,2
+Cercospora Leaf Blight,190,140,190,24,57,2
+Cercospora Leaf Blight,191,141,191,24.1,58,2
+Cercospora Leaf Blight,192,142,192,24.2,59,2
+Cercospora Leaf Blight,193,143,193,24.3,60,2
+Cercospora Leaf Blight,194,144,194,24.4,50,2
+Cercospora Leaf Blight,195,145,195,24.5,51,2
+Cercospora Leaf Blight,196,146,196,24.6,52,2
+Cercospora Leaf Blight,197,147,197,24.7,53,2
+Cercospora Leaf Blight,198,148,198,24.8,54,2
+Cercospora Leaf Blight,199,149,199,24.9,55,2
+Cercospora Leaf Blight,200,150,200,25,56,2
+Cercospora Leaf Blight,150,100,150,25.1,57,2
+Cercospora Leaf Blight,151,101,151,25.2,58,2
+Cercospora Leaf Blight,152,102,152,25.3,59,2
+Cercospora Leaf Blight,153,103,153,25.4,60,2
+Cercospora Leaf Blight,154,104,154,25.5,50,2
+Cercospora Leaf Blight,155,105,155,25.6,51,2
+Cercospora Leaf Blight,156,106,156,25.7,52,2
+Cercospora Leaf Blight,157,107,157,25.8,53,2
+Cercospora Leaf Blight,158,108,158,25.9,54,2
+Cercospora Leaf Blight,159,109,159,26,55,2
+Cercospora Leaf Blight,160,110,160,26.1,56,2
+Cercospora Leaf Blight,161,111,161,26.2,57,2
+Cercospora Leaf Blight,162,112,162,26.3,58,2
+Cercospora Leaf Blight,163,113,163,26.4,59,2
+Cercospora Leaf Blight,164,114,164,26.5,60,2
+Cercospora Leaf Blight,165,115,165,26.6,50,2
+Cercospora Leaf Blight,166,116,166,26.7,51,2
+Cercospora Leaf Blight,167,117,167,26.8,52,2
+Cercospora Leaf Blight,168,118,168,26.9,53,2
+Cercospora Leaf Blight,169,119,169,27,54,2
+Cercospora Leaf Blight,170,120,170,27.1,55,2
+Cercospora Leaf Blight,171,121,171,27.2,56,2
+Cercospora Leaf Blight,172,122,172,27.3,57,2
+Cercospora Leaf Blight,173,123,173,27.4,58,2
+Cercospora Leaf Blight,174,124,174,27.5,59,2
+Cercospora Leaf Blight,175,125,175,27.6,60,2
+Cercospora Leaf Blight,176,126,176,27.7,50,2
+Cercospora Leaf Blight,177,127,177,27.8,51,2
+Cercospora Leaf Blight,178,128,178,27.9,52,2
+Cercospora Leaf Blight,179,129,179,28,53,2
+Cercospora Leaf Blight,180,130,180,28.1,54,2
+Cercospora Leaf Blight,181,131,181,28.2,55,2
+Cercospora Leaf Blight,182,132,182,28.3,56,2
+Cercospora Leaf Blight,183,133,183,28.4,57,2
+Cercospora Leaf Blight,184,134,184,28.5,58,2
+Cercospora Leaf Blight,185,135,185,28.6,59,2
+Cercospora Leaf Blight,186,136,186,28.7,60,2
+Cercospora Leaf Blight,187,137,187,28.8,50,2
+Cercospora Leaf Blight,188,138,188,28.9,51,2
+Cercospora Leaf Blight,189,139,189,29,52,2
+Cercospora Leaf Blight,190,140,190,29.1,53,2
+Cercospora Leaf Blight,191,141,191,29.2,54,2
+Cercospora Leaf Blight,192,142,192,29.3,55,2
+Cercospora Leaf Blight,193,143,193,29.4,56,2
+Cercospora Leaf Blight,194,144,194,29.5,57,2
+Cercospora Leaf Blight,195,145,195,29.6,58,2
+Cercospora Leaf Blight,196,146,196,29.7,59,2
+Cercospora Leaf Blight,197,147,197,29.8,60,2
+Cercospora Leaf Blight,198,148,198,29.9,50,2
+Cercospora Leaf Blight,199,149,199,30,51,2
+Leaf Spot,75,35,75,30,60,2
+Leaf Spot,75,35,75,50,60,2
+Leaf Spot,60,30,60,17,60,2
+Leaf Spot,60,30,60,17,90,2
+Leaf Spot,75,35,75,30,60,2
+Dieback,75,35,75,30,60,2
+Root Rot,75,35,75,30,60,2
+Root Rot,75,35,75,30,40,2
+Nutrient Deficiency,25,25,25,30,60,2
+Nutrient Deficiency,75,35,35,30,60,2
+Nutrient Deficiency,75,75,35,30,60,2
+Nutrient Deficiency,50,35,35,30,40,2
+Nutrient Deficiency,75,50,35,30,40,2
+Nutrient Deficiency,75,75,50,30,40,2
+Salinity Stress,75,35,75,30,60,2
+Salinity Stress,50,35,50,30,40,2
+Waterlogging,75,35,75,30,60,2
+Waterlogging,75,35,75,30,40,2
+Waterlogging,75,35,75,30,70,2
+Powdery Mildew,75,35,75,30,60,2
+Powdery Mildew,75,35,75,50,60,2
+Powdery Mildew,75,35,75,30,90,2
+Powdery Mildew,75,35,75,30,40,2
+Bacterial Wilt,75,35,75,30,60,2
+Bacterial Wilt,75,35,75,30,80,2
+Canker Diseases,75,35,75,30,60,2
+Canker Diseases,75,35,75,30,40,2
+Canker Diseases,75,35,75,30,60,2
+Nematode Infestations,75,35,75,30,60,2
+Nematode Infestations,75,35,75,75,60,2
+Nematode Infestations,75,35,75,75,60,2
+Rust Disease,75,35,75,75,60,2
+Rust Disease,75,35,75,25,60,2
+Rust Disease,75,35,75,25,40,2
+Rust Disease,75,35,75,25,80,2
+Cercospora Leaf Blight,75,35,75,30,60,2
+Cercospora Leaf Blight,75,35,75,25,60,2
+Cercospora Leaf Blight,75,35,75,75,60,2
+Cercospora Leaf Blight,75,35,75,30,60,2
+Leaf Spot,200,150,200,20,40,3
+Leaf Spot,201,151,201,20.1,41,3
+Leaf Spot,202,152,202,20.2,42,3
+Leaf Spot,203,153,203,20.3,43,3
+Leaf Spot,204,154,204,20.4,44,3
+Leaf Spot,205,155,205,20.5,45,3
+Leaf Spot,206,156,206,20.6,46,3
+Leaf Spot,207,157,207,20.7,47,3
+Leaf Spot,208,158,208,20.8,48,3
+Leaf Spot,209,159,209,20.9,49,3
+Leaf Spot,210,160,210,21,50,3
+Leaf Spot,211,161,211,21.1,40,3
+Leaf Spot,212,162,212,21.2,41,3
+Leaf Spot,213,163,213,21.3,42,3
+Leaf Spot,214,164,214,21.4,43,3
+Leaf Spot,215,165,215,21.5,44,3
+Leaf Spot,216,166,216,21.6,45,3
+Leaf Spot,217,167,217,21.7,46,3
+Leaf Spot,218,168,218,21.8,47,3
+Leaf Spot,219,169,219,21.9,48,3
+Leaf Spot,220,170,220,22,49,3
+Leaf Spot,221,171,221,22.1,50,3
+Leaf Spot,222,172,222,22.2,40,3
+Leaf Spot,223,173,223,22.3,41,3
+Leaf Spot,224,174,224,22.4,42,3
+Leaf Spot,225,175,225,22.5,43,3
+Leaf Spot,226,176,226,22.6,44,3
+Leaf Spot,227,177,227,22.7,45,3
+Leaf Spot,228,178,228,22.8,46,3
+Leaf Spot,229,179,229,22.9,47,3
+Leaf Spot,230,180,230,23,48,3
+Leaf Spot,231,181,231,23.1,49,3
+Leaf Spot,232,182,232,23.2,50,3
+Leaf Spot,233,183,233,23.3,40,3
+Leaf Spot,234,184,234,23.4,41,3
+Leaf Spot,235,185,235,23.5,42,3
+Leaf Spot,236,186,236,23.6,43,3
+Leaf Spot,237,187,237,23.7,44,3
+Leaf Spot,238,188,238,23.8,45,3
+Leaf Spot,239,189,239,23.9,46,3
+Leaf Spot,240,190,240,24,47,3
+Leaf Spot,241,191,241,24.1,48,3
+Leaf Spot,242,192,242,24.2,49,3
+Leaf Spot,243,193,243,24.3,50,3
+Leaf Spot,244,194,244,24.4,40,3
+Leaf Spot,245,195,245,24.5,41,3
+Leaf Spot,246,196,246,24.6,42,3
+Leaf Spot,247,197,247,24.7,43,3
+Leaf Spot,248,198,248,24.8,44,3
+Leaf Spot,249,199,249,24.9,45,3
+Leaf Spot,250,200,250,25,46,3
+Leaf Spot,200,150,200,25.1,47,3
+Leaf Spot,201,151,201,25.2,48,3
+Leaf Spot,202,152,202,25.3,49,3
+Leaf Spot,203,153,203,25.4,50,3
+Leaf Spot,204,154,204,25.5,40,3
+Leaf Spot,205,155,205,25.6,41,3
+Leaf Spot,206,156,206,25.7,42,3
+Leaf Spot,207,157,207,25.8,43,3
+Leaf Spot,208,158,208,25.9,44,3
+Leaf Spot,209,159,209,26,45,3
+Leaf Spot,210,160,210,26.1,46,3
+Leaf Spot,211,161,211,26.2,47,3
+Leaf Spot,212,162,212,26.3,48,3
+Leaf Spot,213,163,213,26.4,49,3
+Leaf Spot,214,164,214,26.5,50,3
+Leaf Spot,215,165,215,26.6,40,3
+Leaf Spot,216,166,216,26.7,41,3
+Leaf Spot,217,167,217,26.8,42,3
+Leaf Spot,218,168,218,26.9,43,3
+Leaf Spot,219,169,219,27,44,3
+Leaf Spot,220,170,220,27.1,45,3
+Leaf Spot,221,171,221,27.2,46,3
+Leaf Spot,222,172,222,27.3,47,3
+Leaf Spot,223,173,223,27.4,48,3
+Leaf Spot,224,174,224,27.5,49,3
+Leaf Spot,225,175,225,27.6,50,3
+Leaf Spot,226,176,226,27.7,40,3
+Leaf Spot,227,177,227,27.8,41,3
+Leaf Spot,228,178,228,27.9,42,3
+Leaf Spot,229,179,229,28,43,3
+Leaf Spot,230,180,230,28.1,44,3
+Leaf Spot,231,181,231,28.2,45,3
+Leaf Spot,232,182,232,28.3,46,3
+Leaf Spot,233,183,233,28.4,47,3
+Leaf Spot,234,184,234,28.5,48,3
+Leaf Spot,235,185,235,28.6,49,3
+Leaf Spot,236,186,236,28.7,50,3
+Leaf Spot,237,187,237,28.8,40,3
+Leaf Spot,238,188,238,28.9,41,3
+Leaf Spot,239,189,239,29,42,3
+Leaf Spot,240,190,240,29.1,43,3
+Leaf Spot,241,191,241,29.2,44,3
+Leaf Spot,242,192,242,29.3,45,3
+Leaf Spot,243,193,243,29.4,46,3
+Leaf Spot,244,194,244,29.5,47,3
+Leaf Spot,245,195,245,29.6,48,3
+Leaf Spot,246,196,246,29.7,49,3
+Leaf Spot,247,197,247,29.8,50,3
+Leaf Spot,248,198,248,29.9,40,3
+Leaf Spot,249,199,249,30,41,3
+Leaf Spot,150,100,150,15,40,3
+Leaf Spot,151,101,151,15.1,41,3
+Leaf Spot,152,102,152,15.2,42,3
+Leaf Spot,153,103,153,15.3,43,3
+Leaf Spot,154,104,154,15.4,44,3
+Leaf Spot,155,105,155,15.5,45,3
+Leaf Spot,156,106,156,15.6,46,3
+Leaf Spot,157,107,157,15.7,47,3
+Leaf Spot,158,108,158,15.8,48,3
+Leaf Spot,159,109,159,15.9,49,3
+Leaf Spot,160,110,160,16,50,3
+Leaf Spot,161,111,161,16.1,40,3
+Leaf Spot,162,112,162,16.2,41,3
+Leaf Spot,163,113,163,16.3,42,3
+Leaf Spot,164,114,164,16.4,43,3
+Leaf Spot,165,115,165,16.5,44,3
+Leaf Spot,166,116,166,16.6,45,3
+Leaf Spot,167,117,167,16.7,46,3
+Leaf Spot,168,118,168,16.8,47,3
+Leaf Spot,169,119,169,16.9,48,3
+Leaf Spot,170,120,170,17,49,3
+Leaf Spot,171,121,171,17.1,50,3
+Leaf Spot,172,122,172,17.2,40,3
+Leaf Spot,173,123,173,17.3,41,3
+Leaf Spot,174,124,174,17.4,42,3
+Leaf Spot,175,125,175,17.5,43,3
+Leaf Spot,150,100,150,17.6,44,3
+Leaf Spot,151,101,151,17.7,45,3
+Leaf Spot,152,102,152,17.8,46,3
+Leaf Spot,153,103,153,17.9,47,3
+Leaf Spot,154,104,154,18,48,3
+Leaf Spot,155,105,155,18.1,49,3
+Leaf Spot,156,106,156,18.2,50,3
+Leaf Spot,157,107,157,18.3,40,3
+Leaf Spot,158,108,158,18.4,41,3
+Leaf Spot,159,109,159,18.5,42,3
+Leaf Spot,160,110,160,18.6,43,3
+Leaf Spot,161,111,161,18.7,44,3
+Leaf Spot,162,112,162,18.8,45,3
+Leaf Spot,163,113,163,18.9,46,3
+Leaf Spot,164,114,164,19,47,3
+Leaf Spot,165,115,165,19.1,48,3
+Leaf Spot,166,116,166,19.2,49,3
+Leaf Spot,167,117,167,19.3,50,3
+Leaf Spot,168,118,168,19.4,40,3
+Leaf Spot,169,119,169,19.5,41,3
+Leaf Spot,170,120,170,19.6,42,3
+Leaf Spot,171,121,171,19.7,43,3
+Leaf Spot,172,122,172,19.8,44,3
+Leaf Spot,173,123,173,19.9,45,3
+Leaf Spot,174,124,174,20,46,3
+Anthracnose,201,151,201,20.1,41,3
+Anthracnose,202,152,202,20.2,42,3
+Anthracnose,203,153,203,20.3,43,3
+Anthracnose,204,154,204,20.4,44,3
+Anthracnose,205,155,205,20.5,45,3
+Anthracnose,206,156,206,20.6,46,3
+Anthracnose,207,157,207,20.7,47,3
+Anthracnose,208,158,208,20.8,48,3
+Anthracnose,209,159,209,20.9,49,3
+Anthracnose,210,160,210,21,50,3
+Anthracnose,211,161,211,21.1,40,3
+Anthracnose,212,162,212,21.2,41,3
+Anthracnose,213,163,213,21.3,42,3
+Anthracnose,214,164,214,21.4,43,3
+Anthracnose,215,165,215,21.5,44,3
+Anthracnose,216,166,216,21.6,45,3
+Anthracnose,217,167,217,21.7,46,3
+Anthracnose,218,168,218,21.8,47,3
+Anthracnose,219,169,219,21.9,48,3
+Anthracnose,220,170,220,22,49,3
+Anthracnose,221,171,221,22.1,50,3
+Anthracnose,222,172,222,22.2,40,3
+Anthracnose,223,173,223,22.3,41,3
+Anthracnose,224,174,224,22.4,42,3
+Anthracnose,225,175,225,22.5,43,3
+Anthracnose,226,176,226,22.6,44,3
+Anthracnose,227,177,227,22.7,45,3
+Anthracnose,228,178,228,22.8,46,3
+Anthracnose,229,179,229,22.9,47,3
+Anthracnose,230,180,230,23,48,3
+Anthracnose,231,181,231,23.1,49,3
+Anthracnose,232,182,232,23.2,50,3
+Anthracnose,233,183,233,23.3,40,3
+Anthracnose,234,184,234,23.4,41,3
+Anthracnose,235,185,235,23.5,42,3
+Anthracnose,236,186,236,23.6,43,3
+Anthracnose,237,187,237,23.7,44,3
+Anthracnose,238,188,238,23.8,45,3
+Anthracnose,239,189,239,23.9,46,3
+Anthracnose,240,190,240,24,47,3
+Anthracnose,241,191,241,24.1,48,3
+Anthracnose,242,192,242,24.2,49,3
+Anthracnose,243,193,243,24.3,50,3
+Anthracnose,244,194,244,24.4,40,3
+Anthracnose,245,195,245,24.5,41,3
+Anthracnose,246,196,246,24.6,42,3
+Anthracnose,247,197,247,24.7,43,3
+Anthracnose,248,198,248,24.8,44,3
+Anthracnose,249,199,249,24.9,45,3
+Anthracnose,250,200,250,25,46,3
+Anthracnose,200,150,200,25.1,47,3
+Anthracnose,201,151,201,25.2,48,3
+Anthracnose,202,152,202,25.3,49,3
+Anthracnose,203,153,203,25.4,50,3
+Anthracnose,204,154,204,25.5,40,3
+Anthracnose,205,155,205,25.6,41,3
+Anthracnose,206,156,206,25.7,42,3
+Anthracnose,207,157,207,25.8,43,3
+Anthracnose,208,158,208,25.9,44,3
+Anthracnose,209,159,209,26,45,3
+Anthracnose,210,160,210,26.1,46,3
+Anthracnose,211,161,211,26.2,47,3
+Anthracnose,212,162,212,26.3,48,3
+Anthracnose,213,163,213,26.4,49,3
+Anthracnose,214,164,214,26.5,50,3
+Anthracnose,215,165,215,26.6,40,3
+Dieback,201,151,201,20.1,41,3
+Dieback,202,152,202,20.2,42,3
+Dieback,203,153,203,20.3,43,3
+Dieback,204,154,204,20.4,44,3
+Dieback,205,155,205,20.5,45,3
+Dieback,206,156,206,20.6,46,3
+Dieback,207,157,207,20.7,47,3
+Dieback,208,158,208,20.8,48,3
+Dieback,209,159,209,20.9,49,3
+Dieback,210,160,210,21,50,3
+Dieback,211,161,211,21.1,40,3
+Dieback,212,162,212,21.2,41,3
+Dieback,213,163,213,21.3,42,3
+Dieback,214,164,214,21.4,43,3
+Dieback,215,165,215,21.5,44,3
+Dieback,216,166,216,21.6,45,3
+Dieback,217,167,217,21.7,46,3
+Dieback,218,168,218,21.8,47,3
+Dieback,219,169,219,21.9,48,3
+Dieback,220,170,220,22,49,3
+Dieback,221,171,221,22.1,50,3
+Dieback,222,172,222,22.2,40,3
+Dieback,223,173,223,22.3,41,3
+Dieback,224,174,224,22.4,42,3
+Dieback,225,175,225,22.5,43,3
+Dieback,226,176,226,22.6,44,3
+Dieback,227,177,227,22.7,45,3
+Dieback,228,178,228,22.8,46,3
+Dieback,229,179,229,22.9,47,3
+Dieback,230,180,230,23,48,3
+Dieback,231,181,231,23.1,49,3
+Dieback,232,182,232,23.2,50,3
+Dieback,233,183,233,23.3,40,3
+Dieback,234,184,234,23.4,41,3
+Dieback,235,185,235,23.5,42,3
+Dieback,236,186,236,23.6,43,3
+Dieback,237,187,237,23.7,44,3
+Dieback,238,188,238,23.8,45,3
+Dieback,239,189,239,23.9,46,3
+Dieback,240,190,240,24,47,3
+Dieback,241,191,241,24.1,48,3
+Dieback,242,192,242,24.2,49,3
+Dieback,243,193,243,24.3,50,3
+Dieback,244,194,244,24.4,40,3
+Dieback,245,195,245,24.5,41,3
+Dieback,246,196,246,24.6,42,3
+Dieback,247,197,247,24.7,43,3
+Dieback,248,198,248,24.8,44,3
+Dieback,249,199,249,24.9,45,3
+Dieback,250,200,250,25,46,3
+Dieback,200,150,200,25.1,47,3
+Dieback,201,151,201,25.2,48,3
+Dieback,202,152,202,25.3,49,3
+Dieback,203,153,203,25.4,50,3
+Dieback,204,154,204,25.5,40,3
+Dieback,205,155,205,25.6,41,3
+Dieback,206,156,206,25.7,42,3
+Dieback,207,157,207,25.8,43,3
+Dieback,208,158,208,25.9,44,3
+Dieback,209,159,209,26,45,3
+Dieback,210,160,210,26.1,46,3
+Dieback,211,161,211,26.2,47,3
+Dieback,212,162,212,26.3,48,3
+Dieback,213,163,213,26.4,49,3
+Dieback,214,164,214,26.5,50,3
+Dieback,215,165,215,26.6,40,3
+Root Rot,200,150,200,15,40,3
+Root Rot,201,151,201,15.1,41,3
+Root Rot,202,152,202,15.2,42,3
+Root Rot,203,153,203,15.3,43,3
+Root Rot,204,154,204,15.4,44,3
+Root Rot,205,155,205,15.5,45,3
+Root Rot,206,156,206,15.6,46,3
+Root Rot,207,157,207,15.7,47,3
+Root Rot,208,158,208,15.8,48,3
+Root Rot,209,159,209,15.9,49,3
+Root Rot,210,160,210,16,50,3
+Root Rot,211,161,211,16.1,40,3
+Root Rot,212,162,212,16.2,41,3
+Root Rot,213,163,213,16.3,42,3
+Root Rot,214,164,214,16.4,43,3
+Root Rot,215,165,215,16.5,44,3
+Root Rot,216,166,216,16.6,45,3
+Root Rot,217,167,217,16.7,46,3
+Root Rot,218,168,218,16.8,47,3
+Root Rot,219,169,219,16.9,48,3
+Root Rot,220,170,220,17,49,3
+Root Rot,221,171,221,17.1,50,3
+Root Rot,222,172,222,17.2,40,3
+Root Rot,223,173,223,17.3,41,3
+Root Rot,224,174,224,17.4,42,3
+Root Rot,225,175,225,17.5,43,3
+Root Rot,226,176,226,17.6,44,3
+Root Rot,227,177,227,17.7,45,3
+Root Rot,228,178,228,17.8,46,3
+Root Rot,229,179,229,17.9,47,3
+Root Rot,230,180,230,18,48,3
+Root Rot,231,181,231,18.1,49,3
+Root Rot,232,182,232,18.2,50,3
+Root Rot,233,183,233,18.3,40,3
+Root Rot,234,184,234,18.4,41,3
+Root Rot,235,185,235,18.5,42,3
+Root Rot,236,186,236,18.6,43,3
+Root Rot,237,187,237,18.7,44,3
+Root Rot,238,188,238,18.8,45,3
+Root Rot,239,189,239,18.9,46,3
+Root Rot,240,190,240,19,47,3
+Root Rot,241,191,241,19.1,48,3
+Root Rot,242,192,242,19.2,49,3
+Root Rot,243,193,243,19.3,50,3
+Root Rot,244,194,244,19.4,40,3
+Root Rot,245,195,245,19.5,41,3
+Root Rot,246,196,246,19.6,42,3
+Root Rot,247,197,247,19.7,43,3
+Root Rot,248,198,248,19.8,44,3
+Root Rot,249,199,249,19.9,45,3
+Root Rot,250,200,250,20,46,3
+Root Rot,200,150,200,20.1,47,3
+Root Rot,201,151,201,20.2,48,3
+Root Rot,202,152,202,20.3,49,3
+Root Rot,203,153,203,20.4,50,3
+Root Rot,204,154,204,20.5,40,3
+Root Rot,205,155,205,20.6,41,3
+Root Rot,206,156,206,20.7,42,3
+Root Rot,207,157,207,20.8,43,3
+Root Rot,208,158,208,20.9,44,3
+Root Rot,209,159,209,21,45,3
+Root Rot,210,160,210,21.1,46,3
+Root Rot,211,161,211,21.2,47,3
+Root Rot,212,162,212,21.3,48,3
+Root Rot,213,163,213,21.4,49,3
+Root Rot,214,164,214,21.5,50,3
+Root Rot,215,165,215,21.6,40,3
+Root Rot,216,166,216,21.7,41,3
+Root Rot,217,167,217,21.8,42,3
+Root Rot,218,168,218,21.9,43,3
+Root Rot,219,169,219,22,44,3
+Root Rot,220,170,220,22.1,45,3
+Root Rot,221,171,221,22.2,46,3
+Root Rot,222,172,222,22.3,47,3
+Root Rot,223,173,223,22.4,48,3
+Root Rot,224,174,224,22.5,49,3
+Root Rot,225,175,225,22.6,50,3
+Root Rot,226,176,226,22.7,40,3
+Root Rot,227,177,227,22.8,41,3
+Root Rot,228,178,228,22.9,42,3
+Root Rot,229,179,229,23,43,3
+Root Rot,230,180,230,23.1,44,3
+Root Rot,231,181,231,23.2,45,3
+Root Rot,232,182,232,23.3,46,3
+Root Rot,233,183,233,23.4,47,3
+Root Rot,234,184,234,23.5,48,3
+Root Rot,235,185,235,23.6,49,3
+Root Rot,236,186,236,23.7,50,3
+Root Rot,237,187,237,23.8,40,3
+Root Rot,238,188,238,23.9,41,3
+Root Rot,239,189,239,24,42,3
+Root Rot,240,190,240,24.1,43,3
+Root Rot,241,191,241,24.2,44,3
+Root Rot,242,192,242,24.3,45,3
+Root Rot,243,193,243,24.4,46,3
+Root Rot,244,194,244,24.5,47,3
+Root Rot,245,195,245,24.6,48,3
+Root Rot,246,196,246,24.7,49,3
+Root Rot,247,197,247,24.8,50,3
+Root Rot,248,198,248,24.9,40,3
+Root Rot,249,199,249,25,41,3
+Root Rot,200,150,200,30,40,3
+Root Rot,201,151,201,30.1,41,3
+Root Rot,202,152,202,30.2,42,3
+Root Rot,203,153,203,30.3,43,3
+Root Rot,204,154,204,30.4,44,3
+Root Rot,205,155,205,30.5,45,3
+Root Rot,206,156,206,30.6,46,3
+Root Rot,207,157,207,30.7,47,3
+Root Rot,208,158,208,30.8,48,3
+Root Rot,209,159,209,30.9,49,3
+Root Rot,210,160,210,31,50,3
+Root Rot,211,161,211,31.1,40,3
+Root Rot,212,162,212,31.2,41,3
+Root Rot,213,163,213,31.3,42,3
+Root Rot,214,164,214,31.4,43,3
+Root Rot,215,165,215,31.5,44,3
+Root Rot,216,166,216,31.6,45,3
+Root Rot,217,167,217,31.7,46,3
+Root Rot,218,168,218,31.8,47,3
+Root Rot,219,169,219,31.9,48,3
+Root Rot,220,170,220,32,49,3
+Root Rot,221,171,221,32.1,50,3
+Root Rot,222,172,222,32.2,40,3
+Root Rot,223,173,223,32.3,41,3
+Root Rot,224,174,224,32.4,42,3
+Root Rot,225,175,225,32.5,43,3
+Root Rot,226,176,226,32.6,44,3
+Root Rot,227,177,227,32.7,45,3
+Root Rot,228,178,228,32.8,46,3
+Root Rot,229,179,229,32.9,47,3
+Root Rot,230,180,230,33,48,3
+Root Rot,231,181,231,33.1,49,3
+Root Rot,232,182,232,33.2,50,3
+Root Rot,233,183,233,33.3,40,3
+Root Rot,234,184,234,33.4,41,3
+Root Rot,235,185,235,33.5,42,3
+Root Rot,236,186,236,33.6,43,3
+Root Rot,237,187,237,33.7,44,3
+Root Rot,238,188,238,33.8,45,3
+Root Rot,239,189,239,33.9,46,3
+Root Rot,240,190,240,34,47,3
+Root Rot,241,191,241,34.1,48,3
+Root Rot,242,192,242,34.2,49,3
+Root Rot,243,193,243,34.3,50,3
+Root Rot,244,194,244,34.4,40,3
+Root Rot,245,195,245,34.5,41,3
+Root Rot,246,196,246,34.6,42,3
+Root Rot,247,197,247,34.7,43,3
+Root Rot,248,198,248,34.8,44,3
+Root Rot,249,199,249,34.9,45,3
+Root Rot,250,200,250,35,46,3
+Root Rot,200,150,200,35.1,47,3
+Root Rot,201,151,201,35.2,48,3
+Root Rot,202,152,202,35.3,49,3
+Root Rot,203,153,203,35.4,50,3
+Root Rot,204,154,204,35.5,40,3
+Root Rot,205,155,205,35.6,41,3
+Root Rot,206,156,206,35.7,42,3
+Root Rot,207,157,207,35.8,43,3
+Root Rot,208,158,208,35.9,44,3
+Root Rot,209,159,209,36,45,3
+Root Rot,210,160,210,36.1,46,3
+Root Rot,211,161,211,36.2,47,3
+Root Rot,212,162,212,36.3,48,3
+Root Rot,213,163,213,36.4,49,3
+Root Rot,214,164,214,36.5,50,3
+Root Rot,215,165,215,36.6,40,3
+Root Rot,216,166,216,36.7,41,3
+Root Rot,217,167,217,36.8,42,3
+Root Rot,218,168,218,36.9,43,3
+Root Rot,219,169,219,37,44,3
+Root Rot,220,170,220,37.1,45,3
+Root Rot,221,171,221,37.2,46,3
+Root Rot,222,172,222,37.3,47,3
+Root Rot,223,173,223,37.4,48,3
+Root Rot,224,174,224,37.5,49,3
+Root Rot,225,175,225,37.6,50,3
+Root Rot,226,176,226,37.7,40,3
+Root Rot,227,177,227,37.8,41,3
+Root Rot,228,178,228,37.9,42,3
+Root Rot,229,179,229,38,43,3
+Root Rot,230,180,230,38.1,44,3
+Root Rot,231,181,231,38.2,45,3
+Root Rot,232,182,232,38.3,46,3
+Root Rot,233,183,233,38.4,47,3
+Root Rot,234,184,234,38.5,48,3
+Root Rot,235,185,235,38.6,49,3
+Root Rot,236,186,236,38.7,50,3
+Root Rot,237,187,237,38.8,40,3
+Root Rot,238,188,238,38.9,41,3
+Root Rot,239,189,239,39,42,3
+Root Rot,240,190,240,39.1,43,3
+Root Rot,241,191,241,39.2,44,3
+Root Rot,242,192,242,39.3,45,3
+Root Rot,243,193,243,39.4,46,3
+Root Rot,244,194,244,39.5,47,3
+Root Rot,245,195,245,39.6,48,3
+Root Rot,246,196,246,39.7,49,3
+Root Rot,247,197,247,39.8,50,3
+Root Rot,248,198,248,39.9,40,3
+Root Rot,249,199,249,40,41,3
+Nutrient Deficiency,200,150,200,20,40,3
+Nutrient Deficiency,201,151,201,20.1,41,3
+Nutrient Deficiency,202,152,202,20.2,42,3
+Nutrient Deficiency,203,153,203,20.3,43,3
+Nutrient Deficiency,204,154,204,20.4,44,3
+Nutrient Deficiency,205,155,205,20.5,45,3
+Nutrient Deficiency,206,156,206,20.6,46,3
+Nutrient Deficiency,207,157,207,20.7,47,3
+Nutrient Deficiency,208,158,208,20.8,48,3
+Nutrient Deficiency,209,159,209,20.9,49,3
+Nutrient Deficiency,210,160,210,21,50,3
+Nutrient Deficiency,211,161,211,21.1,40,3
+Nutrient Deficiency,212,162,212,21.2,41,3
+Nutrient Deficiency,213,163,213,21.3,42,3
+Nutrient Deficiency,214,164,214,21.4,43,3
+Nutrient Deficiency,215,165,215,21.5,44,3
+Nutrient Deficiency,216,166,216,21.6,45,3
+Nutrient Deficiency,217,167,217,21.7,46,3
+Nutrient Deficiency,218,168,218,21.8,47,3
+Nutrient Deficiency,219,169,219,21.9,48,3
+Nutrient Deficiency,220,170,220,22,49,3
+Nutrient Deficiency,221,171,221,22.1,50,3
+Nutrient Deficiency,222,172,222,22.2,40,3
+Nutrient Deficiency,223,173,223,22.3,41,3
+Nutrient Deficiency,224,174,224,22.4,42,3
+Nutrient Deficiency,225,175,225,22.5,43,3
+Nutrient Deficiency,226,176,226,22.6,44,3
+Nutrient Deficiency,227,177,227,22.7,45,3
+Nutrient Deficiency,228,178,228,22.8,46,3
+Nutrient Deficiency,229,179,229,22.9,47,3
+Nutrient Deficiency,230,180,230,23,48,3
+Nutrient Deficiency,231,181,231,23.1,49,3
+Nutrient Deficiency,232,182,232,23.2,50,3
+Nutrient Deficiency,233,183,233,23.3,40,3
+Nutrient Deficiency,234,184,234,23.4,41,3
+Nutrient Deficiency,235,185,235,23.5,42,3
+Nutrient Deficiency,236,186,236,23.6,43,3
+Nutrient Deficiency,237,187,237,23.7,44,3
+Nutrient Deficiency,238,188,238,23.8,45,3
+Nutrient Deficiency,239,189,239,23.9,46,3
+Nutrient Deficiency,240,190,240,24,47,3
+Nutrient Deficiency,241,191,241,24.1,48,3
+Nutrient Deficiency,242,192,242,24.2,49,3
+Nutrient Deficiency,243,193,243,24.3,50,3
+Nutrient Deficiency,244,194,244,24.4,40,3
+Nutrient Deficiency,245,195,245,24.5,41,3
+Nutrient Deficiency,246,196,246,24.6,42,3
+Nutrient Deficiency,247,197,247,24.7,43,3
+Nutrient Deficiency,248,198,248,24.8,44,3
+Nutrient Deficiency,249,199,249,24.9,45,3
+Nutrient Deficiency,250,200,250,25,46,3
+Nutrient Deficiency,200,150,200,25.1,47,3
+Nutrient Deficiency,201,151,201,25.2,48,3
+Nutrient Deficiency,202,152,202,25.3,49,3
+Nutrient Deficiency,203,153,203,25.4,50,3
+Nutrient Deficiency,204,154,204,25.5,40,3
+Nutrient Deficiency,205,155,205,25.6,41,3
+Nutrient Deficiency,206,156,206,25.7,42,3
+Nutrient Deficiency,207,157,207,25.8,43,3
+Nutrient Deficiency,208,158,208,25.9,44,3
+Nutrient Deficiency,209,159,209,26,45,3
+Nutrient Deficiency,210,160,210,26.1,46,3
+Nutrient Deficiency,211,161,211,26.2,47,3
+Nutrient Deficiency,212,162,212,26.3,48,3
+Nutrient Deficiency,213,163,213,26.4,49,3
+Nutrient Deficiency,214,164,214,26.5,50,3
+Nutrient Deficiency,215,165,215,26.6,40,3
+Nutrient Deficiency,216,166,216,26.7,41,3
+Nutrient Deficiency,217,167,217,26.8,42,3
+Nutrient Deficiency,218,168,218,26.9,43,3
+Nutrient Deficiency,219,169,219,27,44,3
+Nutrient Deficiency,220,170,220,27.1,45,3
+Nutrient Deficiency,221,171,221,27.2,46,3
+Nutrient Deficiency,222,172,222,27.3,47,3
+Nutrient Deficiency,223,173,223,27.4,48,3
+Nutrient Deficiency,224,174,224,27.5,49,3
+Nutrient Deficiency,225,175,225,27.6,50,3
+Nutrient Deficiency,226,176,226,27.7,40,3
+Nutrient Deficiency,227,177,227,27.8,41,3
+Nutrient Deficiency,228,178,228,27.9,42,3
+Nutrient Deficiency,229,179,229,28,43,3
+Nutrient Deficiency,230,180,230,28.1,44,3
+Nutrient Deficiency,231,181,231,28.2,45,3
+Nutrient Deficiency,232,182,232,28.3,46,3
+Nutrient Deficiency,233,183,233,28.4,47,3
+Nutrient Deficiency,234,184,234,28.5,48,3
+Nutrient Deficiency,235,185,235,28.6,49,3
+Nutrient Deficiency,236,186,236,28.7,50,3
+Nutrient Deficiency,237,187,237,28.8,40,3
+Nutrient Deficiency,238,188,238,28.9,41,3
+Nutrient Deficiency,239,189,239,29,42,3
+Nutrient Deficiency,240,190,240,29.1,43,3
+Nutrient Deficiency,241,191,241,29.2,44,3
+Nutrient Deficiency,242,192,242,29.3,45,3
+Nutrient Deficiency,243,193,243,29.4,46,3
+Nutrient Deficiency,244,194,244,29.5,47,3
+Nutrient Deficiency,245,195,245,29.6,48,3
+Nutrient Deficiency,246,196,246,29.7,49,3
+Nutrient Deficiency,247,197,247,29.8,50,3
+Nutrient Deficiency,248,198,248,29.9,40,3
+Nutrient Deficiency,249,199,249,30,41,3
+Nutrient Deficiency,200,150,200,15,40,3
+Nutrient Deficiency,201,151,201,15.1,41,3
+Nutrient Deficiency,202,152,202,15.2,42,3
+Nutrient Deficiency,203,153,203,15.3,43,3
+Nutrient Deficiency,204,154,204,15.4,44,3
+Nutrient Deficiency,205,155,205,15.5,45,3
+Nutrient Deficiency,206,156,206,15.6,46,3
+Nutrient Deficiency,207,157,207,15.7,47,3
+Nutrient Deficiency,208,158,208,15.8,48,3
+Nutrient Deficiency,209,159,209,15.9,49,3
+Nutrient Deficiency,210,160,210,16,50,3
+Nutrient Deficiency,211,161,211,16.1,40,3
+Nutrient Deficiency,212,162,212,16.2,41,3
+Nutrient Deficiency,213,163,213,16.3,42,3
+Nutrient Deficiency,214,164,214,16.4,43,3
+Nutrient Deficiency,215,165,215,16.5,44,3
+Nutrient Deficiency,216,166,216,16.6,45,3
+Nutrient Deficiency,217,167,217,16.7,46,3
+Nutrient Deficiency,218,168,218,16.8,47,3
+Nutrient Deficiency,219,169,219,16.9,48,3
+Nutrient Deficiency,220,170,220,17,49,3
+Nutrient Deficiency,221,171,221,17.1,50,3
+Nutrient Deficiency,222,172,222,17.2,40,3
+Nutrient Deficiency,223,173,223,17.3,41,3
+Nutrient Deficiency,224,174,224,17.4,42,3
+Nutrient Deficiency,225,175,225,17.5,43,3
+Nutrient Deficiency,226,176,226,17.6,44,3
+Nutrient Deficiency,227,177,227,17.7,45,3
+Nutrient Deficiency,228,178,228,17.8,46,3
+Nutrient Deficiency,229,179,229,17.9,47,3
+Nutrient Deficiency,230,180,230,18,48,3
+Nutrient Deficiency,231,181,231,18.1,49,3
+Nutrient Deficiency,232,182,232,18.2,50,3
+Nutrient Deficiency,233,183,233,18.3,40,3
+Nutrient Deficiency,234,184,234,18.4,41,3
+Nutrient Deficiency,235,185,235,18.5,42,3
+Nutrient Deficiency,236,186,236,18.6,43,3
+Nutrient Deficiency,237,187,237,18.7,44,3
+Nutrient Deficiency,238,188,238,18.8,45,3
+Nutrient Deficiency,239,189,239,18.9,46,3
+Nutrient Deficiency,240,190,240,19,47,3
+Nutrient Deficiency,241,191,241,19.1,48,3
+Nutrient Deficiency,242,192,242,19.2,49,3
+Nutrient Deficiency,243,193,243,19.3,50,3
+Nutrient Deficiency,244,194,244,19.4,40,3
+Nutrient Deficiency,245,195,245,19.5,41,3
+Nutrient Deficiency,246,196,246,19.6,42,3
+Nutrient Deficiency,247,197,247,19.7,43,3
+Nutrient Deficiency,248,198,248,19.8,44,3
+Nutrient Deficiency,249,199,249,19.9,45,3
+Nutrient Deficiency,250,200,250,20,46,3
+Nutrient Deficiency,200,150,200,20.1,47,3
+Nutrient Deficiency,201,151,201,20.2,48,3
+Nutrient Deficiency,202,152,202,20.3,49,3
+Nutrient Deficiency,203,153,203,20.4,50,3
+Nutrient Deficiency,204,154,204,20.5,40,3
+Nutrient Deficiency,205,155,205,20.6,41,3
+Nutrient Deficiency,206,156,206,20.7,42,3
+Nutrient Deficiency,207,157,207,20.8,43,3
+Nutrient Deficiency,208,158,208,20.9,44,3
+Nutrient Deficiency,209,159,209,21,45,3
+Nutrient Deficiency,210,160,210,21.1,46,3
+Nutrient Deficiency,211,161,211,21.2,47,3
+Nutrient Deficiency,212,162,212,21.3,48,3
+Nutrient Deficiency,213,163,213,21.4,49,3
+Nutrient Deficiency,214,164,214,21.5,50,3
+Nutrient Deficiency,215,165,215,21.6,40,3
+Nutrient Deficiency,216,166,216,21.7,41,3
+Nutrient Deficiency,217,167,217,21.8,42,3
+Nutrient Deficiency,218,168,218,21.9,43,3
+Nutrient Deficiency,219,169,219,22,44,3
+Nutrient Deficiency,220,170,220,22.1,45,3
+Nutrient Deficiency,221,171,221,22.2,46,3
+Nutrient Deficiency,222,172,222,22.3,47,3
+Nutrient Deficiency,223,173,223,22.4,48,3
+Nutrient Deficiency,224,174,224,22.5,49,3
+Nutrient Deficiency,225,175,225,22.6,50,3
+Nutrient Deficiency,226,176,226,22.7,40,3
+Nutrient Deficiency,227,177,227,22.8,41,3
+Nutrient Deficiency,228,178,228,22.9,42,3
+Nutrient Deficiency,229,179,229,23,43,3
+Nutrient Deficiency,230,180,230,23.1,44,3
+Nutrient Deficiency,231,181,231,23.2,45,3
+Nutrient Deficiency,232,182,232,23.3,46,3
+Nutrient Deficiency,233,183,233,23.4,47,3
+Nutrient Deficiency,234,184,234,23.5,48,3
+Nutrient Deficiency,235,185,235,23.6,49,3
+Nutrient Deficiency,236,186,236,23.7,50,3
+Nutrient Deficiency,237,187,237,23.8,40,3
+Nutrient Deficiency,238,188,238,23.9,41,3
+Nutrient Deficiency,239,189,239,24,42,3
+Nutrient Deficiency,240,190,240,24.1,43,3
+Nutrient Deficiency,241,191,241,24.2,44,3
+Nutrient Deficiency,242,192,242,24.3,45,3
+Nutrient Deficiency,243,193,243,24.4,46,3
+Nutrient Deficiency,244,194,244,24.5,47,3
+Nutrient Deficiency,245,195,245,24.6,48,3
+Nutrient Deficiency,246,196,246,24.7,49,3
+Nutrient Deficiency,247,197,247,24.8,50,3
+Nutrient Deficiency,248,198,248,24.9,40,3
+Nutrient Deficiency,249,199,249,25,41,3
+Salinity Stress,200,150,200,20,40,3
+Salinity Stress,201,151,201,20.1,41,3
+Salinity Stress,202,152,202,20.2,42,3
+Salinity Stress,203,153,203,20.3,43,3
+Salinity Stress,204,154,204,20.4,44,3
+Salinity Stress,205,155,205,20.5,45,3
+Salinity Stress,206,156,206,20.6,46,3
+Salinity Stress,207,157,207,20.7,47,3
+Salinity Stress,208,158,208,20.8,48,3
+Salinity Stress,209,159,209,20.9,49,3
+Salinity Stress,210,160,210,21,50,3
+Salinity Stress,211,161,211,21.1,40,3
+Salinity Stress,212,162,212,21.2,41,3
+Salinity Stress,213,163,213,21.3,42,3
+Salinity Stress,214,164,214,21.4,43,3
+Salinity Stress,215,165,215,21.5,44,3
+Salinity Stress,216,166,216,21.6,45,3
+Salinity Stress,217,167,217,21.7,46,3
+Salinity Stress,218,168,218,21.8,47,3
+Salinity Stress,219,169,219,21.9,48,3
+Salinity Stress,220,170,220,22,49,3
+Salinity Stress,221,171,221,22.1,50,3
+Salinity Stress,222,172,222,22.2,40,3
+Salinity Stress,223,173,223,22.3,41,3
+Salinity Stress,224,174,224,22.4,42,3
+Salinity Stress,225,175,225,22.5,43,3
+Salinity Stress,226,176,226,22.6,44,3
+Salinity Stress,227,177,227,22.7,45,3
+Salinity Stress,228,178,228,22.8,46,3
+Salinity Stress,229,179,229,22.9,47,3
+Salinity Stress,230,180,230,23,48,3
+Salinity Stress,231,181,231,23.1,49,3
+Salinity Stress,232,182,232,23.2,50,3
+Salinity Stress,233,183,233,23.3,40,3
+Salinity Stress,234,184,234,23.4,41,3
+Salinity Stress,235,185,235,23.5,42,3
+Salinity Stress,236,186,236,23.6,43,3
+Salinity Stress,237,187,237,23.7,44,3
+Salinity Stress,238,188,238,23.8,45,3
+Salinity Stress,239,189,239,23.9,46,3
+Salinity Stress,240,190,240,24,47,3
+Salinity Stress,241,191,241,24.1,48,3
+Salinity Stress,242,192,242,24.2,49,3
+Salinity Stress,243,193,243,24.3,50,3
+Salinity Stress,244,194,244,24.4,40,3
+Salinity Stress,245,195,245,24.5,41,3
+Salinity Stress,246,196,246,24.6,42,3
+Salinity Stress,247,197,247,24.7,43,3
+Salinity Stress,248,198,248,24.8,44,3
+Salinity Stress,249,199,249,24.9,45,3
+Salinity Stress,250,200,250,25,46,3
+Salinity Stress,200,150,200,25.1,47,3
+Salinity Stress,201,151,201,25.2,48,3
+Salinity Stress,202,152,202,25.3,49,3
+Salinity Stress,203,153,203,25.4,50,3
+Salinity Stress,204,154,204,25.5,40,3
+Salinity Stress,205,155,205,25.6,41,3
+Salinity Stress,206,156,206,25.7,42,3
+Salinity Stress,207,157,207,25.8,43,3
+Salinity Stress,208,158,208,25.9,44,3
+Salinity Stress,209,159,209,26,45,3
+Salinity Stress,210,160,210,26.1,46,3
+Salinity Stress,211,161,211,26.2,47,3
+Salinity Stress,212,162,212,26.3,48,3
+Salinity Stress,213,163,213,26.4,49,3
+Salinity Stress,214,164,214,26.5,50,3
+Salinity Stress,215,165,215,26.6,40,3
+Salinity Stress,216,166,216,26.7,41,3
+Salinity Stress,217,167,217,26.8,42,3
+Salinity Stress,218,168,218,26.9,43,3
+Salinity Stress,219,169,219,27,44,3
+Salinity Stress,220,170,220,27.1,45,3
+Salinity Stress,221,171,221,27.2,46,3
+Salinity Stress,222,172,222,27.3,47,3
+Salinity Stress,223,173,223,27.4,48,3
+Salinity Stress,224,174,224,27.5,49,3
+Salinity Stress,225,175,225,27.6,50,3
+Salinity Stress,226,176,226,27.7,40,3
+Salinity Stress,227,177,227,27.8,41,3
+Salinity Stress,228,178,228,27.9,42,3
+Salinity Stress,229,179,229,28,43,3
+Salinity Stress,230,180,230,28.1,44,3
+Salinity Stress,231,181,231,28.2,45,3
+Salinity Stress,232,182,232,28.3,46,3
+Salinity Stress,233,183,233,28.4,47,3
+Salinity Stress,234,184,234,28.5,48,3
+Salinity Stress,235,185,235,28.6,49,3
+Salinity Stress,236,186,236,28.7,50,3
+Salinity Stress,237,187,237,28.8,40,3
+Salinity Stress,238,188,238,28.9,41,3
+Salinity Stress,239,189,239,29,42,3
+Salinity Stress,240,190,240,29.1,43,3
+Salinity Stress,241,191,241,29.2,44,3
+Salinity Stress,242,192,242,29.3,45,3
+Salinity Stress,243,193,243,29.4,46,3
+Salinity Stress,244,194,244,29.5,47,3
+Salinity Stress,245,195,245,29.6,48,3
+Salinity Stress,246,196,246,29.7,49,3
+Salinity Stress,247,197,247,29.8,50,3
+Salinity Stress,248,198,248,29.9,40,3
+Salinity Stress,249,199,249,30,41,3
+Powdery Mildew,200,150,200,15,40,3
+Powdery Mildew,201,151,201,15.1,41,3
+Powdery Mildew,202,152,202,15.2,42,3
+Powdery Mildew,203,153,203,15.3,43,3
+Powdery Mildew,204,154,204,15.4,44,3
+Powdery Mildew,205,155,205,15.5,45,3
+Powdery Mildew,206,156,206,15.6,46,3
+Powdery Mildew,207,157,207,15.7,47,3
+Powdery Mildew,208,158,208,15.8,48,3
+Powdery Mildew,209,159,209,15.9,49,3
+Powdery Mildew,210,160,210,16,50,3
+Powdery Mildew,211,161,211,16.1,40,3
+Powdery Mildew,212,162,212,16.2,41,3
+Powdery Mildew,213,163,213,16.3,42,3
+Powdery Mildew,214,164,214,16.4,43,3
+Powdery Mildew,215,165,215,16.5,44,3
+Powdery Mildew,216,166,216,16.6,45,3
+Powdery Mildew,217,167,217,16.7,46,3
+Powdery Mildew,218,168,218,16.8,47,3
+Powdery Mildew,219,169,219,16.9,48,3
+Powdery Mildew,220,170,220,17,49,3
+Powdery Mildew,221,171,221,17.1,50,3
+Powdery Mildew,222,172,222,17.2,40,3
+Powdery Mildew,223,173,223,17.3,41,3
+Powdery Mildew,224,174,224,17.4,42,3
+Powdery Mildew,225,175,225,17.5,43,3
+Powdery Mildew,226,176,226,17.6,44,3
+Powdery Mildew,227,177,227,17.7,45,3
+Powdery Mildew,228,178,228,17.8,46,3
+Powdery Mildew,229,179,229,17.9,47,3
+Powdery Mildew,230,180,230,18,48,3
+Powdery Mildew,231,181,231,18.1,49,3
+Powdery Mildew,232,182,232,18.2,50,3
+Powdery Mildew,233,183,233,18.3,40,3
+Powdery Mildew,234,184,234,18.4,41,3
+Powdery Mildew,235,185,235,18.5,42,3
+Powdery Mildew,236,186,236,18.6,43,3
+Powdery Mildew,237,187,237,18.7,44,3
+Powdery Mildew,238,188,238,18.8,45,3
+Powdery Mildew,239,189,239,18.9,46,3
+Powdery Mildew,240,190,240,19,47,3
+Powdery Mildew,241,191,241,19.1,48,3
+Powdery Mildew,242,192,242,19.2,49,3
+Powdery Mildew,243,193,243,19.3,50,3
+Powdery Mildew,244,194,244,19.4,40,3
+Powdery Mildew,245,195,245,19.5,41,3
+Powdery Mildew,246,196,246,19.6,42,3
+Powdery Mildew,247,197,247,19.7,43,3
+Powdery Mildew,248,198,248,19.8,44,3
+Powdery Mildew,249,199,249,19.9,45,3
+Powdery Mildew,250,200,250,20,46,3
+Powdery Mildew,200,150,200,20.1,47,3
+Powdery Mildew,201,151,201,20.2,48,3
+Powdery Mildew,202,152,202,20.3,49,3
+Powdery Mildew,203,153,203,20.4,50,3
+Powdery Mildew,204,154,204,20.5,40,3
+Powdery Mildew,205,155,205,20.6,41,3
+Powdery Mildew,206,156,206,20.7,42,3
+Powdery Mildew,207,157,207,20.8,43,3
+Powdery Mildew,208,158,208,20.9,44,3
+Powdery Mildew,209,159,209,21,45,3
+Powdery Mildew,210,160,210,21.1,46,3
+Powdery Mildew,211,161,211,21.2,47,3
+Powdery Mildew,212,162,212,21.3,48,3
+Powdery Mildew,213,163,213,21.4,49,3
+Powdery Mildew,214,164,214,21.5,50,3
+Powdery Mildew,215,165,215,21.6,40,3
+Powdery Mildew,216,166,216,21.7,41,3
+Powdery Mildew,217,167,217,21.8,42,3
+Powdery Mildew,218,168,218,21.9,43,3
+Powdery Mildew,219,169,219,22,44,3
+Powdery Mildew,220,170,220,22.1,45,3
+Powdery Mildew,221,171,221,22.2,46,3
+Powdery Mildew,222,172,222,22.3,47,3
+Powdery Mildew,223,173,223,22.4,48,3
+Powdery Mildew,224,174,224,22.5,49,3
+Powdery Mildew,225,175,225,22.6,50,3
+Powdery Mildew,226,176,226,22.7,40,3
+Powdery Mildew,227,177,227,22.8,41,3
+Powdery Mildew,228,178,228,22.9,42,3
+Powdery Mildew,229,179,229,23,43,3
+Powdery Mildew,230,180,230,23.1,44,3
+Powdery Mildew,231,181,231,23.2,45,3
+Powdery Mildew,232,182,232,23.3,46,3
+Powdery Mildew,233,183,233,23.4,47,3
+Powdery Mildew,234,184,234,23.5,48,3
+Powdery Mildew,235,185,235,23.6,49,3
+Powdery Mildew,236,186,236,23.7,50,3
+Powdery Mildew,237,187,237,23.8,40,3
+Powdery Mildew,238,188,238,23.9,41,3
+Powdery Mildew,239,189,239,24,42,3
+Powdery Mildew,240,190,240,24.1,43,3
+Powdery Mildew,241,191,241,24.2,44,3
+Powdery Mildew,242,192,242,24.3,45,3
+Powdery Mildew,243,193,243,24.4,46,3
+Powdery Mildew,244,194,244,24.5,47,3
+Powdery Mildew,245,195,245,24.6,48,3
+Powdery Mildew,246,196,246,24.7,49,3
+Powdery Mildew,247,197,247,24.8,50,3
+Powdery Mildew,248,198,248,24.9,40,3
+Powdery Mildew,249,199,249,25,41,3
+Bacterial Wilt,200,150,200,20,40,3
+Bacterial Wilt,201,151,201,20.1,41,3
+Bacterial Wilt,202,152,202,20.2,42,3
+Bacterial Wilt,203,153,203,20.3,43,3
+Bacterial Wilt,204,154,204,20.4,44,3
+Bacterial Wilt,205,155,205,20.5,45,3
+Bacterial Wilt,206,156,206,20.6,46,3
+Bacterial Wilt,207,157,207,20.7,47,3
+Bacterial Wilt,208,158,208,20.8,48,3
+Bacterial Wilt,209,159,209,20.9,49,3
+Bacterial Wilt,210,160,210,21,50,3
+Bacterial Wilt,211,161,211,21.1,40,3
+Bacterial Wilt,212,162,212,21.2,41,3
+Bacterial Wilt,213,163,213,21.3,42,3
+Bacterial Wilt,214,164,214,21.4,43,3
+Bacterial Wilt,215,165,215,21.5,44,3
+Bacterial Wilt,216,166,216,21.6,45,3
+Bacterial Wilt,217,167,217,21.7,46,3
+Bacterial Wilt,218,168,218,21.8,47,3
+Bacterial Wilt,219,169,219,21.9,48,3
+Bacterial Wilt,220,170,220,22,49,3
+Bacterial Wilt,221,171,221,22.1,50,3
+Bacterial Wilt,222,172,222,22.2,40,3
+Bacterial Wilt,223,173,223,22.3,41,3
+Bacterial Wilt,224,174,224,22.4,42,3
+Bacterial Wilt,225,175,225,22.5,43,3
+Bacterial Wilt,226,176,226,22.6,44,3
+Bacterial Wilt,227,177,227,22.7,45,3
+Bacterial Wilt,228,178,228,22.8,46,3
+Bacterial Wilt,229,179,229,22.9,47,3
+Bacterial Wilt,230,180,230,23,48,3
+Bacterial Wilt,231,181,231,23.1,49,3
+Bacterial Wilt,232,182,232,23.2,50,3
+Bacterial Wilt,233,183,233,23.3,40,3
+Bacterial Wilt,234,184,234,23.4,41,3
+Bacterial Wilt,235,185,235,23.5,42,3
+Bacterial Wilt,236,186,236,23.6,43,3
+Bacterial Wilt,237,187,237,23.7,44,3
+Bacterial Wilt,238,188,238,23.8,45,3
+Bacterial Wilt,239,189,239,23.9,46,3
+Bacterial Wilt,240,190,240,24,47,3
+Bacterial Wilt,241,191,241,24.1,48,3
+Bacterial Wilt,242,192,242,24.2,49,3
+Bacterial Wilt,243,193,243,24.3,50,3
+Bacterial Wilt,244,194,244,24.4,40,3
+Bacterial Wilt,245,195,245,24.5,41,3
+Bacterial Wilt,246,196,246,24.6,42,3
+Bacterial Wilt,247,197,247,24.7,43,3
+Bacterial Wilt,248,198,248,24.8,44,3
+Bacterial Wilt,249,199,249,24.9,45,3
+Bacterial Wilt,250,200,250,25,46,3
+Bacterial Wilt,200,150,200,25.1,47,3
+Bacterial Wilt,201,151,201,25.2,48,3
+Bacterial Wilt,202,152,202,25.3,49,3
+Bacterial Wilt,203,153,203,25.4,50,3
+Bacterial Wilt,204,154,204,25.5,40,3
+Bacterial Wilt,205,155,205,25.6,41,3
+Bacterial Wilt,206,156,206,25.7,42,3
+Bacterial Wilt,207,157,207,25.8,43,3
+Bacterial Wilt,208,158,208,25.9,44,3
+Bacterial Wilt,209,159,209,26,45,3
+Bacterial Wilt,210,160,210,26.1,46,3
+Bacterial Wilt,211,161,211,26.2,47,3
+Bacterial Wilt,212,162,212,26.3,48,3
+Bacterial Wilt,213,163,213,26.4,49,3
+Bacterial Wilt,214,164,214,26.5,50,3
+Bacterial Wilt,215,165,215,26.6,40,3
+Bacterial Wilt,216,166,216,26.7,41,3
+Bacterial Wilt,217,167,217,26.8,42,3
+Bacterial Wilt,218,168,218,26.9,43,3
+Bacterial Wilt,219,169,219,27,44,3
+Bacterial Wilt,220,170,220,27.1,45,3
+Bacterial Wilt,221,171,221,27.2,46,3
+Bacterial Wilt,222,172,222,27.3,47,3
+Bacterial Wilt,223,173,223,27.4,48,3
+Bacterial Wilt,224,174,224,27.5,49,3
+Bacterial Wilt,225,175,225,27.6,50,3
+Bacterial Wilt,226,176,226,27.7,40,3
+Bacterial Wilt,227,177,227,27.8,41,3
+Bacterial Wilt,228,178,228,27.9,42,3
+Bacterial Wilt,229,179,229,28,43,3
+Bacterial Wilt,230,180,230,28.1,44,3
+Bacterial Wilt,231,181,231,28.2,45,3
+Bacterial Wilt,232,182,232,28.3,46,3
+Bacterial Wilt,233,183,233,28.4,47,3
+Bacterial Wilt,234,184,234,28.5,48,3
+Bacterial Wilt,235,185,235,28.6,49,3
+Bacterial Wilt,236,186,236,28.7,50,3
+Bacterial Wilt,237,187,237,28.8,40,3
+Bacterial Wilt,238,188,238,28.9,41,3
+Bacterial Wilt,239,189,239,29,42,3
+Bacterial Wilt,240,190,240,29.1,43,3
+Bacterial Wilt,241,191,241,29.2,44,3
+Bacterial Wilt,242,192,242,29.3,45,3
+Bacterial Wilt,243,193,243,29.4,46,3
+Bacterial Wilt,244,194,244,29.5,47,3
+Bacterial Wilt,245,195,245,29.6,48,3
+Bacterial Wilt,246,196,246,29.7,49,3
+Bacterial Wilt,247,197,247,29.8,50,3
+Bacterial Wilt,248,198,248,29.9,40,3
+Bacterial Wilt,249,199,249,30,41,3
+Rust Disease,200,150,200,15,40,3
+Rust Disease,201,151,201,15.1,41,3
+Rust Disease,202,152,202,15.2,42,3
+Rust Disease,203,153,203,15.3,43,3
+Rust Disease,204,154,204,15.4,44,3
+Rust Disease,205,155,205,15.5,45,3
+Rust Disease,206,156,206,15.6,46,3
+Rust Disease,207,157,207,15.7,47,3
+Rust Disease,208,158,208,15.8,48,3
+Rust Disease,209,159,209,15.9,49,3
+Rust Disease,210,160,210,16,50,3
+Rust Disease,211,161,211,16.1,40,3
+Rust Disease,212,162,212,16.2,41,3
+Rust Disease,213,163,213,16.3,42,3
+Rust Disease,214,164,214,16.4,43,3
+Rust Disease,215,165,215,16.5,44,3
+Rust Disease,216,166,216,16.6,45,3
+Rust Disease,217,167,217,16.7,46,3
+Rust Disease,218,168,218,16.8,47,3
+Rust Disease,219,169,219,16.9,48,3
+Rust Disease,220,170,220,17,49,3
+Rust Disease,221,171,221,17.1,50,3
+Rust Disease,222,172,222,17.2,40,3
+Rust Disease,223,173,223,17.3,41,3
+Rust Disease,224,174,224,17.4,42,3
+Rust Disease,225,175,225,17.5,43,3
+Rust Disease,226,176,226,17.6,44,3
+Rust Disease,227,177,227,17.7,45,3
+Rust Disease,228,178,228,17.8,46,3
+Rust Disease,229,179,229,17.9,47,3
+Rust Disease,230,180,230,18,48,3
+Rust Disease,231,181,231,18.1,49,3
+Rust Disease,232,182,232,18.2,50,3
+Rust Disease,233,183,233,18.3,40,3
+Rust Disease,234,184,234,18.4,41,3
+Rust Disease,235,185,235,18.5,42,3
+Rust Disease,236,186,236,18.6,43,3
+Rust Disease,237,187,237,18.7,44,3
+Rust Disease,238,188,238,18.8,45,3
+Rust Disease,239,189,239,18.9,46,3
+Rust Disease,240,190,240,19,47,3
+Rust Disease,241,191,241,19.1,48,3
+Rust Disease,242,192,242,19.2,49,3
+Rust Disease,243,193,243,19.3,50,3
+Rust Disease,244,194,244,19.4,40,3
+Rust Disease,245,195,245,19.5,41,3
+Rust Disease,246,196,246,19.6,42,3
+Rust Disease,247,197,247,19.7,43,3
+Rust Disease,248,198,248,19.8,44,3
+Rust Disease,249,199,249,19.9,45,3
+Rust Disease,250,200,250,20,46,3
+Rust Disease,200,150,200,20.1,47,3
+Rust Disease,201,151,201,20.2,48,3
+Rust Disease,202,152,202,20.3,49,3
+Rust Disease,203,153,203,20.4,50,3
+Rust Disease,204,154,204,20.5,40,3
+Rust Disease,205,155,205,20.6,41,3
+Rust Disease,206,156,206,20.7,42,3
+Rust Disease,207,157,207,20.8,43,3
+Rust Disease,208,158,208,20.9,44,3
+Rust Disease,209,159,209,21,45,3
+Rust Disease,210,160,210,21.1,46,3
+Rust Disease,211,161,211,21.2,47,3
+Rust Disease,212,162,212,21.3,48,3
+Rust Disease,213,163,213,21.4,49,3
+Rust Disease,214,164,214,21.5,50,3
+Rust Disease,215,165,215,21.6,40,3
+Rust Disease,216,166,216,21.7,41,3
+Rust Disease,217,167,217,21.8,42,3
+Rust Disease,218,168,218,21.9,43,3
+Rust Disease,219,169,219,22,44,3
+Rust Disease,220,170,220,22.1,45,3
+Rust Disease,221,171,221,22.2,46,3
+Rust Disease,222,172,222,22.3,47,3
+Rust Disease,223,173,223,22.4,48,3
+Rust Disease,224,174,224,22.5,49,3
+Rust Disease,225,175,225,22.6,50,3
+Rust Disease,226,176,226,22.7,40,3
+Rust Disease,227,177,227,22.8,41,3
+Rust Disease,228,178,228,22.9,42,3
+Rust Disease,229,179,229,23,43,3
+Rust Disease,230,180,230,23.1,44,3
+Rust Disease,231,181,231,23.2,45,3
+Rust Disease,232,182,232,23.3,46,3
+Rust Disease,233,183,233,23.4,47,3
+Rust Disease,234,184,234,23.5,48,3
+Rust Disease,235,185,235,23.6,49,3
+Rust Disease,236,186,236,23.7,50,3
+Rust Disease,237,187,237,23.8,40,3
+Rust Disease,238,188,238,23.9,41,3
+Rust Disease,239,189,239,24,42,3
+Rust Disease,240,190,240,24.1,43,3
+Rust Disease,241,191,241,24.2,44,3
+Rust Disease,242,192,242,24.3,45,3
+Rust Disease,243,193,243,24.4,46,3
+Rust Disease,244,194,244,24.5,47,3
+Rust Disease,245,195,245,24.6,48,3
+Rust Disease,246,196,246,24.7,49,3
+Rust Disease,247,197,247,24.8,50,3
+Rust Disease,248,198,248,24.9,40,3
+Rust Disease,249,199,249,25,41,3
+Cercospora Leaf Blight,200,150,200,20,40,3
+Cercospora Leaf Blight,201,151,201,20.1,41,3
+Cercospora Leaf Blight,202,152,202,20.2,42,3
+Cercospora Leaf Blight,203,153,203,20.3,43,3
+Cercospora Leaf Blight,204,154,204,20.4,44,3
+Cercospora Leaf Blight,205,155,205,20.5,45,3
+Cercospora Leaf Blight,206,156,206,20.6,46,3
+Cercospora Leaf Blight,207,157,207,20.7,47,3
+Cercospora Leaf Blight,208,158,208,20.8,48,3
+Cercospora Leaf Blight,209,159,209,20.9,49,3
+Cercospora Leaf Blight,210,160,210,21,50,3
+Cercospora Leaf Blight,211,161,211,21.1,40,3
+Cercospora Leaf Blight,212,162,212,21.2,41,3
+Cercospora Leaf Blight,213,163,213,21.3,42,3
+Cercospora Leaf Blight,214,164,214,21.4,43,3
+Cercospora Leaf Blight,215,165,215,21.5,44,3
+Cercospora Leaf Blight,216,166,216,21.6,45,3
+Cercospora Leaf Blight,217,167,217,21.7,46,3
+Cercospora Leaf Blight,218,168,218,21.8,47,3
+Cercospora Leaf Blight,219,169,219,21.9,48,3
+Cercospora Leaf Blight,220,170,220,22,49,3
+Cercospora Leaf Blight,221,171,221,22.1,50,3
+Cercospora Leaf Blight,222,172,222,22.2,40,3
+Cercospora Leaf Blight,223,173,223,22.3,41,3
+Cercospora Leaf Blight,224,174,224,22.4,42,3
+Cercospora Leaf Blight,225,175,225,22.5,43,3
+Cercospora Leaf Blight,226,176,226,22.6,44,3
+Cercospora Leaf Blight,227,177,227,22.7,45,3
+Cercospora Leaf Blight,228,178,228,22.8,46,3
+Cercospora Leaf Blight,229,179,229,22.9,47,3
+Cercospora Leaf Blight,230,180,230,23,48,3
+Cercospora Leaf Blight,231,181,231,23.1,49,3
+Cercospora Leaf Blight,232,182,232,23.2,50,3
+Cercospora Leaf Blight,233,183,233,23.3,40,3
+Cercospora Leaf Blight,234,184,234,23.4,41,3
+Cercospora Leaf Blight,235,185,235,23.5,42,3
+Cercospora Leaf Blight,236,186,236,23.6,43,3
+Cercospora Leaf Blight,237,187,237,23.7,44,3
+Cercospora Leaf Blight,238,188,238,23.8,45,3
+Cercospora Leaf Blight,239,189,239,23.9,46,3
+Cercospora Leaf Blight,240,190,240,24,47,3
+Cercospora Leaf Blight,241,191,241,24.1,48,3
+Cercospora Leaf Blight,242,192,242,24.2,49,3
+Cercospora Leaf Blight,243,193,243,24.3,50,3
+Cercospora Leaf Blight,244,194,244,24.4,40,3
+Cercospora Leaf Blight,245,195,245,24.5,41,3
+Cercospora Leaf Blight,246,196,246,24.6,42,3
+Cercospora Leaf Blight,247,197,247,24.7,43,3
+Cercospora Leaf Blight,248,198,248,24.8,44,3
+Cercospora Leaf Blight,249,199,249,24.9,45,3
+Cercospora Leaf Blight,250,200,250,25,46,3
+Cercospora Leaf Blight,200,150,200,25.1,47,3
+Cercospora Leaf Blight,201,151,201,25.2,48,3
+Cercospora Leaf Blight,202,152,202,25.3,49,3
+Cercospora Leaf Blight,203,153,203,25.4,50,3
+Cercospora Leaf Blight,204,154,204,25.5,40,3
+Cercospora Leaf Blight,205,155,205,25.6,41,3
+Cercospora Leaf Blight,206,156,206,25.7,42,3
+Cercospora Leaf Blight,207,157,207,25.8,43,3
+Cercospora Leaf Blight,208,158,208,25.9,44,3
+Cercospora Leaf Blight,209,159,209,26,45,3
+Cercospora Leaf Blight,210,160,210,26.1,46,3
+Cercospora Leaf Blight,211,161,211,26.2,47,3
+Cercospora Leaf Blight,212,162,212,26.3,48,3
+Cercospora Leaf Blight,213,163,213,26.4,49,3
+Cercospora Leaf Blight,214,164,214,26.5,50,3
+Cercospora Leaf Blight,215,165,215,26.6,40,3
+Cercospora Leaf Blight,216,166,216,26.7,41,3
+Cercospora Leaf Blight,217,167,217,26.8,42,3
+Cercospora Leaf Blight,218,168,218,26.9,43,3
+Cercospora Leaf Blight,219,169,219,27,44,3
+Cercospora Leaf Blight,220,170,220,27.1,45,3
+Cercospora Leaf Blight,221,171,221,27.2,46,3
+Cercospora Leaf Blight,222,172,222,27.3,47,3
+Cercospora Leaf Blight,223,173,223,27.4,48,3
+Cercospora Leaf Blight,224,174,224,27.5,49,3
+Cercospora Leaf Blight,225,175,225,27.6,50,3
+Cercospora Leaf Blight,226,176,226,27.7,40,3
+Cercospora Leaf Blight,227,177,227,27.8,41,3
+Cercospora Leaf Blight,228,178,228,27.9,42,3
+Cercospora Leaf Blight,229,179,229,28,43,3
+Cercospora Leaf Blight,230,180,230,28.1,44,3
+Cercospora Leaf Blight,231,181,231,28.2,45,3
+Cercospora Leaf Blight,232,182,232,28.3,46,3
+Cercospora Leaf Blight,233,183,233,28.4,47,3
+Cercospora Leaf Blight,234,184,234,28.5,48,3
+Cercospora Leaf Blight,235,185,235,28.6,49,3
+Cercospora Leaf Blight,236,186,236,28.7,50,3
+Cercospora Leaf Blight,237,187,237,28.8,40,3
+Cercospora Leaf Blight,238,188,238,28.9,41,3
+Cercospora Leaf Blight,239,189,239,29,42,3
+Cercospora Leaf Blight,240,190,240,29.1,43,3
+Cercospora Leaf Blight,241,191,241,29.2,44,3
+Cercospora Leaf Blight,242,192,242,29.3,45,3
+Cercospora Leaf Blight,243,193,243,29.4,46,3
+Cercospora Leaf Blight,244,194,244,29.5,47,3
+Cercospora Leaf Blight,245,195,245,29.6,48,3
+Cercospora Leaf Blight,246,196,246,29.7,49,3
+Cercospora Leaf Blight,247,197,247,29.8,50,3
+Cercospora Leaf Blight,248,198,248,29.9,40,3
+Cercospora Leaf Blight,249,199,249,30,41,3
+Leaf Spot,50,25,50,35,70,3
+Leaf Spot,50,25,50,65,70,3
+Leaf Spot,40,20,40,20,70,3
+Leaf Spot,40,20,40,20,95,3
+Leaf Spot,50,25,50,35,70,3
+Dieback,50,25,50,35,70,3
+Root Rot,50,25,50,35,70,3
+Root Rot,50,25,50,35,50,3
+Nutrient Deficiency,0,0,0,35,70,3
+Nutrient Deficiency,50,25,25,35,70,3
+Nutrient Deficiency,50,50,25,35,70,3
+Nutrient Deficiency,25,25,25,35,50,3
+Nutrient Deficiency,50,25,25,35,50,3
+Nutrient Deficiency,50,50,25,35,50,3
+Salinity Stress,50,25,50,35,70,3
+Salinity Stress,25,25,25,35,50,3
+Waterlogging,50,25,50,35,70,3
+Waterlogging,50,25,50,35,50,3
+Waterlogging,50,25,50,35,80,3
+Powdery Mildew,50,25,50,35,70,3
+Powdery Mildew,50,25,50,60,70,3
+Powdery Mildew,50,25,50,35,100,3
+Powdery Mildew,50,25,50,35,50,3
+Bacterial Wilt,50,25,50,35,70,3
+Bacterial Wilt,50,25,50,35,85,3
+Canker Diseases,50,25,50,35,70,3
+Canker Diseases,50,25,50,35,50,3
+Canker Diseases,50,25,50,35,70,3
+Nematode Infestations,50,25,50,35,70,3
+Nematode Infestations,50,25,50,85,70,3
+Nematode Infestations,50,25,50,85,70,3
+Rust Disease,50,25,50,85,70,3
+Rust Disease,50,25,50,30,70,3
+Rust Disease,50,25,50,30,50,3
+Rust Disease,50,25,50,30,90,3
+Cercospora Leaf Blight,50,25,50,35,70,3
+Cercospora Leaf Blight,50,25,50,30,70,3
+Cercospora Leaf Blight,50,25,50,85,70,3
+Cercospora Leaf Blight,50,25,50,35,70,3
